@@ -1,6 +1,32 @@
 
 
 
+#EXTM3U
+
+#EXTINF:-1,4seven HD
+
+http://207.180.233.49:5001/live/Errol/Errol/38898.m3u8
+
+#EXTINF:-1,Alibi FHD
+
+http://207.180.233.49:5001/live/Errol/Errol/84874.m3u8
+
+#EXTINF:-1,Alibi HD
+
+http://207.180.233.49:5001/live/Errol/Errol/171.m3u8
+
+#EXTINF:-1,Animal Planet
+
+http://207.180.233.49:5001/live/Errol/Errol/159.m3u8
+
+#EXTINF:-1,Animal Planet FHD
+
+http://207.180.233.49:5001/live/Errol/Errol/84861.m3u8
+
+#EXTINF:-1,At The Races
+
+http://207.180.233.49:5001/live/Errol/Errol/216.m3u8
+
 
 
 #EXTINF:-1,===== DE SPORT =====
