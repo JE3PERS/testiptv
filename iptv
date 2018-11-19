@@ -1,4 +1,16 @@
 
+#EXTM3U
+#EXTINF:-1,UK FHD : SKY SPORTS ACTION FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84829.m3u8
+#EXTINF:-1,UK FHD : SKY SPORTS ARENA FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84828.m3u8
+#EXTINF:-1,UK FHD : SKY SPORTS CRICKET FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84827.m3u8
+#EXTINF:-1,UK FHD : SKY SPORTS F1 FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84826.ts
+#EXTINF:-1,UK FHD : Sky SPORTS FOOTBALL FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84825.ts
+#EXTM3U
 
 tart playing live stream channels. You can use other iptv supported players as well as per your convenience.
 
