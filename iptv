@@ -6,6 +6,15 @@ http://vmdirect.co.uk:5001/live/Errol/Errol/84829.m3u8
 http://vmdirect.co.uk:5001/live/Errol/Errol/84828.m3u8
 #EXTINF:-1,UK FHD : SKY SPORTS CRICKET FHD
 http://vmdirect.co.uk:5001/live/Errol/Errol/84827.m3u8
+
+
+#EXTINF:-1,BT Sport Extra 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/79.ts
+
+
+
+
+#EXTM3U
 #EXTINF:-1,UK FHD : SKY SPORTS F1 FHD
 http://vmdirect.co.uk:5001/live/Errol/Errol/84826.ts
 #EXTINF:-1,UK FHD : Sky SPORTS FOOTBALL FHD
