@@ -2395,7 +2395,8 @@ http://sesat.tk:25461/live/hakkom1977/79872232/18345.ts
 
 #EXTM3U
 #EXTINF:-1,ITV Central West FHD 1080*
-http://vmdirect.co.uk:5001/live/Errol/Errol/28433.ts
+=m3u8
+http://vmdirect.co.uk:5001/live/Errol/Errol/28433.ts&output
 #EXTINF:-1,ITV London FHD 1080*
 http://vmdirect.co.uk:5001/live/Errol/Errol/28431.ts
 #EXTINF:-1,ITV Meridian East FHD 1080*
