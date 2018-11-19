@@ -1,3 +1,1640 @@
+
+#EXTM3U
+#EXTINF:-1,ITV Central West FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28433.ts
+#EXTINF:-1,ITV London FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28431.ts
+#EXTINF:-1,ITV Meridian East FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28430.ts
+#EXTINF:-1,ITV Westcountry South West FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28427.ts
+#EXTINF:-1,ITV Yorkshire West FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28425.ts
+#EXTINF:-1,ITV HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10547.ts
+#EXTINF:-1,ITV2 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10546.ts
+#EXTINF:-1,ITV3 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10545.ts
+#EXTINF:-1,ITV4 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10544.ts
+#EXTINF:-1,BBC FOUR HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10554.ts
+#EXTINF:-1,BBC NEWS HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10553.ts
+#EXTINF:-1,BBC1 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10552.ts
+#EXTINF:-1,BBC2 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10551.ts
+#EXTINF:-1,UK FHD : GOOD FOOD FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84877.ts
+#EXTINF:-1,UK FHD : ALIBI FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84874.ts
+#EXTINF:-1,UK FHD : DAVE FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84875.ts
+#EXTINF:-1,LIFETIME FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84881.ts
+#EXTINF:-1,QUEST FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84884.ts
+#EXTINF:-1,UK FHD : COMEDY CENTRAL FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84876.ts
+#EXTINF:-1,UK FHD : FOX FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84873.ts
+#EXTINF:-1,SKY ONE FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84886.ts
+#EXTINF:-1,UK FHD : SKY ARTS FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84878.ts
+#EXTINF:-1,UK FHD : SKY ATLANTIC HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84867.ts
+#EXTINF:-1,UK FHD : SKY WITNESS FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84872.ts
+#EXTINF:-1,UK FHD : SYFY FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84871.ts
+#EXTINF:-1,UK FHD : TLC FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84868.ts
+#EXTINF:-1,UK FHD : GOLD FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84866.ts
+#EXTINF:-1,UK FHD : UNIVERSAL FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84870.ts
+#EXTINF:-1,PARAMOUNT FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84883.ts
+#EXTINF:-1,UK FHD : WATCH FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84869.ts
+#EXTINF:-1,Channel 4 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10550.ts
+#EXTINF:-1,Channel 5 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10549.ts
+#EXTINF:-1,E4 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10548.ts
+#EXTINF:-1,More4 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10543.ts
+#EXTINF:-1,UK :sky 1 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10586.ts
+#EXTINF:-1,UK :Watch HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10582.ts
+#EXTINF:-1,UK: Sky Atlantic HD1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10589.ts
+#EXTINF:-1,UK: Sky Living HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10588.ts
+#EXTINF:-1,UK :Universal Channel HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10583.ts
+#EXTINF:-1,UK :SYFY HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10585.ts
+#EXTINF:-1,UK: Sky Arts FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10590.ts
+#EXTINF:-1,UK:FOX HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10601.ts
+#EXTINF:-1,UK: LifeTime HD1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10600.ts
+#EXTINF:-1,UK: Alibi HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10605.ts
+#EXTINF:-1,UK: Comedy Centeral HD1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10604.ts
+#EXTINF:-1,UK: Dave HD1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10603.ts
+#EXTINF:-1,UK: Good Food HD1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10602.ts
+#EXTINF:-1,UK: CBBC FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/23887.ts
+#EXTINF:-1,UK :TLC FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/17068.ts
+#EXTINF:-1,BBC Four FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28441.ts
+#EXTINF:-1,BBC NEWS FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28440.ts
+#EXTINF:-1,BBC One FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28439.ts
+#EXTINF:-1,BBC Two FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28435.ts
+#EXTINF:-1,CBBC FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28434.ts
+#EXTINF:-1,UK: STV FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/29262.ts
+#EXTINF:-1,4 SevenHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/38898.ts
+#EXTINF:-1,UK BBC 1 hd
+http://vmdirect.co.uk:5001/live/Errol/Errol/1368.ts
+#EXTINF:-1,UK BBC 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/1367.ts
+#EXTINF:-1,UK BBC 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/1366.ts
+#EXTINF:-1,UK BBC 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/1365.ts
+#EXTINF:-1,UK ITV
+http://vmdirect.co.uk:5001/live/Errol/Errol/1364.ts
+#EXTINF:-1,UK ITV 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/1363.ts
+#EXTINF:-1,UK ITV 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/1362.ts
+#EXTINF:-1,UK ITV 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/1361.ts
+#EXTINF:-1,UK CHANNEL 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/1339.ts
+#EXTINF:-1,UK CHANNEL 5
+http://vmdirect.co.uk:5001/live/Errol/Errol/1340.ts
+#EXTINF:-1,RTE 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/214.ts
+#EXTINF:-1,RTE 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/215.ts
+#EXTINF:-1,TV3
+http://vmdirect.co.uk:5001/live/Errol/Errol/45.ts
+#EXTINF:-1,RTE One HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/206.ts
+#EXTINF:-1,RTE Two HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/205.ts
+#EXTINF:-1,3E IRELAND
+http://vmdirect.co.uk:5001/live/Errol/Errol/204.ts
+#EXTINF:-1,3E Ireland FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/28270.ts
+#EXTINF:-1,Be 3 FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/6111.ts
+#EXTINF:-1,UTV CHANNEL
+http://vmdirect.co.uk:5001/live/Errol/Errol/202.ts
+#EXTINF:-1,TLC
+http://vmdirect.co.uk:5001/live/Errol/Errol/169.ts
+#EXTINF:-1,SyFy USA
+http://vmdirect.co.uk:5001/live/Errol/Errol/3332.ts
+#EXTINF:-1,sky living HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/3321.ts
+#EXTINF:-1,5 star
+http://vmdirect.co.uk:5001/live/Errol/Errol/193.ts
+#EXTINF:-1,Alibi
+http://vmdirect.co.uk:5001/live/Errol/Errol/171.ts
+#EXTINF:-1,Comedy Central
+http://vmdirect.co.uk:5001/live/Errol/Errol/180.ts
+#EXTINF:-1,Comedy Xtra
+http://vmdirect.co.uk:5001/live/Errol/Errol/179.ts
+#EXTINF:-1,Dave
+http://vmdirect.co.uk:5001/live/Errol/Errol/177.ts
+#EXTINF:-1,Dave Ja Vu
+http://vmdirect.co.uk:5001/live/Errol/Errol/13.ts
+#EXTINF:-1,E!
+http://vmdirect.co.uk:5001/live/Errol/Errol/43.ts
+#EXTINF:-1,Five USA.
+http://vmdirect.co.uk:5001/live/Errol/Errol/191.ts
+#EXTINF:-1,Food Network
+http://vmdirect.co.uk:5001/live/Errol/Errol/170.ts
+#EXTINF:-1,FOX
+http://vmdirect.co.uk:5001/live/Errol/Errol/176.ts
+#EXTINF:-1,G.O.L.D.
+http://vmdirect.co.uk:5001/live/Errol/Errol/175.ts
+#EXTINF:-1,ITV Encore
+http://vmdirect.co.uk:5001/live/Errol/Errol/41.ts
+#EXTINF:-1,Lifetime HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/165.ts
+#EXTINF:-1,More 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/190.ts
+#EXTINF:-1,Sky 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/185.ts
+#EXTINF:-1,Sky 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/184.ts
+#EXTINF:-1,Sky Arts
+http://vmdirect.co.uk:5001/live/Errol/Errol/181.ts
+#EXTINF:-1,Sky Atlantic
+http://vmdirect.co.uk:5001/live/Errol/Errol/182.ts
+#EXTINF:-1,Sky Living
+http://vmdirect.co.uk:5001/live/Errol/Errol/183.ts
+#EXTINF:-1,Spike
+http://vmdirect.co.uk:5001/live/Errol/Errol/174.ts
+#EXTINF:-1,SyFy
+http://vmdirect.co.uk:5001/live/Errol/Errol/172.ts
+#EXTINF:-1,TG4
+http://vmdirect.co.uk:5001/live/Errol/Errol/203.ts
+#EXTINF:-1,True Entertainment
+http://vmdirect.co.uk:5001/live/Errol/Errol/164.ts
+#EXTINF:-1,Universal
+http://vmdirect.co.uk:5001/live/Errol/Errol/44.ts
+#EXTINF:-1,Watch
+http://vmdirect.co.uk:5001/live/Errol/Errol/173.ts
+#EXTINF:-1,UK E4
+http://vmdirect.co.uk:5001/live/Errol/Errol/1360.ts
+#EXTINF:-1,Real Lives
+http://vmdirect.co.uk:5001/live/Errol/Errol/187.ts
+#EXTINF:-1,Pick TV
+http://vmdirect.co.uk:5001/live/Errol/Errol/189.ts
+#EXTINF:-1,Yesterday
+http://vmdirect.co.uk:5001/live/Errol/Errol/188.ts
+#EXTINF:-1,Quest
+http://vmdirect.co.uk:5001/live/Errol/Errol/178.ts
+#EXTINF:-1,CBS Action
+http://vmdirect.co.uk:5001/live/Errol/Errol/167.ts
+#EXTINF:-1,CBS Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/166.ts
+#EXTINF:-1,CBS Reality
+http://vmdirect.co.uk:5001/live/Errol/Errol/168.ts
+#EXTINF:-1,UK TRUE DRAMA
+http://vmdirect.co.uk:5001/live/Errol/Errol/1346.ts
+#EXTINF:-1,UK TRUE MOVIES 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/1348.ts
+#EXTINF:-1,MTV
+http://vmdirect.co.uk:5001/live/Errol/Errol/66.ts
+#EXTINF:-1,UK: 5 STAR  1
+http://vmdirect.co.uk:5001/live/Errol/Errol/6459.ts
+#EXTINF:-1,UK: 5 USA  plus 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/6458.ts
+#EXTINF:-1,UK: AMC
+http://vmdirect.co.uk:5001/live/Errol/Errol/6457.ts
+#EXTINF:-1,CBS
+http://vmdirect.co.uk:5001/live/Errol/Errol/6409.ts
+#EXTINF:-1,UK: HORROR CHANNEL
+http://vmdirect.co.uk:5001/live/Errol/Errol/6452.ts
+#EXTINF:-1,UK: HORROR CHANNEL  1
+http://vmdirect.co.uk:5001/live/Errol/Errol/6451.ts
+#EXTINF:-1,UK: HORSE & COUNTRY
+http://vmdirect.co.uk:5001/live/Errol/Errol/6450.ts
+#EXTINF:-1,UK: Movies 24
+http://vmdirect.co.uk:5001/live/Errol/Errol/3923.ts
+#EXTINF:-1,UK: TRUE MOVIES
+http://vmdirect.co.uk:5001/live/Errol/Errol/6443.ts
+#EXTINF:-1,UK :ITV BE
+http://vmdirect.co.uk:5001/live/Errol/Errol/9683.ts
+#EXTINF:-1,UK: s4c Channel
+http://vmdirect.co.uk:5001/live/Errol/Errol/37908.ts
+#EXTINF:-1,UK FHD : TG 4 FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84853.ts
+#EXTINF:-1,UK FHD : UTV FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84852.ts
+#EXTINF:-1,UK FHD : RTE ONE HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84848.ts
+#EXTINF:-1,UK FHD : RTE TWO HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84847.ts
+#EXTINF:-1,UK :RTE 1 HD1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10596.ts
+#EXTINF:-1,RTE 2 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/38486.ts
+#EXTINF:-1,TG4 FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/38487.ts
+#EXTINF:-1,UK FHD : SKY CINEMA ACTION FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84846.ts
+#EXTINF:-1,UK FHD : SKY CINEMA ANIMATION FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84843.ts
+#EXTINF:-1,UK FHD : SKY CINEMA COMEDY FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84845.ts
+#EXTINF:-1,UK FHD : SKY CINEMA DISNEY FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84844.ts
+#EXTINF:-1,UK FHD : SKY CINEMA GREATS FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84842.ts
+#EXTINF:-1,UK FHD : SKY CINEMA PREMIER FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84841.ts
+#EXTINF:-1,UK FHD : SKY CINEMA SELECT FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84839.ts
+#EXTINF:-1,UK FHD : SKY CINEMA SCI-FI FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84840.ts
+#EXTINF:-1,UK FHD : SKY CINEMA THRILLER FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84838.ts
+#EXTINF:-1,SKY  DRAMA FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84880.ts
+#EXTINF:-1,Sky Cinema Action & Adventure HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10542.ts
+#EXTINF:-1,Sky Cinema Comedy HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10541.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10540.ts
+#EXTINF:-1,Sky Cinema Disney HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10539.ts
+#EXTINF:-1,Sky Cinema Drama & Romance HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10538.ts
+#EXTINF:-1,Sky Cinema Family HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10537.ts
+#EXTINF:-1,Sky Cinema Greats HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10536.ts
+#EXTINF:-1,Sky Cinema Hits HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10535.ts
+#EXTINF:-1,Sky Cinema Premiere HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10534.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10533.ts
+#EXTINF:-1,Sky Cinema Select HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10532.ts
+#EXTINF:-1,Sky Movies Premiere
+http://vmdirect.co.uk:5001/live/Errol/Errol/134.ts
+#EXTINF:-1,Sky Movies Premiere plus  1
+http://vmdirect.co.uk:5001/live/Errol/Errol/133.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/132.ts
+#EXTINF:-1,Sky Movies Action and Adventure
+http://vmdirect.co.uk:5001/live/Errol/Errol/117.ts
+#EXTINF:-1,Sky Movies Action and Adventure HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/116.ts
+#EXTINF:-1,Sky Movies Comedy
+http://vmdirect.co.uk:5001/live/Errol/Errol/119.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/118.ts
+#EXTINF:-1,Sky Movies Crime and Thriller
+http://vmdirect.co.uk:5001/live/Errol/Errol/131.ts
+#EXTINF:-1,Sky Movies Crime and Thriller HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/130.ts
+#EXTINF:-1,Sky Movies Disney
+http://vmdirect.co.uk:5001/live/Errol/Errol/123.ts
+#EXTINF:-1,Sky Movies Disney HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/122.ts
+#EXTINF:-1,Sky Movies Drama and Romance
+http://vmdirect.co.uk:5001/live/Errol/Errol/113.ts
+#EXTINF:-1,Sky Movies Drama and Romance HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/112.ts
+#EXTINF:-1,Sky Movies Family
+http://vmdirect.co.uk:5001/live/Errol/Errol/125.ts
+#EXTINF:-1,Sky Movies Family HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/124.ts
+#EXTINF:-1,Sky Movies Modern Greats
+http://vmdirect.co.uk:5001/live/Errol/Errol/127.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/126.ts
+#EXTINF:-1,Sky Movies Sci-Fi horror
+http://vmdirect.co.uk:5001/live/Errol/Errol/115.ts
+#EXTINF:-1,Sky Movies Sci-Fi Horror HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/114.ts
+#EXTINF:-1,Sky Movies Select
+http://vmdirect.co.uk:5001/live/Errol/Errol/121.ts
+#EXTINF:-1,Sky Movies Select HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/120.ts
+#EXTINF:-1,Sky Cinema Hits
+http://vmdirect.co.uk:5001/live/Errol/Errol/129.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/128.ts
+#EXTINF:-1,UK FILM 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/1342.ts
+#EXTINF:-1,Film4 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10555.ts
+#EXTINF:-1,Movies4Men
+http://vmdirect.co.uk:5001/live/Errol/Errol/107.ts
+#EXTINF:-1,UK FHD : TCM FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84837.ts
+#EXTINF:-1,TCM
+http://vmdirect.co.uk:5001/live/Errol/Errol/110.ts
+#EXTINF:-1,SKY HITS FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84887.ts
+#EXTINF:-1,MTV Base
+http://vmdirect.co.uk:5001/live/Errol/Errol/65.ts
+#EXTINF:-1,MTV Classic
+http://vmdirect.co.uk:5001/live/Errol/Errol/63.ts
+#EXTINF:-1,MTV Dance
+http://vmdirect.co.uk:5001/live/Errol/Errol/62.ts
+#EXTINF:-1,MTV Hits
+http://vmdirect.co.uk:5001/live/Errol/Errol/61.ts
+#EXTINF:-1,MTV MUSIC
+http://vmdirect.co.uk:5001/live/Errol/Errol/15.ts
+#EXTINF:-1,MTV Rocks
+http://vmdirect.co.uk:5001/live/Errol/Errol/60.ts
+#EXTINF:-1,vh1
+http://vmdirect.co.uk:5001/live/Errol/Errol/235.ts
+#EXTINF:-1,UK MAGIC
+http://vmdirect.co.uk:5001/live/Errol/Errol/1356.ts
+#EXTINF:-1,UK THE VAULT
+http://vmdirect.co.uk:5001/live/Errol/Errol/1357.ts
+#EXTINF:-1,THE FLAVA
+http://vmdirect.co.uk:5001/live/Errol/Errol/1359.ts
+#EXTINF:-1,UK: ROK
+http://vmdirect.co.uk:5001/live/Errol/Errol/6448.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING FLAT}
+http://vmdirect.co.uk:5001/live/Errol/Errol/84894.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING JUMPS}
+http://vmdirect.co.uk:5001/live/Errol/Errol/84893.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING SPRINT}
+http://vmdirect.co.uk:5001/live/Errol/Errol/84892.ts
+#EXTINF:-1,UK I PADDY POWER {GREYHOUNDS RACING}
+http://vmdirect.co.uk:5001/live/Errol/Errol/84888.ts
+#EXTINF:-1,UK I PADDY POWER  {MOTOR SPORTS}
+http://vmdirect.co.uk:5001/live/Errol/Errol/84891.ts
+#EXTINF:-1,UK :History HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10593.ts
+#EXTINF:-1,UK :Nat Geo Wild HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10592.ts
+#EXTINF:-1,UK: Discovery HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10598.ts
+#EXTINF:-1,UK: National Geographic HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10591.ts
+#EXTINF:-1,Uk :TCM HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10584.ts
+#EXTINF:-1,UK: Animal Planet FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/23881.ts
+#EXTINF:-1,UK: Eden HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10595.ts
+#EXTINF:-1,UK: H2 HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10594.ts
+#EXTINF:-1,UK: Nick FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/23878.ts
+#EXTINF:-1,UK: Sky New HD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/10587.ts
+#EXTINF:-1,UK: Cartoonnetwork FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/23886.ts
+#EXTINF:-1,UK: CBeebies FHD 1080*
+http://vmdirect.co.uk:5001/live/Errol/Errol/23880.ts
+#EXTINF:-1,Crime and Investigation HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/156.ts
+#EXTINF:-1,Disney Jr
+http://vmdirect.co.uk:5001/live/Errol/Errol/145.ts
+#EXTINF:-1,Disney XD
+http://vmdirect.co.uk:5001/live/Errol/Errol/147.ts
+#EXTINF:-1,Nicktoons
+http://vmdirect.co.uk:5001/live/Errol/Errol/136.ts
+#EXTINF:-1,Nickelodeon
+http://vmdirect.co.uk:5001/live/Errol/Errol/143.ts
+#EXTINF:-1,EURO NEWS
+http://vmdirect.co.uk:5001/live/Errol/Errol/68.ts
+#EXTINF:-1,UK :Sky News
+http://vmdirect.co.uk:5001/live/Errol/Errol/3924.ts
+#EXTINF:-1,UK BBC NEWS
+http://vmdirect.co.uk:5001/live/Errol/Errol/1369.ts
+#EXTINF:-1,RTE NEWS NOW
+http://vmdirect.co.uk:5001/live/Errol/Errol/14.ts
+#EXTINF:-1,Al Jazeera English
+http://vmdirect.co.uk:5001/live/Errol/Errol/69.ts
+#EXTINF:-1,UK CNN
+http://vmdirect.co.uk:5001/live/Errol/Errol/1372.ts
+#EXTINF:-1,UK CNBC EU
+http://vmdirect.co.uk:5001/live/Errol/Errol/1371.ts
+#EXTINF:-1,UK BLOOMBERG
+http://vmdirect.co.uk:5001/live/Errol/Errol/1370.ts
+#EXTINF:-1,UK FHD : ANIMAL PLANET FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84861.ts
+#EXTINF:-1,UK FHD : DISCOVERY FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84860.ts
+#EXTINF:-1,UK FHD : EDEN FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84859.ts
+#EXTINF:-1,UK FHD : H2 FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84858.ts
+#EXTINF:-1,UK FHD : HISTORY FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84855.ts
+#EXTINF:-1,UK FHD : NAT GEO FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84857.ts
+#EXTINF:-1,UK FHD : NAT GEO WILD FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84856.ts
+#EXTINF:-1,CRIME & INVESTIGATION FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84882.ts
+#EXTINF:-1,History
+http://vmdirect.co.uk:5001/live/Errol/Errol/162.ts
+#EXTINF:-1,History HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6120.ts
+#EXTINF:-1,ID
+http://vmdirect.co.uk:5001/live/Errol/Errol/154.ts
+#EXTINF:-1,Animal Planet
+http://vmdirect.co.uk:5001/live/Errol/Errol/159.ts
+#EXTINF:-1,Discovery HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/150.ts
+#EXTINF:-1,Discovery HD USA
+http://vmdirect.co.uk:5001/live/Errol/Errol/149.ts
+#EXTINF:-1,Discovery History
+http://vmdirect.co.uk:5001/live/Errol/Errol/151.ts
+#EXTINF:-1,Discovery Science
+http://vmdirect.co.uk:5001/live/Errol/Errol/157.ts
+#EXTINF:-1,Discovery Shed
+http://vmdirect.co.uk:5001/live/Errol/Errol/155.ts
+#EXTINF:-1,DiscoveryTurbo
+http://vmdirect.co.uk:5001/live/Errol/Errol/158.ts
+#EXTINF:-1,Eden
+http://vmdirect.co.uk:5001/live/Errol/Errol/160.ts
+#EXTINF:-1,H2
+http://vmdirect.co.uk:5001/live/Errol/Errol/153.ts
+#EXTINF:-1,Nat Geo Wild
+http://vmdirect.co.uk:5001/live/Errol/Errol/161.ts
+#EXTINF:-1,Home and Health
+http://vmdirect.co.uk:5001/live/Errol/Errol/152.ts
+#EXTINF:-1,National Geographic
+http://vmdirect.co.uk:5001/live/Errol/Errol/163.ts
+#EXTINF:-1,Discovery
+http://vmdirect.co.uk:5001/live/Errol/Errol/6123.ts
+#EXTINF:-1,Crime and Investigation
+http://vmdirect.co.uk:5001/live/Errol/Errol/6121.ts
+#EXTINF:-1,Animal Planet HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6124.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6119.ts
+#EXTINF:-1,National Geographic HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6118.ts
+#EXTINF:-1,DMAX
+http://vmdirect.co.uk:5001/live/Errol/Errol/42.ts
+#EXTINF:-1,Cartoon Network
+http://vmdirect.co.uk:5001/live/Errol/Errol/140.ts
+#EXTINF:-1,Cartoon Network HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6128.ts
+#EXTINF:-1,Cartoonito
+http://vmdirect.co.uk:5001/live/Errol/Errol/38.ts
+#EXTINF:-1,Disney Jr HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6125.ts
+#EXTINF:-1,Disney plus 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/219.ts
+#EXTINF:-1,Nick Jr
+http://vmdirect.co.uk:5001/live/Errol/Errol/138.ts
+#EXTINF:-1,Nick Jr HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6130.ts
+#EXTINF:-1,NICK JR TOO
+http://vmdirect.co.uk:5001/live/Errol/Errol/137.ts
+#EXTINF:-1,Nickelodeon HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6127.ts
+#EXTINF:-1,BabyTV
+http://vmdirect.co.uk:5001/live/Errol/Errol/37.ts
+#EXTINF:-1,CBeebies
+http://vmdirect.co.uk:5001/live/Errol/Errol/148.ts
+#EXTINF:-1,POP
+http://vmdirect.co.uk:5001/live/Errol/Errol/139.ts
+#EXTINF:-1,RTE JR
+http://vmdirect.co.uk:5001/live/Errol/Errol/141.ts
+#EXTINF:-1,Disney Channel
+http://vmdirect.co.uk:5001/live/Errol/Errol/144.ts
+#EXTINF:-1,Disney Channel HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6126.ts
+#EXTINF:-1,UK: CITV
+http://vmdirect.co.uk:5001/live/Errol/Errol/6456.ts
+#EXTINF:-1,UK: TINY POP
+http://vmdirect.co.uk:5001/live/Errol/Errol/6455.ts
+#EXTINF:-1,UK: CBBC
+http://vmdirect.co.uk:5001/live/Errol/Errol/6454.ts
+#EXTINF:-1,Boomerang
+http://vmdirect.co.uk:5001/live/Errol/Errol/135.ts
+#EXTINF:-1,UK FHD : CARTOON NETWORK FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84863.ts
+#EXTINF:-1,UK FHD : DISNEY JUNIOR HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84865.ts
+#EXTINF:-1,UK FHD : DISNEY XD HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84864.ts
+#EXTINF:-1,UK FHD : NICK FHD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84862.ts
+---------
+#EXTINF:-1,Uk- Sky 4 Music
+http://m-iptv.net:6204/marwan/123/8595
+#EXTINF:-1,Uk- Sky 5 USA
+http://m-iptv.net:6204/marwan/123/8594
+#EXTINF:-1,Uk- Sky Animal Planet HD
+http://m-iptv.net:6204/marwan/123/8593
+#EXTINF:-1,Uk- Sky Arts 1 HD
+http://m-iptv.net:6204/marwan/123/8592
+#EXTINF:-1,Uk- Sky Atlantic
+http://m-iptv.net:6204/marwan/123/8591
+#EXTINF:-1,Uk- Sky Baby
+http://m-iptv.net:6204/marwan/123/8590
+#EXTINF:-1,Uk- Sky BBC Four HD
+http://m-iptv.net:6204/marwan/123/8588
+#EXTINF:-1,UK- Sky BBC News
+http://m-iptv.net:6204/marwan/123/8589
+#EXTINF:-1,Uk- Sky BBC One HD
+http://m-iptv.net:6204/marwan/123/8587
+#EXTINF:-1,Uk- Sky BBC Three HD
+http://m-iptv.net:6204/marwan/123/8586
+#EXTINF:-1,Uk- Sky BBC Two HD
+http://m-iptv.net:6204/marwan/123/8585
+#EXTINF:-1,Uk- Sky Bloomberg HD
+http://m-iptv.net:6204/marwan/123/8584
+#EXTINF:-1,Uk- Sky BoxNation
+http://m-iptv.net:6204/marwan/123/8583
+#EXTINF:-1,Uk- Sky BT Sport 1 HD
+http://m-iptv.net:6204/marwan/123/8582
+#EXTINF:-1,Uk- Sky BT Sports Extra 1
+http://m-iptv.net:6204/marwan/123/8581
+#EXTINF:-1,Uk- Sky BT Sport 2 HD
+http://m-iptv.net:6204/marwan/123/8580
+#EXTINF:-1,Uk- Sky BT Sports Extra 2
+http://m-iptv.net:6204/marwan/123/8579
+#EXTINF:-1,Uk- Sky BT Sports Extra 3
+http://m-iptv.net:6204/marwan/123/8578
+#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
+http://m-iptv.net:6204/marwan/123/8577
+#EXTINF:-1,Uk- Sky Cartoon Network
+http://m-iptv.net:6204/marwan/123/8576
+#EXTINF:-1,Uk- Sky Cbs Action
+http://m-iptv.net:6204/marwan/123/8575
+#EXTINF:-1,Uk- Sky Cbs Drama
+http://m-iptv.net:6204/marwan/123/8574
+#EXTINF:-1,Uk- Sky CBS Reality
+http://m-iptv.net:6204/marwan/123/8573
+#EXTINF:-1,Uk- Sky Chelsea TV HD
+http://m-iptv.net:6204/marwan/123/8572
+#EXTINF:-1,Uk- Sky Ci
+http://m-iptv.net:6204/marwan/123/8571
+#EXTINF:-1,Uk- Sky Comedy Central
+http://m-iptv.net:6204/marwan/123/8569
+#EXTINF:-1,Uk- Sky Discovery
+http://m-iptv.net:6204/marwan/123/8568
+#EXTINF:-1,Uk- Sky Discovery History
+http://m-iptv.net:6204/marwan/123/8567
+#EXTINF:-1,Uk- Sky Discovery Science
+http://m-iptv.net:6204/marwan/123/8566
+#EXTINF:-1,Uk- Sky Discovery Shed
+http://m-iptv.net:6204/marwan/123/8565
+#EXTINF:-1,Uk- Sky Discovery Turbo
+http://m-iptv.net:6204/marwan/123/8564
+#EXTINF:-1,Uk- Sky Disney Chaneel HD
+http://m-iptv.net:6204/marwan/123/8563
+#EXTINF:-1,Uk- Sky Disney Junior HD
+http://m-iptv.net:6204/marwan/123/8562
+#EXTINF:-1,Uk- Sky Disney XD HD
+http://m-iptv.net:6204/marwan/123/8561
+#EXTINF:-1,Uk- Sky Eurosport 1 HD
+http://m-iptv.net:6204/marwan/123/8560
+#EXTINF:-1,Uk- Sky Eurosport 2 HD
+http://m-iptv.net:6204/marwan/123/8559
+#EXTINF:-1,Uk- Sky Food Network
+http://m-iptv.net:6204/marwan/123/8558
+#EXTINF:-1,Uk- Sky Gold
+http://m-iptv.net:6204/marwan/123/8557
+#EXTINF:-1,Uk- Sky Good Food HD
+http://m-iptv.net:6204/marwan/123/8556
+#EXTINF:-1,Uk- Sky History HD
+http://m-iptv.net:6204/marwan/123/8555
+#EXTINF:-1,Uk- Sky Home & Health
+http://m-iptv.net:6204/marwan/123/8554
+#EXTINF:-1,Uk- Sky Horse & Country
+http://m-iptv.net:6204/marwan/123/8553
+#EXTINF:-1,Uk- Sky ITV 1
+http://m-iptv.net:6204/marwan/123/8552
+#EXTINF:-1,Uk- Sky ITV 2
+http://m-iptv.net:6204/marwan/123/8551
+#EXTINF:-1,Uk- Sky ITV 3
+http://m-iptv.net:6204/marwan/123/8550
+#EXTINF:-1,Uk- Sky ITV 4
+http://m-iptv.net:6204/marwan/123/8549
+#EXTINF:-1,Uk- Sky 1
+http://m-iptv.net:6204/marwan/123/11120
+#EXTINF:-1,Uk- Sky 2
+http://m-iptv.net:6204/marwan/123/11119
+#EXTINF:-1,Uk- Sky Living HD
+http://m-iptv.net:6204/marwan/123/11116
+#EXTINF:-1,Uk- Sky Liverpool FC TV HD
+http://m-iptv.net:6204/marwan/123/8548
+#EXTINF:-1,Uk- Sky More 4 HD
+http://m-iptv.net:6204/marwan/123/8547
+#EXTINF:-1,Uk- Sky Movies 24
+http://m-iptv.net:6204/marwan/123/8546
+#EXTINF:-1,Uk- Sky Sports Box Office HD
+http://m-iptv.net:6204/marwan/123/11115
+#EXTINF:-1,Uk- Sky Movies Action HD
+http://m-iptv.net:6204/marwan/123/8545
+#EXTINF:-1,Uk- Sky Movies Crime
+http://m-iptv.net:6204/marwan/123/8543
+#EXTINF:-1,Uk- Sky Movies Disney
+http://m-iptv.net:6204/marwan/123/8542
+#EXTINF:-1,Uk- Sky Movies Drama HD
+http://m-iptv.net:6204/marwan/123/8541
+#EXTINF:-1,Uk- Sky Movies Family HD
+http://m-iptv.net:6204/marwan/123/8540
+#EXTINF:-1,Uk- Sky Movies Greats
+http://m-iptv.net:6204/marwan/123/8539
+#EXTINF:-1,Uk- Sky Movies Premiere HD
+http://m-iptv.net:6204/marwan/123/8538
+#EXTINF:-1,Uk- Sky Movies Select HD
+http://m-iptv.net:6204/marwan/123/8537
+#EXTINF:-1,Uk- Sky MUTV
+http://m-iptv.net:6204/marwan/123/8536
+#EXTINF:-1,Uk- Sky Nat Geo Wild HD
+http://m-iptv.net:6204/marwan/123/8535
+#EXTINF:-1,Uk- Sky National Geographic HD
+http://m-iptv.net:6204/marwan/123/8534
+#EXTINF:-1,UK- Sky News HD
+http://m-iptv.net:6204/marwan/123/8533
+#EXTINF:-1,Uk- Sky Nickelodeon
+http://m-iptv.net:6204/marwan/123/8532
+#EXTINF:-1,Uk- Sky Nickelodeon JR
+http://m-iptv.net:6204/marwan/123/8531
+#EXTINF:-1,Uk- Sky NickToons
+http://m-iptv.net:6204/marwan/123/8530
+#EXTINF:-1,Uk- Sky Quest
+http://m-iptv.net:6204/marwan/123/8529
+#EXTINF:-1,Uk- Sky Racing
+http://m-iptv.net:6204/marwan/123/8528
+#EXTINF:-1,Uk- Sky Really
+http://m-iptv.net:6204/marwan/123/8527
+#EXTINF:-1,Uk- Sky RTE One
+http://m-iptv.net:6204/marwan/123/8525
+#EXTINF:-1,Uk- Sky RTE Two
+http://m-iptv.net:6204/marwan/123/8524
+#EXTINF:-1,Uk- Sky Eir Sport 1
+http://m-iptv.net:6204/marwan/123/11118
+#EXTINF:-1,Uk- Sky Eir Sport 2
+http://m-iptv.net:6204/marwan/123/11117
+#EXTINF:-1,Uk- Sky YourTV HD
+http://m-iptv.net:6204/marwan/123/11114
+#EXTINF:-1,Uk- Sky Sport Football
+http://m-iptv.net:6204/marwan/123/8523
+#EXTINF:-1,Uk- Sky Sports Main Event HD
+http://m-iptv.net:6204/marwan/123/8517
+#EXTINF:-1,Uk- Sky Sports Cricket HD
+http://m-iptv.net:6204/marwan/123/8516
+#EXTINF:-1,Uk- Sky Sports Action HD
+http://m-iptv.net:6204/marwan/123/8515
+#EXTINF:-1,Uk- Sky Sports Golf HD
+http://m-iptv.net:6204/marwan/123/8514
+#EXTINF:-1,Uk- Sky Sports Premier League HD
+http://m-iptv.net:6204/marwan/123/8513
+#EXTINF:-1,Uk- Sky Sports F1 HD
+http://m-iptv.net:6204/marwan/123/8512
+#EXTINF:-1,Uk- Sky Sports F1 HD Backup S
+http://m-iptv.net:6204/marwan/123/11099
+#EXTINF:-1,Uk- Sky Sports MixHD
+http://m-iptv.net:6204/marwan/123/8511
+#EXTINF:-1,Uk- Sky Travel Channel
+http://m-iptv.net:6204/marwan/123/8508
+#EXTINF:-1,Uk- Sky True Movies 1
+http://m-iptv.net:6204/marwan/123/8510
+#EXTINF:-1,Uk- Sky True Movies 2
+http://m-iptv.net:6204/marwan/123/8509
+#EXTINF:-1,UK- Sky Sports Arena HD
+http://m-iptv.net:6204/marwan/123/9059
+#EXTINF:-1,Uk- Sky BT Sport 3 HD
+http://m-iptv.net:6204/marwan/123/10166
+---------
+#EXTINF:-1,--------UK --------
+http://rb-group-server.com:25461/12341234/12341234/3786
+#EXTINF:-1,BBC One
+http://rb-group-server.com:25461/12341234/12341234/3785
+#EXTINF:-1,BBC Two
+http://rb-group-server.com:25461/12341234/12341234/3783
+#EXTINF:-1,BBC Three
+http://rb-group-server.com:25461/12341234/12341234/3782
+#EXTINF:-1,BBC Four HD
+http://rb-group-server.com:25461/12341234/12341234/6034
+#EXTINF:-1,BBC World News
+http://rb-group-server.com:25461/12341234/12341234/3772
+#EXTINF:-1,BBC News UK
+http://rb-group-server.com:25461/12341234/12341234/3771
+#EXTINF:-1,BBC Alba
+http://rb-group-server.com:25461/12341234/12341234/6035
+#EXTINF:-1,CNBC
+http://rb-group-server.com:25461/12341234/12341234/3761
+#EXTINF:-1,CBBC HD
+http://rb-group-server.com:25461/12341234/12341234/3781
+#EXTINF:-1,Euronews UK
+http://rb-group-server.com:25461/12341234/12341234/3767
+#EXTINF:-1,ITV HD
+http://rb-group-server.com:25461/12341234/12341234/6032
+#EXTINF:-1,ITV 2
+http://rb-group-server.com:25461/12341234/12341234/6033
+#EXTINF:-1,ITV 3
+http://rb-group-server.com:25461/12341234/12341234/3780
+#EXTINF:-1,ITV 4
+http://rb-group-server.com:25461/12341234/12341234/3779
+#EXTINF:-1,ITV BE
+http://rb-group-server.com:25461/12341234/12341234/3778
+#EXTINF:-1,ITV Encore
+http://rb-group-server.com:25461/12341234/12341234/3777
+#EXTINF:-1,Channel 4
+http://rb-group-server.com:25461/12341234/12341234/3776
+#EXTINF:-1,Channel 5
+http://rb-group-server.com:25461/12341234/12341234/3775
+#EXTINF:-1,Channel 5 +1
+http://rb-group-server.com:25461/12341234/12341234/3760
+#EXTINF:-1,More 4
+http://rb-group-server.com:25461/12341234/12341234/3774
+#EXTINF:-1,E4
+http://rb-group-server.com:25461/12341234/12341234/3773
+#EXTINF:-1,RTE ONE HD
+http://rb-group-server.com:25461/12341234/12341234/3759
+#EXTINF:-1,Bloomberg
+http://rb-group-server.com:25461/12341234/12341234/3763
+#EXTINF:-1,FOX News
+http://rb-group-server.com:25461/12341234/12341234/3765
+#EXTINF:-1,CNN International
+http://rb-group-server.com:25461/12341234/12341234/3769
+#EXTINF:-1,CGTN News
+http://rb-group-server.com:25461/12341234/12341234/3764
+#EXTINF:-1,Gold
+http://rb-group-server.com:25461/12341234/12341234/4818
+#EXTINF:-1,Good Food
+http://rb-group-server.com:25461/12341234/12341234/4842
+#EXTINF:-1,Food Network
+http://rb-group-server.com:25461/12341234/12341234/3736
+#EXTINF:-1,TCM.
+http://rb-group-server.com:25461/12341234/12341234/3745
+#EXTINF:-1,CBS.Action
+http://rb-group-server.com:25461/12341234/12341234/3743
+#EXTINF:-1,CBS Drama
+http://rb-group-server.com:25461/12341234/12341234/3742
+#EXTINF:-1,CBS Reality
+http://rb-group-server.com:25461/12341234/12341234/4862
+#EXTINF:-1,Film4
+http://rb-group-server.com:25461/12341234/12341234/3744
+#EXTINF:-1,Comedy Central Extra
+http://rb-group-server.com:25461/12341234/12341234/4841
+#EXTINF:-1,Crime & Investigation
+http://rb-group-server.com:25461/12341234/12341234/4810
+#EXTINF:-1,Fox
+http://rb-group-server.com:25461/12341234/12341234/4838
+#EXTINF:-1,Movies24
+http://rb-group-server.com:25461/12341234/12341234/6036
+#EXTINF:-1,Movies4Men
+http://rb-group-server.com:25461/12341234/12341234/6037
+#EXTINF:-1,Sky Cinema Premier HD
+http://rb-group-server.com:25461/12341234/12341234/4852
+#EXTINF:-1,Sky Cinema Select HD
+http://rb-group-server.com:25461/12341234/12341234/4850
+#EXTINF:-1,Sky Cinema Action HD
+http://rb-group-server.com:25461/12341234/12341234/4853
+#EXTINF:-1,Sky Cinema Thriller HD
+http://rb-group-server.com:25461/12341234/12341234/4860
+#EXTINF:-1,Sky Cinema Scifi & Horror HD
+http://rb-group-server.com:25461/12341234/12341234/4858
+#EXTINF:-1,Sky Cinema Family HD
+http://rb-group-server.com:25461/12341234/12341234/4855
+#EXTINF:-1,Sky Cinema Comedy HD
+http://rb-group-server.com:25461/12341234/12341234/4859
+#EXTINF:-1,Sky Cinema Bourne HD
+http://rb-group-server.com:25461/12341234/12341234/4856
+#EXTINF:-1,Sky Cinema Christmas HD
+http://rb-group-server.com:25461/12341234/12341234/6039
+#EXTINF:-1,Sky Cinema Superhero HD
+http://rb-group-server.com:25461/12341234/12341234/6038
+#EXTINF:-1,Sky Cinema Greats
+http://rb-group-server.com:25461/12341234/12341234/4857
+#EXTINF:-1,Sky Cinema Disney HD
+http://rb-group-server.com:25461/12341234/12341234/4861
+#EXTINF:-1,Horror Channel
+http://rb-group-server.com:25461/12341234/12341234/3738
+#EXTINF:-1,Comedy Central
+http://rb-group-server.com:25461/12341234/12341234/3733
+#EXTINF:-1,Sky One
+http://rb-group-server.com:25461/12341234/12341234/4865
+#EXTINF:-1,Sky 2
+http://rb-group-server.com:25461/12341234/12341234/4864
+#EXTINF:-1,Sky Arts
+http://rb-group-server.com:25461/12341234/12341234/4863
+#EXTINF:-1,Sky.Atlantic
+http://rb-group-server.com:25461/12341234/12341234/4851
+#EXTINF:-1,Sky Living
+http://rb-group-server.com:25461/12341234/12341234/4854
+#EXTINF:-1,Capital TV
+http://rb-group-server.com:25461/12341234/12341234/4741
+#EXTINF:-1,Tru TV
+http://rb-group-server.com:25461/12341234/12341234/4840
+#EXTINF:-1,True Crime
+http://rb-group-server.com:25461/12341234/12341234/4844
+#EXTINF:-1,True Movies 1
+http://rb-group-server.com:25461/12341234/12341234/3741
+#EXTINF:-1,True Entertainment
+http://rb-group-server.com:25461/12341234/12341234/3739
+#EXTINF:-1,E!'
+http://rb-group-server.com:25461/12341234/12341234/4867
+#EXTINF:-1,STV Central West
+http://rb-group-server.com:25461/12341234/12341234/4820
+#EXTINF:-1,TG4
+http://rb-group-server.com:25461/12341234/12341234/4821
+#EXTINF:-1,The Vault
+http://rb-group-server.com:25461/12341234/12341234/4878
+#EXTINF:-1,Travel Channel
+http://rb-group-server.com:25461/12341234/12341234/4808
+#EXTINF:-1,Universal Channel
+http://rb-group-server.com:25461/12341234/12341234/4809
+#EXTINF:-1,Animal Planet.
+http://rb-group-server.com:25461/12341234/12341234/4804
+#EXTINF:-1,Discovery History
+http://rb-group-server.com:25461/12341234/12341234/4813
+#EXTINF:-1,Discovery.Investigation
+http://rb-group-server.com:25461/12341234/12341234/4812
+#EXTINF:-1,Discovery Shed
+http://rb-group-server.com:25461/12341234/12341234/4814
+#EXTINF:-1,Discovery Turbo
+http://rb-group-server.com:25461/12341234/12341234/4811
+#EXTINF:-1,National Geo.graphic
+http://rb-group-server.com:25461/12341234/12341234/4806
+#EXTINF:-1,National Geography Wild
+http://rb-group-server.com:25461/12341234/12341234/4807
+#EXTINF:-1,Quest
+http://rb-group-server.com:25461/12341234/12341234/3731
+#EXTINF:-1,Challenge
+http://rb-group-server.com:25461/12341234/12341234/4756
+#EXTINF:-1,Channel 3e
+http://rb-group-server.com:25461/12341234/12341234/4758
+#EXTINF:-1,Channel Aka
+http://rb-group-server.com:25461/12341234/12341234/4755
+#EXTINF:-1,Christmas Gold
+http://rb-group-server.com:25461/12341234/12341234/4848
+#EXTINF:-1,Hum Europe
+http://rb-group-server.com:25461/12341234/12341234/4798
+#EXTINF:-1,MUTV
+http://rb-group-server.com:25461/12341234/12341234/4769
+#EXTINF:-1,My 5
+http://rb-group-server.com:25461/12341234/12341234/4835
+#EXTINF:-1,NDTV 24x7
+http://rb-group-server.com:25461/12341234/12341234/4797
+#EXTINF:-1,NHK
+http://rb-group-server.com:25461/12341234/12341234/4739
+#EXTINF:-1,Pick
+http://rb-group-server.com:25461/12341234/12341234/4866
+#EXTINF:-1,Prime_TV
+http://rb-group-server.com:25461/12341234/12341234/4751
+#EXTINF:-1,Really
+http://rb-group-server.com:25461/12341234/12341234/4748
+#EXTINF:-1,Real Lives
+http://rb-group-server.com:25461/12341234/12341234/4826
+#EXTINF:-1,Rishtey
+http://rb-group-server.com:25461/12341234/12341234/4788
+#EXTINF:-1,RTE TWO HD
+http://rb-group-server.com:25461/12341234/12341234/4823
+#EXTINF:-1,Dmax UK
+http://rb-group-server.com:25461/12341234/12341234/3728
+#EXTINF:-1,Lifetime
+http://rb-group-server.com:25461/12341234/12341234/3737
+#EXTINF:-1,4Seven
+http://rb-group-server.com:25461/12341234/12341234/4837
+#EXTINF:-1,5 Star
+http://rb-group-server.com:25461/12341234/12341234/4831
+#EXTINF:-1,Alibi
+http://rb-group-server.com:25461/12341234/12341234/4839
+#EXTINF:-1,Scuzz
+http://rb-group-server.com:25461/12341234/12341234/4872
+#EXTINF:-1,MTV Dance
+http://rb-group-server.com:25461/12341234/12341234/4885
+#EXTINF:-1,MTV Hits
+http://rb-group-server.com:25461/12341234/12341234/4882
+#EXTINF:-1,MTV.Base
+http://rb-group-server.com:25461/12341234/12341234/4737
+#EXTINF:-1,MTV.
+http://rb-group-server.com:25461/12341234/12341234/3729
+#EXTINF:-1,VH1
+http://rb-group-server.com:25461/12341234/12341234/4877
+#EXTINF:-1,Box Nation
+http://rb-group-server.com:25461/12341234/12341234/4772
+#EXTINF:-1,Premier Sports
+http://rb-group-server.com:25461/12341234/12341234/4761
+#EXTINF:-1,Eurosport 1.
+http://rb-group-server.com:25461/12341234/12341234/4771
+#EXTINF:-1,Eurosport 2.
+http://rb-group-server.com:25461/12341234/12341234/4770
+#EXTINF:-1,Eir Sport1
+http://rb-group-server.com:25461/12341234/12341234/4765
+#EXTINF:-1,Eir Sport 2
+http://rb-group-server.com:25461/12341234/12341234/4740
+#EXTINF:-1,--------KIDS UK--------
+http://rb-group-server.com:25461/12341234/12341234/6251
+#EXTINF:-1,UK: RTE Jr
+http://rb-group-server.com:25461/12341234/12341234/3746
+#EXTINF:-1,UK: Nick.Jr
+http://rb-group-server.com:25461/12341234/12341234/3753
+#EXTINF:-1,UK: Disney.Channel
+http://rb-group-server.com:25461/12341234/12341234/3752
+#EXTINF:-1,UK: Disney Jr
+http://rb-group-server.com:25461/12341234/12341234/3751
+#EXTINF:-1,UK: DisneyXD
+http://rb-group-server.com:25461/12341234/12341234/3750
+#EXTINF:-1,UK: Cartoon.Network
+http://rb-group-server.com:25461/12341234/12341234/3749
+#EXTINF:-1,UK: Nickelodeon.
+http://rb-group-server.com:25461/12341234/12341234/3755
+#EXTINF:-1,UK: Nicktoons.
+http://rb-group-server.com:25461/12341234/12341234/3756
+#EXTINF:-1,UK: Baby TV
+http://rb-group-server.com:25461/12341234/12341234/3757
+#EXTINF:-1,UK: CBeebies
+http://rb-group-server.com:25461/12341234/12341234/3758
+----------
+#EXTINF:-1,ITV Central West FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28433.ts
+#EXTINF:-1,ITV London FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28431.ts
+#EXTINF:-1,ITV Meridian East FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28430.ts
+#EXTINF:-1,ITV Westcountry South West FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28427.ts
+#EXTINF:-1,ITV Yorkshire West FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28425.ts
+#EXTINF:-1,ITV HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10547.ts
+#EXTINF:-1,ITV2 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10546.ts
+#EXTINF:-1,ITV3 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10545.ts
+#EXTINF:-1,ITV4 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10544.ts
+#EXTINF:-1,BBC FOUR HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10554.ts
+#EXTINF:-1,BBC NEWS HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10553.ts
+#EXTINF:-1,BBC1 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10552.ts
+#EXTINF:-1,BBC2 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10551.ts
+#EXTINF:-1,UK FHD : GOOD FOOD FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84877.ts
+#EXTINF:-1,UK FHD : ALIBI FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84874.ts
+#EXTINF:-1,UK FHD : DAVE FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84875.ts
+#EXTINF:-1,LIFETIME FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84881.ts
+#EXTINF:-1,QUEST FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84884.ts
+#EXTINF:-1,UK FHD : COMEDY CENTRAL FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84876.ts
+#EXTINF:-1,UK FHD : FOX FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84873.ts
+#EXTINF:-1,SKY ONE FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84886.ts
+#EXTINF:-1,UK FHD : SKY ARTS FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84878.ts
+#EXTINF:-1,UK FHD : SKY ATLANTIC HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84867.ts
+#EXTINF:-1,UK FHD : SKY WITNESS FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84872.ts
+#EXTINF:-1,UK FHD : SYFY FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84871.ts
+#EXTINF:-1,UK FHD : TLC FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84868.ts
+#EXTINF:-1,UK FHD : GOLD FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84866.ts
+#EXTINF:-1,UK FHD : UNIVERSAL FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84870.ts
+#EXTINF:-1,PARAMOUNT FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84883.ts
+#EXTINF:-1,UK FHD : WATCH FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84869.ts
+#EXTINF:-1,Channel 4 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10550.ts
+#EXTINF:-1,Channel 5 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10549.ts
+#EXTINF:-1,E4 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10548.ts
+#EXTINF:-1,More4 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10543.ts
+#EXTINF:-1,UK :sky 1 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10586.ts
+#EXTINF:-1,UK :Watch HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10582.ts
+#EXTINF:-1,UK: Sky Atlantic HD1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10589.ts
+#EXTINF:-1,UK: Sky Living HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10588.ts
+#EXTINF:-1,UK :Universal Channel HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10583.ts
+#EXTINF:-1,UK :SYFY HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10585.ts
+#EXTINF:-1,UK: Sky Arts FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10590.ts
+#EXTINF:-1,UK:FOX HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10601.ts
+#EXTINF:-1,UK: LifeTime HD1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10600.ts
+#EXTINF:-1,UK: Alibi HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10605.ts
+#EXTINF:-1,UK: Comedy Centeral HD1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10604.ts
+#EXTINF:-1,UK: Dave HD1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10603.ts
+#EXTINF:-1,UK: Good Food HD1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10602.ts
+#EXTINF:-1,UK: CBBC FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/23887.ts
+#EXTINF:-1,UK :TLC FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/17068.ts
+#EXTINF:-1,BBC Four FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28441.ts
+#EXTINF:-1,BBC NEWS FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28440.ts
+#EXTINF:-1,BBC One FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28439.ts
+#EXTINF:-1,BBC Two FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28435.ts
+#EXTINF:-1,CBBC FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28434.ts
+#EXTINF:-1,UK: STV FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/29262.ts
+#EXTINF:-1,4 SevenHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/38898.ts
+#EXTINF:-1,UK BBC 1 hd
+http://vmdirect.co.uk:5001/live/sharon/sharon/1368.ts
+#EXTINF:-1,UK BBC 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/1367.ts
+#EXTINF:-1,UK BBC 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/1366.ts
+#EXTINF:-1,UK BBC 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/1365.ts
+#EXTINF:-1,UK ITV
+http://vmdirect.co.uk:5001/live/sharon/sharon/1364.ts
+#EXTINF:-1,UK ITV 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/1363.ts
+#EXTINF:-1,UK ITV 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/1362.ts
+#EXTINF:-1,UK ITV 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/1361.ts
+#EXTINF:-1,UK CHANNEL 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/1339.ts
+#EXTINF:-1,UK CHANNEL 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/1340.ts
+#EXTINF:-1,RTE 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/214.ts
+#EXTINF:-1,RTE 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/215.ts
+#EXTINF:-1,TV3
+http://vmdirect.co.uk:5001/live/sharon/sharon/45.ts
+#EXTINF:-1,RTE One HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/206.ts
+#EXTINF:-1,RTE Two HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/205.ts
+#EXTINF:-1,3E IRELAND
+http://vmdirect.co.uk:5001/live/sharon/sharon/204.ts
+#EXTINF:-1,3E Ireland FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/28270.ts
+#EXTINF:-1,Be 3 FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/6111.ts
+#EXTINF:-1,UTV CHANNEL
+http://vmdirect.co.uk:5001/live/sharon/sharon/202.ts
+#EXTINF:-1,TLC
+http://vmdirect.co.uk:5001/live/sharon/sharon/169.ts
+#EXTINF:-1,SyFy USA
+http://vmdirect.co.uk:5001/live/sharon/sharon/3332.ts
+#EXTINF:-1,sky living HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/3321.ts
+#EXTINF:-1,5 star
+http://vmdirect.co.uk:5001/live/sharon/sharon/193.ts
+#EXTINF:-1,Alibi
+http://vmdirect.co.uk:5001/live/sharon/sharon/171.ts
+#EXTINF:-1,Comedy Central
+http://vmdirect.co.uk:5001/live/sharon/sharon/180.ts
+#EXTINF:-1,Comedy Xtra
+http://vmdirect.co.uk:5001/live/sharon/sharon/179.ts
+#EXTINF:-1,Dave
+http://vmdirect.co.uk:5001/live/sharon/sharon/177.ts
+#EXTINF:-1,Dave Ja Vu
+http://vmdirect.co.uk:5001/live/sharon/sharon/13.ts
+#EXTINF:-1,E!
+http://vmdirect.co.uk:5001/live/sharon/sharon/43.ts
+#EXTINF:-1,Five USA.
+http://vmdirect.co.uk:5001/live/sharon/sharon/191.ts
+#EXTINF:-1,Food Network
+http://vmdirect.co.uk:5001/live/sharon/sharon/170.ts
+#EXTINF:-1,FOX
+http://vmdirect.co.uk:5001/live/sharon/sharon/176.ts
+#EXTINF:-1,G.O.L.D.
+http://vmdirect.co.uk:5001/live/sharon/sharon/175.ts
+#EXTINF:-1,ITV Encore
+http://vmdirect.co.uk:5001/live/sharon/sharon/41.ts
+#EXTINF:-1,Lifetime HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/165.ts
+#EXTINF:-1,More 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/190.ts
+#EXTINF:-1,Sky 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/185.ts
+#EXTINF:-1,Sky 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/184.ts
+#EXTINF:-1,Sky Arts
+http://vmdirect.co.uk:5001/live/sharon/sharon/181.ts
+#EXTINF:-1,Sky Atlantic
+http://vmdirect.co.uk:5001/live/sharon/sharon/182.ts
+#EXTINF:-1,Sky Living
+http://vmdirect.co.uk:5001/live/sharon/sharon/183.ts
+#EXTINF:-1,Spike
+http://vmdirect.co.uk:5001/live/sharon/sharon/174.ts
+#EXTINF:-1,SyFy
+http://vmdirect.co.uk:5001/live/sharon/sharon/172.ts
+#EXTINF:-1,TG4
+http://vmdirect.co.uk:5001/live/sharon/sharon/203.ts
+#EXTINF:-1,True Entertainment
+http://vmdirect.co.uk:5001/live/sharon/sharon/164.ts
+#EXTINF:-1,Universal
+http://vmdirect.co.uk:5001/live/sharon/sharon/44.ts
+#EXTINF:-1,Watch
+http://vmdirect.co.uk:5001/live/sharon/sharon/173.ts
+#EXTINF:-1,UK E4
+http://vmdirect.co.uk:5001/live/sharon/sharon/1360.ts
+#EXTINF:-1,Real Lives
+http://vmdirect.co.uk:5001/live/sharon/sharon/187.ts
+#EXTINF:-1,Pick TV
+http://vmdirect.co.uk:5001/live/sharon/sharon/189.ts
+#EXTINF:-1,Yesterday
+http://vmdirect.co.uk:5001/live/sharon/sharon/188.ts
+#EXTINF:-1,Quest
+http://vmdirect.co.uk:5001/live/sharon/sharon/178.ts
+#EXTINF:-1,CBS Action
+http://vmdirect.co.uk:5001/live/sharon/sharon/167.ts
+#EXTINF:-1,CBS Drama
+http://vmdirect.co.uk:5001/live/sharon/sharon/166.ts
+#EXTINF:-1,CBS Reality
+http://vmdirect.co.uk:5001/live/sharon/sharon/168.ts
+#EXTINF:-1,UK TRUE DRAMA
+http://vmdirect.co.uk:5001/live/sharon/sharon/1346.ts
+#EXTINF:-1,UK TRUE MOVIES 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/1348.ts
+#EXTINF:-1,MTV
+http://vmdirect.co.uk:5001/live/sharon/sharon/66.ts
+#EXTINF:-1,UK: 5 STAR  1
+http://vmdirect.co.uk:5001/live/sharon/sharon/6459.ts
+#EXTINF:-1,UK: 5 USA  plus 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/6458.ts
+#EXTINF:-1,UK: AMC
+http://vmdirect.co.uk:5001/live/sharon/sharon/6457.ts
+#EXTINF:-1,CBS
+http://vmdirect.co.uk:5001/live/sharon/sharon/6409.ts
+#EXTINF:-1,UK: HORROR CHANNEL
+http://vmdirect.co.uk:5001/live/sharon/sharon/6452.ts
+#EXTINF:-1,UK: HORROR CHANNEL  1
+http://vmdirect.co.uk:5001/live/sharon/sharon/6451.ts
+#EXTINF:-1,UK: HORSE & COUNTRY
+http://vmdirect.co.uk:5001/live/sharon/sharon/6450.ts
+#EXTINF:-1,UK: Movies 24
+http://vmdirect.co.uk:5001/live/sharon/sharon/3923.ts
+#EXTINF:-1,UK: TRUE MOVIES
+http://vmdirect.co.uk:5001/live/sharon/sharon/6443.ts
+#EXTINF:-1,UK :ITV BE
+http://vmdirect.co.uk:5001/live/sharon/sharon/9683.ts
+#EXTINF:-1,UK: s4c Channel
+http://vmdirect.co.uk:5001/live/sharon/sharon/37908.ts
+#EXTINF:-1,UK FHD : TG 4 FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84853.ts
+#EXTINF:-1,UK FHD : UTV FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84852.ts
+#EXTINF:-1,UK FHD : RTE ONE HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84848.ts
+#EXTINF:-1,UK FHD : RTE TWO HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84847.ts
+#EXTINF:-1,UK :RTE 1 HD1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10596.ts
+#EXTINF:-1,RTE 2 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/38486.ts
+#EXTINF:-1,TG4 FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/38487.ts
+#EXTINF:-1,UK FHD : SKY CINEMA ACTION FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84846.ts
+#EXTINF:-1,UK FHD : SKY CINEMA ANIMATION FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84843.ts
+#EXTINF:-1,UK FHD : SKY CINEMA COMEDY FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84845.ts
+#EXTINF:-1,UK FHD : SKY CINEMA DISNEY FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84844.ts
+#EXTINF:-1,UK FHD : SKY CINEMA GREATS FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84842.ts
+#EXTINF:-1,UK FHD : SKY CINEMA PREMIER FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84841.ts
+#EXTINF:-1,UK FHD : SKY CINEMA SELECT FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84839.ts
+#EXTINF:-1,UK FHD : SKY CINEMA SCI-FI FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84840.ts
+#EXTINF:-1,UK FHD : SKY CINEMA THRILLER FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84838.ts
+#EXTINF:-1,SKY  DRAMA FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84880.ts
+#EXTINF:-1,Sky Cinema Action & Adventure HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10542.ts
+#EXTINF:-1,Sky Cinema Comedy HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10541.ts
+#EXTINF:-1,Sky Cinema Crime & Thriller HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10540.ts
+#EXTINF:-1,Sky Cinema Disney HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10539.ts
+#EXTINF:-1,Sky Cinema Drama & Romance HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10538.ts
+#EXTINF:-1,Sky Cinema Family HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10537.ts
+#EXTINF:-1,Sky Cinema Greats HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10536.ts
+#EXTINF:-1,Sky Cinema Hits HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10535.ts
+#EXTINF:-1,Sky Cinema Premiere HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10534.ts
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10533.ts
+#EXTINF:-1,Sky Cinema Select HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10532.ts
+#EXTINF:-1,Sky Movies Premiere
+http://vmdirect.co.uk:5001/live/sharon/sharon/134.ts
+#EXTINF:-1,Sky Movies Premiere plus  1
+http://vmdirect.co.uk:5001/live/sharon/sharon/133.ts
+#EXTINF:-1,Sky Movies Premiere HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/132.ts
+#EXTINF:-1,Sky Movies Action and Adventure
+http://vmdirect.co.uk:5001/live/sharon/sharon/117.ts
+#EXTINF:-1,Sky Movies Action and Adventure HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/116.ts
+#EXTINF:-1,Sky Movies Comedy
+http://vmdirect.co.uk:5001/live/sharon/sharon/119.ts
+#EXTINF:-1,Sky Movies Comedy HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/118.ts
+#EXTINF:-1,Sky Movies Crime and Thriller
+http://vmdirect.co.uk:5001/live/sharon/sharon/131.ts
+#EXTINF:-1,Sky Movies Crime and Thriller HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/130.ts
+#EXTINF:-1,Sky Movies Disney
+http://vmdirect.co.uk:5001/live/sharon/sharon/123.ts
+#EXTINF:-1,Sky Movies Disney HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/122.ts
+#EXTINF:-1,Sky Movies Drama and Romance
+http://vmdirect.co.uk:5001/live/sharon/sharon/113.ts
+#EXTINF:-1,Sky Movies Drama and Romance HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/112.ts
+#EXTINF:-1,Sky Movies Family
+http://vmdirect.co.uk:5001/live/sharon/sharon/125.ts
+#EXTINF:-1,Sky Movies Family HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/124.ts
+#EXTINF:-1,Sky Movies Modern Greats
+http://vmdirect.co.uk:5001/live/sharon/sharon/127.ts
+#EXTINF:-1,Sky Movies Modern Greats HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/126.ts
+#EXTINF:-1,Sky Movies Sci-Fi horror
+http://vmdirect.co.uk:5001/live/sharon/sharon/115.ts
+#EXTINF:-1,Sky Movies Sci-Fi Horror HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/114.ts
+#EXTINF:-1,Sky Movies Select
+http://vmdirect.co.uk:5001/live/sharon/sharon/121.ts
+#EXTINF:-1,Sky Movies Select HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/120.ts
+#EXTINF:-1,Sky Cinema Hits
+http://vmdirect.co.uk:5001/live/sharon/sharon/129.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/128.ts
+#EXTINF:-1,UK FILM 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/1342.ts
+#EXTINF:-1,Film4 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10555.ts
+#EXTINF:-1,Movies4Men
+http://vmdirect.co.uk:5001/live/sharon/sharon/107.ts
+#EXTINF:-1,UK FHD : TCM FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84837.ts
+#EXTINF:-1,TCM
+http://vmdirect.co.uk:5001/live/sharon/sharon/110.ts
+#EXTINF:-1,SKY HITS FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84887.ts
+#EXTINF:-1,MTV Base
+http://vmdirect.co.uk:5001/live/sharon/sharon/65.ts
+#EXTINF:-1,MTV Classic
+http://vmdirect.co.uk:5001/live/sharon/sharon/63.ts
+#EXTINF:-1,MTV Dance
+http://vmdirect.co.uk:5001/live/sharon/sharon/62.ts
+#EXTINF:-1,MTV Hits
+http://vmdirect.co.uk:5001/live/sharon/sharon/61.ts
+#EXTINF:-1,MTV MUSIC
+http://vmdirect.co.uk:5001/live/sharon/sharon/15.ts
+#EXTINF:-1,MTV Rocks
+http://vmdirect.co.uk:5001/live/sharon/sharon/60.ts
+#EXTINF:-1,vh1
+http://vmdirect.co.uk:5001/live/sharon/sharon/235.ts
+#EXTINF:-1,UK MAGIC
+http://vmdirect.co.uk:5001/live/sharon/sharon/1356.ts
+#EXTINF:-1,UK THE VAULT
+http://vmdirect.co.uk:5001/live/sharon/sharon/1357.ts
+#EXTINF:-1,THE FLAVA
+http://vmdirect.co.uk:5001/live/sharon/sharon/1359.ts
+#EXTINF:-1,UK: ROK
+http://vmdirect.co.uk:5001/live/sharon/sharon/6448.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING FLAT}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84894.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING JUMPS}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84893.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING SPRINT}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84892.ts
+#EXTINF:-1,UK I PADDY POWER {GREYHOUNDS RACING}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84888.ts
+#EXTINF:-1,UK I PADDY POWER  {MOTOR SPORTS}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84891.ts
+#EXTINF:-1,UK :History HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10593.ts
+#EXTINF:-1,UK :Nat Geo Wild HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10592.ts
+#EXTINF:-1,UK: Discovery HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10598.ts
+#EXTINF:-1,UK: National Geographic HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10591.ts
+#EXTINF:-1,Uk :TCM HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10584.ts
+#EXTINF:-1,UK: Animal Planet FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/23881.ts
+#EXTINF:-1,UK: Eden HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10595.ts
+#EXTINF:-1,UK: H2 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10594.ts
+#EXTINF:-1,UK: Nick FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/23878.ts
+#EXTINF:-1,UK: Sky News HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10587.ts
+#EXTINF:-1,UK: Cartoonnetwork FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/23886.ts
+#EXTINF:-1,UK: CBeebies FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/23880.ts
+#EXTINF:-1,Crime and Investigation HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/156.ts
+#EXTINF:-1,Disney Jr
+http://vmdirect.co.uk:5001/live/sharon/sharon/145.ts
+#EXTINF:-1,Disney XD
+http://vmdirect.co.uk:5001/live/sharon/sharon/147.ts
+#EXTINF:-1,Nicktoons
+http://vmdirect.co.uk:5001/live/sharon/sharon/136.ts
+#EXTINF:-1,Nickelodeon
+http://vmdirect.co.uk:5001/live/sharon/sharon/143.ts
+#EXTINF:-1,EURO NEWS
+http://vmdirect.co.uk:5001/live/sharon/sharon/68.ts
+#EXTINF:-1,UK :Sky News
+http://vmdirect.co.uk:5001/live/sharon/sharon/3924.ts
+#EXTINF:-1,UK BBC NEWS
+http://vmdirect.co.uk:5001/live/sharon/sharon/1369.ts
+#EXTINF:-1,RTE NEWS NOW
+http://vmdirect.co.uk:5001/live/sharon/sharon/14.ts
+#EXTINF:-1,Al Jazeera English
+http://vmdirect.co.uk:5001/live/sharon/sharon/69.ts
+#EXTINF:-1,UK CNN
+http://vmdirect.co.uk:5001/live/sharon/sharon/1372.ts
+#EXTINF:-1,UK CNBC EU
+http://vmdirect.co.uk:5001/live/sharon/sharon/1371.ts
+#EXTINF:-1,UK BLOOMBERG
+http://vmdirect.co.uk:5001/live/sharon/sharon/1370.ts
+#EXTINF:-1,UK FHD : ANIMAL PLANET FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84861.ts
+#EXTINF:-1,UK FHD : DISCOVERY FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84860.ts
+#EXTINF:-1,UK FHD : EDEN FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84859.ts
+#EXTINF:-1,UK FHD : H2 FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84858.ts
+#EXTINF:-1,UK FHD : HISTORY FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84855.ts
+#EXTINF:-1,UK FHD : NAT GEO FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84857.ts
+#EXTINF:-1,UK FHD : NAT GEO WILD FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84856.ts
+#EXTINF:-1,CRIME & INVESTIGATION FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84882.ts
+#EXTINF:-1,History
+http://vmdirect.co.uk:5001/live/sharon/sharon/162.ts
+#EXTINF:-1,History HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6120.ts
+#EXTINF:-1,ID
+http://vmdirect.co.uk:5001/live/sharon/sharon/154.ts
+#EXTINF:-1,Animal Planet
+http://vmdirect.co.uk:5001/live/sharon/sharon/159.ts
+#EXTINF:-1,Discovery HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/150.ts
+#EXTINF:-1,Discovery HD USA
+http://vmdirect.co.uk:5001/live/sharon/sharon/149.ts
+#EXTINF:-1,Discovery History
+http://vmdirect.co.uk:5001/live/sharon/sharon/151.ts
+#EXTINF:-1,Discovery Science
+http://vmdirect.co.uk:5001/live/sharon/sharon/157.ts
+#EXTINF:-1,Discovery Shed
+http://vmdirect.co.uk:5001/live/sharon/sharon/155.ts
+#EXTINF:-1,DiscoveryTurbo
+http://vmdirect.co.uk:5001/live/sharon/sharon/158.ts
+#EXTINF:-1,Eden
+http://vmdirect.co.uk:5001/live/sharon/sharon/160.ts
+#EXTINF:-1,H2
+http://vmdirect.co.uk:5001/live/sharon/sharon/153.ts
+#EXTINF:-1,Nat Geo Wild
+http://vmdirect.co.uk:5001/live/sharon/sharon/161.ts
+#EXTINF:-1,Home and Health
+http://vmdirect.co.uk:5001/live/sharon/sharon/152.ts
+#EXTINF:-1,National Geographic
+http://vmdirect.co.uk:5001/live/sharon/sharon/163.ts
+#EXTINF:-1,Discovery
+http://vmdirect.co.uk:5001/live/sharon/sharon/6123.ts
+#EXTINF:-1,Crime and Investigation
+http://vmdirect.co.uk:5001/live/sharon/sharon/6121.ts
+#EXTINF:-1,Animal Planet HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6124.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6119.ts
+#EXTINF:-1,National Geographic HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6118.ts
+#EXTINF:-1,DMAX
+http://vmdirect.co.uk:5001/live/sharon/sharon/42.ts
+#EXTINF:-1,Cartoon Network
+http://vmdirect.co.uk:5001/live/sharon/sharon/140.ts
+#EXTINF:-1,Cartoon Network HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6128.ts
+#EXTINF:-1,Cartoonito
+http://vmdirect.co.uk:5001/live/sharon/sharon/38.ts
+#EXTINF:-1,Disney Jr HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6125.ts
+#EXTINF:-1,Disney plus 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/219.ts
+#EXTINF:-1,Nick Jr
+http://vmdirect.co.uk:5001/live/sharon/sharon/138.ts
+#EXTINF:-1,Nick Jr HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6130.ts
+#EXTINF:-1,NICK JR TOO
+http://vmdirect.co.uk:5001/live/sharon/sharon/137.ts
+#EXTINF:-1,Nickelodeon HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6127.ts
+#EXTINF:-1,BabyTV
+http://vmdirect.co.uk:5001/live/sharon/sharon/37.ts
+#EXTINF:-1,CBeebies
+http://vmdirect.co.uk:5001/live/sharon/sharon/148.ts
+#EXTINF:-1,POP
+http://vmdirect.co.uk:5001/live/sharon/sharon/139.ts
+#EXTINF:-1,RTE JR
+http://vmdirect.co.uk:5001/live/sharon/sharon/141.ts
+#EXTINF:-1,Disney Channel
+http://vmdirect.co.uk:5001/live/sharon/sharon/144.ts
+#EXTINF:-1,Disney Channel HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6126.ts
+#EXTINF:-1,UK: CITV
+http://vmdirect.co.uk:5001/live/sharon/sharon/6456.ts
+#EXTINF:-1,UK: TINY POP
+http://vmdirect.co.uk:5001/live/sharon/sharon/6455.ts
+#EXTINF:-1,UK: CBBC
+http://vmdirect.co.uk:5001/live/sharon/sharon/6454.ts
+#EXTINF:-1,Boomerang
+http://vmdirect.co.uk:5001/live/sharon/sharon/135.ts
+#EXTINF:-1,UK FHD : CARTOON NETWORK FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84863.ts
+#EXTINF:-1,UK FHD : DISNEY JUNIOR HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84865.ts
+#EXTINF:-1,UK FHD : DISNEY XD HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84864.ts
+#EXTINF:-1,UK FHD : NICK FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84862.ts
+----------
+#EXTINF:-1,----------| UK |----------
+http://formen1.com:8080/live/ada104/1414ss/1028.ts
+#EXTINF:-1,Uk | Bbc1
+http://formen1.com:8080/live/ada104/1414ss/1142.ts
+#EXTINF:-1,Uk | Bbc2
+http://formen1.com:8080/live/ada104/1414ss/1141.ts
+#EXTINF:-1,Uk | Bbc Earth
+http://formen1.com:8080/live/ada104/1414ss/1140.ts
+#EXTINF:-1,Uk | Btsport1
+http://formen1.com:8080/live/ada104/1414ss/1079.ts
+#EXTINF:-1,Uk | Btsport2
+http://formen1.com:8080/live/ada104/1414ss/1078.ts
+#EXTINF:-1,Uk | Btsportespn
+http://formen1.com:8080/live/ada104/1414ss/1077.ts
+#EXTINF:-1,Uk | Btsporteurope
+http://formen1.com:8080/live/ada104/1414ss/1085.ts
+#EXTINF:-1,Uk | Cbsaction
+http://formen1.com:8080/live/ada104/1414ss/1136.ts
+#EXTINF:-1,Uk | Cbsdrama
+http://formen1.com:8080/live/ada104/1414ss/1137.ts
+#EXTINF:-1,Uk | Cbsreality
+http://formen1.com:8080/live/ada104/1414ss/1138.ts
+#EXTINF:-1,Uk | Channel4
+http://formen1.com:8080/live/ada104/1414ss/1135.ts
+#EXTINF:-1,Uk | Channel5
+http://formen1.com:8080/live/ada104/1414ss/1134.ts
+#EXTINF:-1,Uk | Comedycentral
+http://formen1.com:8080/live/ada104/1414ss/1133.ts
+#EXTINF:-1,Uk | Discovery Science Hd
+http://formen1.com:8080/live/ada104/1414ss/1127.ts
+#EXTINF:-1,Uk | Discovery Turbo Hd
+http://formen1.com:8080/live/ada104/1414ss/1126.ts
+#EXTINF:-1,Uk | Discoverychannelhd
+http://formen1.com:8080/live/ada104/1414ss/1130.ts
+#EXTINF:-1,Uk | Discoveryshed
+http://formen1.com:8080/live/ada104/1414ss/1128.ts
+#EXTINF:-1,Uk | Disneychannel
+http://formen1.com:8080/live/ada104/1414ss/1131.ts
+#EXTINF:-1,Uk | Disneyjunior
+http://formen1.com:8080/live/ada104/1414ss/1132.ts
+#EXTINF:-1,Uk | Dmax.
+http://formen1.com:8080/live/ada104/1414ss/1100.ts
+#EXTINF:-1,Uk | Eurosport1
+http://formen1.com:8080/live/ada104/1414ss/1095.ts
+#EXTINF:-1,Uk | Eurosport 2
+http://formen1.com:8080/live/ada104/1414ss/1094.ts
+#EXTINF:-1,Uk | Itv1
+http://formen1.com:8080/live/ada104/1414ss/1146.ts
+#EXTINF:-1,Uk | Itv2
+http://formen1.com:8080/live/ada104/1414ss/1145.ts
+#EXTINF:-1,Uk | Itv3
+http://formen1.com:8080/live/ada104/1414ss/1144.ts
+#EXTINF:-1,Uk | Itv4
+http://formen1.com:8080/live/ada104/1414ss/1143.ts
+#EXTINF:-1,Uk | Movies 4men
+http://formen1.com:8080/live/ada104/1414ss/1111.ts
+#EXTINF:-1,Uk | Nationalgeographic
+http://formen1.com:8080/live/ada104/1414ss/1124.ts
+#EXTINF:-1,Uk | Premiersport
+http://formen1.com:8080/live/ada104/1414ss/1074.ts
+#EXTINF:-1,Uk | Racing
+http://formen1.com:8080/live/ada104/1414ss/1116.ts
+#EXTINF:-1,Uk | Rte One
+http://formen1.com:8080/live/ada104/1414ss/1104.ts
+#EXTINF:-1,Uk | Rte Two
+http://formen1.com:8080/live/ada104/1414ss/1103.ts
+#EXTINF:-1,Uk | Sky Movies Action
+http://formen1.com:8080/live/ada104/1414ss/1108.ts
+#EXTINF:-1,Uk | Sky Movies Comedy
+http://formen1.com:8080/live/ada104/1414ss/1109.ts
+#EXTINF:-1,Uk | Sky Movies Family Hd
+http://formen1.com:8080/live/ada104/1414ss/1107.ts
+#EXTINF:-1,Uk | Sky Movies Premiere Hd
+http://formen1.com:8080/live/ada104/1414ss/1105.ts
+#EXTINF:-1,Uk | Sky Movies Scifi / Horror Hd
+http://formen1.com:8080/live/ada104/1414ss/1106.ts
+#EXTINF:-1,Uk | Skymoviesdrama Hd
+http://formen1.com:8080/live/ada104/1414ss/1121.ts
+#EXTINF:-1,Uk | Skymoviesselect Hd
+http://formen1.com:8080/live/ada104/1414ss/1122.ts
+#EXTINF:-1,Uk | Skymoviesthriller
+http://formen1.com:8080/live/ada104/1414ss/1123.ts
+#EXTINF:-1,Uk | Skymtv
+http://formen1.com:8080/live/ada104/1414ss/1110.ts
+#EXTINF:-1,Uk | Skyone Hd
+http://formen1.com:8080/live/ada104/1414ss/1113.ts
+#EXTINF:-1,Uk | Sky Sports Action
+http://formen1.com:8080/live/ada104/1414ss/1093.ts
+#EXTINF:-1,Uk | Sky Sports Cricket
+http://formen1.com:8080/live/ada104/1414ss/1092.ts
+#EXTINF:-1,Uk | Sky Sports Main Event
+http://formen1.com:8080/live/ada104/1414ss/1091.ts
+#EXTINF:-1,Uk | Sky Sports Golf
+http://formen1.com:8080/live/ada104/1414ss/1090.ts
+#EXTINF:-1,Uk | Sky Sport Premier League
+http://formen1.com:8080/live/ada104/1414ss/1089.ts
+#EXTINF:-1,Uk | Sky Sports F1
+http://formen1.com:8080/live/ada104/1414ss/1088.ts
+#EXTINF:-1,Uk | Skysportnews
+http://formen1.com:8080/live/ada104/1414ss/1086.ts
+#EXTINF:-1,Uk | Sky Sport News
+http://formen1.com:8080/live/ada104/1414ss/1087.ts
+#EXTINF:-1,Uk | True Movies1 Hd
+http://formen1.com:8080/live/ada104/1414ss/1115.ts
+#EXTINF:-1,Uk | Yesterday
+http://formen1.com:8080/live/ada104/1414ss/1102.ts
+
+
+
 #EXTM3U
 
 
