@@ -1,1473 +1,7 @@
 
-# EXTM3U
-# EXTINF:-2,FOX SPORTS https://s2.limpi.tv/live/43641.m3u8?token=kHqCaBqHijhAllOYYTfenQ&expires2=U2FsdGVkX1%2FRTD4y3Pgoxjk3artDMOmunNfLanNiLKM%3D&expires=1542523600&ip=90.94.110.169
-#EXTM3U 
-#EXTINF:-1,4seven HD http://207.180.233.49:5001/live/Errol/Errol/38898.m3u8
 
 
-#EXTM3U
-#EXTINF:-1,(TR) TRT SPORT HD
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1435.ts
-#EXTINF:-1,beIN Sport 1
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1425.ts
-#EXTINF:-1,beIN Sport 2
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1426.ts
-#EXTINF:-1,beIN Sport 3
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1428.ts
-#EXTINF:-1,beIN Sport 4
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1427.ts
-#EXTINF:-1,beIN Sport 5
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1423.ts
-#EXTINF:-1,beIN Sport 6
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1424.ts
-#EXTINF:-1,beIN Sport 7
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1431.ts
-#EXTINF:-1,beIN Sport 8
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1432.ts
-#EXTINF:-1,beIN Sport 9
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1433.ts
-#EXTINF:-1,beIN Sport 10
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1434.ts
-#EXTINF:-1,AD Sport 1 HD
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1429.ts
-#EXTINF:-1,AD Sport 2 HD
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1430.ts
-#EXTINF:-1,Dubai Sport 1 HD
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/758.ts
-#EXTINF:-1,Dubai Sport 2 HD
-http://arabic1.mickypizza1.com:80/live/gabi1/gabi1/1535.ts
-#EXTINF:-1,My- Wow Sport HD
-http://m-iptv.net:6204/marwan/123/2704
-#EXTINF:-1,Ar- Kuwait Sport HD
-http://m-iptv.net:6204/marwan/123/2735
-#EXTINF:-1,Ar- AD Sport1 HD
-http://m-iptv.net:6204/marwan/123/2582
-#EXTINF:-1,Ar- AD Sport2 HD
-http://m-iptv.net:6204/marwan/123/2581
-#EXTINF:-1,Ar- AD Sport3 HD
-http://m-iptv.net:6204/marwan/123/2718
-#EXTINF:-1,Ar- AD Sport4 HD
-http://m-iptv.net:6204/marwan/123/2719
-#EXTINF:-1,Ar- KSA Sport 1 HD
-http://m-iptv.net:6204/marwan/123/3039
-#EXTINF:-1,Ar- KSA Sport 2 HD
-http://m-iptv.net:6204/marwan/123/6432
-#EXTINF:-1,Ar- KSA Sport +1 HD
-http://m-iptv.net:6204/marwan/123/13738
-#EXTINF:-1,Ar- KSA Sport +2 HD
-http://m-iptv.net:6204/marwan/123/13739
-#EXTINF:-1,Ar- Saudia Sport 24 HD
-http://m-iptv.net:6204/marwan/123/10624
-#EXTINF:-1,Ar- Dubai Sport 1 HD
-http://m-iptv.net:6204/marwan/123/2583
-#EXTINF:-1,Ar- Dubai Sport 2 HD
-http://m-iptv.net:6204/marwan/123/10626
-#EXTINF:-1,Ar- Dubai Sport 3 HD
-http://m-iptv.net:6204/marwan/123/10625
-#EXTINF:-1,Ar- ON Sport HD
-http://m-iptv.net:6204/marwan/123/6556
-#EXTINF:-1,Ar- Nile Sport
-http://m-iptv.net:6204/marwan/123/4133
-#EXTINF:-1,Ar- DMC Sport HD
-http://m-iptv.net:6204/marwan/123/6890
-#EXTINF:-1,Ar- KTV Sport HD
-http://m-iptv.net:6204/marwan/123/2733
-#EXTINF:-1,Ar- KTV Sport Plus HD
-http://m-iptv.net:6204/marwan/123/2732
-#EXTINF:-1,Ar- Iraqiya Sport
-http://m-iptv.net:6204/marwan/123/2740
-#EXTINF:-1,Ar- Omman Sport HD
-http://m-iptv.net:6204/marwan/123/2676
-#EXTINF:-1,Bein Sport HD
-http://m-iptv.net:6204/marwan/123/2568
-#EXTINF:-1,Bein Sport News HD
-http://m-iptv.net:6204/marwan/123/2567
-#EXTINF:-1,Bein Sport HD1 1080i
-http://m-iptv.net:6204/marwan/123/127
-#EXTINF:-1,Bein Sport HD2 1080i
-http://m-iptv.net:6204/marwan/123/128
-#EXTINF:-1,Bein Sport HD3 1080i
-http://m-iptv.net:6204/marwan/123/129
-#EXTINF:-1,Bein Sport HD4 1080i
-http://m-iptv.net:6204/marwan/123/130
-#EXTINF:-1,Bein Sport HD5 1080i
-http://m-iptv.net:6204/marwan/123/132
-#EXTINF:-1,Bein Sport HD6 1080i
-http://m-iptv.net:6204/marwan/123/133
-#EXTINF:-1,Bein Sport HD8 1080i
-http://m-iptv.net:6204/marwan/123/135
-#EXTINF:-1,Bein Sport HD7 1080i
-http://m-iptv.net:6204/marwan/123/134
-#EXTINF:-1,Bein Sport HD9 1080i
-http://m-iptv.net:6204/marwan/123/186
-#EXTINF:-1,Bein Sport HD10 1080i
-http://m-iptv.net:6204/marwan/123/187
-#EXTINF:-1,Bein Sport HD11 EN 1080i
-http://m-iptv.net:6204/marwan/123/188
-#EXTINF:-1,Bein Sport HD12 EN 1080i
-http://m-iptv.net:6204/marwan/123/189
-#EXTINF:-1,Bein Sport HD13 EN 1080i
-http://m-iptv.net:6204/marwan/123/1694
-#EXTINF:-1,Bein Sport HD14 Fr 1080i
-http://m-iptv.net:6204/marwan/123/2555
-#EXTINF:-1,Bein Sport HD15 Fr 1080i
-http://m-iptv.net:6204/marwan/123/4763
-#EXTINF:-1,Bein Sport HD16 Fr 1080i
-http://m-iptv.net:6204/marwan/123/4762
-#EXTINF:-1,Bein Sport HD17 ES 1080i
-http://m-iptv.net:6204/marwan/123/4761
-#EXTINF:-1,Bein Sport NBA HD
-http://m-iptv.net:6204/marwan/123/6434
-#EXTINF:-1,Bein Sport HD1 720P
-http://m-iptv.net:6204/marwan/123/9022
-#EXTINF:-1,Bein Sport HD2 720P
-http://m-iptv.net:6204/marwan/123/9021
-#EXTINF:-1,Bein Sport HD3 720P
-http://m-iptv.net:6204/marwan/123/9020
-#EXTINF:-1,Bein Sport HD4 720P
-http://m-iptv.net:6204/marwan/123/9019
-#EXTINF:-1,Bein Sport HD5 720P
-http://m-iptv.net:6204/marwan/123/9018
-#EXTINF:-1,Bein Sport HD6 720P
-http://m-iptv.net:6204/marwan/123/9017
-#EXTINF:-1,Bein Sport HD7 720P
-http://m-iptv.net:6204/marwan/123/9016
-#EXTINF:-1,Bein Sport HD8 720P
-http://m-iptv.net:6204/marwan/123/9015
-#EXTINF:-1,Bein Sport HD9 720P
-http://m-iptv.net:6204/marwan/123/9014
-#EXTINF:-1,Bein Sport HD10 720P
-http://m-iptv.net:6204/marwan/123/9013
-#EXTINF:-1,Bein Sport HD11 EN 720P
-http://m-iptv.net:6204/marwan/123/9012
-#EXTINF:-1,bein Sport SD1
-http://m-iptv.net:6204/marwan/123/1913
-#EXTINF:-1,Bein Sport SD2
-http://m-iptv.net:6204/marwan/123/1914
-#EXTINF:-1,Bein Sport SD3
-http://m-iptv.net:6204/marwan/123/1915
-#EXTINF:-1,Bein Sport SD4
-http://m-iptv.net:6204/marwan/123/1916
-#EXTINF:-1,Bein Sport SD5
-http://m-iptv.net:6204/marwan/123/1917
-#EXTINF:-1,Bein Sport SD6
-http://m-iptv.net:6204/marwan/123/1918
-#EXTINF:-1,Bein Sport SD7
-http://m-iptv.net:6204/marwan/123/1919
-#EXTINF:-1,Bein Sport SD8
-http://m-iptv.net:6204/marwan/123/1920
-#EXTINF:-1,Bein Sport SD9
-http://m-iptv.net:6204/marwan/123/1921
-#EXTINF:-1,Bein Sport SD10
-http://m-iptv.net:6204/marwan/123/1922
-#EXTINF:-1,Bein Sport SD11
-http://m-iptv.net:6204/marwan/123/1923
-#EXTINF:-1,OSN Sport Cricket HD
-http://m-iptv.net:6204/marwan/123/11211
-#EXTINF:-1,OSN Sports Action 1 HD
-http://m-iptv.net:6204/marwan/123/13449
-#EXTINF:-1,OSN Sports Action 2 HD
-http://m-iptv.net:6204/marwan/123/13448
-#EXTINF:-1,Local- Astera Sport
-http://m-iptv.net:6204/marwan/123/13429
-#EXTINF:-1,Local- Biaban Sport HD
-http://m-iptv.net:6204/marwan/123/2688
-#EXTINF:-1,Local- Aso Sport HD
-http://m-iptv.net:6204/marwan/123/1005
-#EXTINF:-1,AF- Sudan Sport HD
-http://m-iptv.net:6204/marwan/123/3514
-#EXTINF:-1,AF- Neelain Sport
-http://m-iptv.net:6204/marwan/123/6920
-#EXTINF:-1,AF-  GI SPORTS TV ( Ghana )
-http://m-iptv.net:6204/marwan/123/13841
-#EXTINF:-1,AF- GTV SPORTS  ( Ghana )
-http://m-iptv.net:6204/marwan/123/13821
-#EXTINF:-1,Tr- Bein Sport 1 HD
-http://m-iptv.net:6204/marwan/123/11182
-#EXTINF:-1,Tr- Bein Sport 2 HD
-http://m-iptv.net:6204/marwan/123/2003
-#EXTINF:-1,Tr- Bein Sport 3 HD
-http://m-iptv.net:6204/marwan/123/11181
-#EXTINF:-1,Tr- Bein Sport 4 HD
-http://m-iptv.net:6204/marwan/123/11180
-#EXTINF:-1,Tr- beIN Sport MAX 1 HD
-http://m-iptv.net:6204/marwan/123/11179
-#EXTINF:-1,Tr- beIN Sport MAX 2 HD
-http://m-iptv.net:6204/marwan/123/11178
-#EXTINF:-1,Tr- beIN Sport 1 HD Backup
-http://m-iptv.net:6204/marwan/123/13034
-#EXTINF:-1,Tr- beIN Sport 2 HD Backup
-http://m-iptv.net:6204/marwan/123/13033
-#EXTINF:-1,Tr- Bein Sport 3 HD Backup
-http://m-iptv.net:6204/marwan/123/13030
-#EXTINF:-1,Tr- beIN Sport 4 HD Backup
-http://m-iptv.net:6204/marwan/123/14026
-#EXTINF:-1,Tr- beIN Sport MAX 1 HD Backup
-http://m-iptv.net:6204/marwan/123/14028
-#EXTINF:-1,Tr- beIN Sports MAX 2 HD Backup
-http://m-iptv.net:6204/marwan/123/14027
-#EXTINF:-1,Tr- TiviBu Sport 1 HD
-http://m-iptv.net:6204/marwan/123/6512
-#EXTINF:-1,Tr- TiviBu Sport 2 HD
-http://m-iptv.net:6204/marwan/123/6513
-#EXTINF:-1,Tr- TiviBu Sport 3 HD
-http://m-iptv.net:6204/marwan/123/6514
-#EXTINF:-1,Tr- ASport Hd
-http://m-iptv.net:6204/marwan/123/14019
-#EXTINF:-1,Tr- TRT Sport HD
-http://m-iptv.net:6204/marwan/123/14014
-#EXTINF:-1,Uk- Sky BT Sport 1 HD
-http://m-iptv.net:6204/marwan/123/8582
-#EXTINF:-1,Uk- Sky BT Sports Extra 1
-http://m-iptv.net:6204/marwan/123/8581
-#EXTINF:-1,Uk- Sky BT Sport 2 HD
-http://m-iptv.net:6204/marwan/123/8580
-#EXTINF:-1,Uk- Sky BT Sports Extra 2
-http://m-iptv.net:6204/marwan/123/8579
-#EXTINF:-1,Uk- Sky BT Sports Extra 3
-http://m-iptv.net:6204/marwan/123/8578
-#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
-http://m-iptv.net:6204/marwan/123/8577
-#EXTINF:-1,Uk- Sky Eurosport 1 HD
-http://m-iptv.net:6204/marwan/123/8560
-#EXTINF:-1,Uk- Sky Eurosport 2 HD
-http://m-iptv.net:6204/marwan/123/8559
-#EXTINF:-1,Uk- Sky Sports Box Office HD
-http://m-iptv.net:6204/marwan/123/11115
-#EXTINF:-1,Uk- Sky Eir Sport 1
-http://m-iptv.net:6204/marwan/123/11118
-#EXTINF:-1,Uk- Sky Eir Sport 2
-http://m-iptv.net:6204/marwan/123/11117
-#EXTINF:-1,Uk- Sky Sport Football
-http://m-iptv.net:6204/marwan/123/8523
-#EXTINF:-1,Uk- Sky Sports Main Event HD
-http://m-iptv.net:6204/marwan/123/8517
-#EXTINF:-1,Uk- Sky Sports Cricket HD
-http://m-iptv.net:6204/marwan/123/8516
-#EXTINF:-1,Uk- Sky Sports Action HD
-http://m-iptv.net:6204/marwan/123/8515
-#EXTINF:-1,Uk- Sky Sports Golf HD
-http://m-iptv.net:6204/marwan/123/8514
-#EXTINF:-1,Uk- Sky Sports Premier League HD
-http://m-iptv.net:6204/marwan/123/8513
-#EXTINF:-1,Uk- Sky Sports F1 HD
-http://m-iptv.net:6204/marwan/123/8512
-#EXTINF:-1,Uk- Sky Sports F1 HD Backup S
-http://m-iptv.net:6204/marwan/123/11099
-#EXTINF:-1,Uk- Sky Sports MixHD
-http://m-iptv.net:6204/marwan/123/8511
-#EXTINF:-1,UK- Sky Sports Arena HD
-http://m-iptv.net:6204/marwan/123/9059
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://m-iptv.net:6204/marwan/123/10166
-#EXTINF:-1,De- Auto Motor Sport HD
-http://m-iptv.net:6204/marwan/123/12356
-#EXTINF:-1,De- EuroSport 1 FHD
-http://m-iptv.net:6204/marwan/123/12350
-#EXTINF:-1,De- EuroSport 1 HD.
-http://m-iptv.net:6204/marwan/123/12349
-#EXTINF:-1,De- EuroSport 2 FHD
-http://m-iptv.net:6204/marwan/123/12348
-#EXTINF:-1,De- EuroSport 2 HD.
-http://m-iptv.net:6204/marwan/123/12347
-#EXTINF:-1,De- EuroSport 2 Xtra FHD
-http://m-iptv.net:6204/marwan/123/12346
-#EXTINF:-1,De- EuroSport 2 Xtra HD
-http://m-iptv.net:6204/marwan/123/12345
-#EXTINF:-1,De- EuroSport360 1 FHD
-http://m-iptv.net:6204/marwan/123/12344
-#EXTINF:-1,De- Eurosport360 2 FHD
-http://m-iptv.net:6204/marwan/123/12343
-#EXTINF:-1,De- EuroSport360 3 FHD
-http://m-iptv.net:6204/marwan/123/12342
-#EXTINF:-1,De- EuroSport360 4 FHD
-http://m-iptv.net:6204/marwan/123/12341
-#EXTINF:-1,De- Eurosport360 5 FHD
-http://m-iptv.net:6204/marwan/123/12340
-#EXTINF:-1,De- ORF Sport  HD
-http://m-iptv.net:6204/marwan/123/12194
-#EXTINF:-1,De- Sky Sport  Austria FHD
-http://m-iptv.net:6204/marwan/123/12354
-#EXTINF:-1,De- Sky Sport 1
-http://m-iptv.net:6204/marwan/123/12335
-#EXTINF:-1,De- Sky Sport 1 FHD
-http://m-iptv.net:6204/marwan/123/12337
-#EXTINF:-1,De- Sky Sport 1 HD
-http://m-iptv.net:6204/marwan/123/12336
-#EXTINF:-1,De- Sky Sport 10 FHD
-http://m-iptv.net:6204/marwan/123/12312
-#EXTINF:-1,De- Sky Sport 10 HD
-http://m-iptv.net:6204/marwan/123/12311
-#EXTINF:-1,De- Sky Sport 11 FHD
-http://m-iptv.net:6204/marwan/123/12310
-#EXTINF:-1,De- Sky Sport 11 HD
-http://m-iptv.net:6204/marwan/123/12309
-#EXTINF:-1,De- Sky Sport 2
-http://m-iptv.net:6204/marwan/123/12332
-#EXTINF:-1,De- Sky Sport 2 FHD
-http://m-iptv.net:6204/marwan/123/12334
-#EXTINF:-1,De- Sky Sport 2 HD
-http://m-iptv.net:6204/marwan/123/12333
-#EXTINF:-1,De- Sky Sport 3
-http://m-iptv.net:6204/marwan/123/12329
-#EXTINF:-1,De- Sky Sport 3 FHD
-http://m-iptv.net:6204/marwan/123/12331
-#EXTINF:-1,De- Sky Sport 3 HD
-http://m-iptv.net:6204/marwan/123/12330
-#EXTINF:-1,De- Sky Sport 4
-http://m-iptv.net:6204/marwan/123/12326
-#EXTINF:-1,De- Sky Sport 4 FHD
-http://m-iptv.net:6204/marwan/123/12328
-#EXTINF:-1,De- Sky Sport 4 HD
-http://m-iptv.net:6204/marwan/123/12327
-#EXTINF:-1,De- Sky Sport 5
-http://m-iptv.net:6204/marwan/123/12323
-#EXTINF:-1,De- Sky Sport 5 FHD
-http://m-iptv.net:6204/marwan/123/12325
-#EXTINF:-1,De- Sky Sport 5 HD
-http://m-iptv.net:6204/marwan/123/12324
-#EXTINF:-1,De- Sky Sport 6
-http://m-iptv.net:6204/marwan/123/12320
-#EXTINF:-1,De- Sky Sport 6 FHD
-http://m-iptv.net:6204/marwan/123/12322
-#EXTINF:-1,De- Sky Sport 6 HD
-http://m-iptv.net:6204/marwan/123/12321
-#EXTINF:-1,De- Sky Sport 7
-http://m-iptv.net:6204/marwan/123/12317
-#EXTINF:-1,De- Sky Sport 7 FHD
-http://m-iptv.net:6204/marwan/123/12319
-#EXTINF:-1,De- Sky Sport 7 HD
-http://m-iptv.net:6204/marwan/123/12318
-#EXTINF:-1,De- Sky Sport 8 FHD
-http://m-iptv.net:6204/marwan/123/12316
-#EXTINF:-1,De- Sky Sport 8 HD
-http://m-iptv.net:6204/marwan/123/12315
-#EXTINF:-1,De- Sky Sport 9 FHD
-http://m-iptv.net:6204/marwan/123/12314
-#EXTINF:-1,De- Sky Sport 9 HD
-http://m-iptv.net:6204/marwan/123/12313
-#EXTINF:-1,De- Sky Sport Austria SD
-http://m-iptv.net:6204/marwan/123/12353
-#EXTINF:-1,De- Sky Sport Bundesliga 1 FHD
-http://m-iptv.net:6204/marwan/123/12308
-#EXTINF:-1,De- Sky Sport Bundesliga 1 HD
-http://m-iptv.net:6204/marwan/123/12307
-#EXTINF:-1,De- Sky Sport Bundesliga 10 FHD
-http://m-iptv.net:6204/marwan/123/12290
-#EXTINF:-1,De- Sky Sport Bundesliga 10 HD
-http://m-iptv.net:6204/marwan/123/12289
-#EXTINF:-1,De- Sky Sport Bundesliga 2 FHD
-http://m-iptv.net:6204/marwan/123/12306
-#EXTINF:-1,De- Sky Sport Bundesliga 2 HD
-http://m-iptv.net:6204/marwan/123/12305
-#EXTINF:-1,De- Sky Sport Bundesliga 3 FHD
-http://m-iptv.net:6204/marwan/123/12304
-#EXTINF:-1,De- Sky Sport Bundesliga 3 HD
-http://m-iptv.net:6204/marwan/123/12303
-#EXTINF:-1,De- Sky Sport Bundesliga 4 FHD
-http://m-iptv.net:6204/marwan/123/12302
-#EXTINF:-1,De- Sky Sport Bundesliga 4 HD
-http://m-iptv.net:6204/marwan/123/12301
-#EXTINF:-1,De- Sky Sport Bundesliga 5 FHD
-http://m-iptv.net:6204/marwan/123/12300
-#EXTINF:-1,De- Sky Sport Bundesliga 5 HD
-http://m-iptv.net:6204/marwan/123/12299
-#EXTINF:-1,De- Sky Sport Bundesliga 6 FHD
-http://m-iptv.net:6204/marwan/123/12298
-#EXTINF:-1,De- Sky Sport Bundesliga 6 HD
-http://m-iptv.net:6204/marwan/123/12297
-#EXTINF:-1,De- Sky Sport Bundesliga 7 FHD
-http://m-iptv.net:6204/marwan/123/12296
-#EXTINF:-1,De- Sky Sport Bundesliga 7 HD
-http://m-iptv.net:6204/marwan/123/12295
-#EXTINF:-1,De- Sky Sport Bundesliga 8 FHD
-http://m-iptv.net:6204/marwan/123/12294
-#EXTINF:-1,De- Sky Sport Bundesliga 8 HD
-http://m-iptv.net:6204/marwan/123/12293
-#EXTINF:-1,De- Sky Sport Bundesliga 9 FHD
-http://m-iptv.net:6204/marwan/123/12292
-#EXTINF:-1,De- Sky Sport Bundesliga 9 HD
-http://m-iptv.net:6204/marwan/123/12291
-#EXTINF:-1,De- Sky Sport News FHD
-http://m-iptv.net:6204/marwan/123/12352
-#EXTINF:-1,De- Sky Sport News HD.
-http://m-iptv.net:6204/marwan/123/12351
-#EXTINF:-1,De- Sport 1 HD.
-http://m-iptv.net:6204/marwan/123/12360
-#EXTINF:-1,De- Sport1  HD
-http://m-iptv.net:6204/marwan/123/12359
-#EXTINF:-1,De- Sport1 US FHD
-http://m-iptv.net:6204/marwan/123/12358
-#EXTINF:-1,De- Sportdigital HD
-http://m-iptv.net:6204/marwan/123/12357
-#EXTINF:-1,Fr: Canal    Sport HD
-http://m-iptv.net:6204/marwan/123/8072
-#EXTINF:-1,Fr: Eurosport 1 Fr
-http://m-iptv.net:6204/marwan/123/8046
-#EXTINF:-1,Fr: InfoSport
-http://m-iptv.net:6204/marwan/123/8033
-#EXTINF:-1,Fr- SFR SPORT 1 FHD
-http://m-iptv.net:6204/marwan/123/14046
-#EXTINF:-1,Fr- SFR SPORT 2 FHD
-http://m-iptv.net:6204/marwan/123/14045
-#EXTINF:-1,Fr- SFR SPORT 3 FHD
-http://m-iptv.net:6204/marwan/123/14044
-#EXTINF:-1,Fr- SFR SPORT 4 FHD
-http://m-iptv.net:6204/marwan/123/14043
-#EXTINF:-1,Fr- SFR SPORT 5 FHD
-http://m-iptv.net:6204/marwan/123/14042
-#EXTINF:-1,Fr- BEIN SPORT 1 HD
-http://m-iptv.net:6204/marwan/123/14041
-#EXTINF:-1,Fr- BEIN SPORT 2 HD
-http://m-iptv.net:6204/marwan/123/14040
-#EXTINF:-1,Fr- BEIN SPORT 3 HD
-http://m-iptv.net:6204/marwan/123/14039
-#EXTINF:-1,It- Eurosport
-http://m-iptv.net:6204/marwan/123/9464
-#EXTINF:-1,It- Eurosport 2 HD
-http://m-iptv.net:6204/marwan/123/9463
-#EXTINF:-1,It- Premium Fox Sport HD
-http://m-iptv.net:6204/marwan/123/9452
-#EXTINF:-1,It- Premium Sport 2
-http://m-iptv.net:6204/marwan/123/9451
-#EXTINF:-1,It- Premium Sport HD
-http://m-iptv.net:6204/marwan/123/9450
-#EXTINF:-1,It- Premium Sport HD 2
-http://m-iptv.net:6204/marwan/123/9449
-#EXTINF:-1,It- Rai Sports 1
-http://m-iptv.net:6204/marwan/123/9441
-#EXTINF:-1,It- Rai Sports 2
-http://m-iptv.net:6204/marwan/123/9440
-#EXTINF:-1,It- Sky Sport 1 HD
-http://m-iptv.net:6204/marwan/123/9425
-#EXTINF:-1,It- Sky Sport 2 HD
-http://m-iptv.net:6204/marwan/123/9424
-#EXTINF:-1,It- Sky Sport 24 HD
-http://m-iptv.net:6204/marwan/123/9423
-#EXTINF:-1,It- Sky Sport 3 HD
-http://m-iptv.net:6204/marwan/123/9422
-#EXTINF:-1,It- Sky Sport F1 HD
-http://m-iptv.net:6204/marwan/123/9421
-#EXTINF:-1,It- Sky Sport MotoGP HD
-http://m-iptv.net:6204/marwan/123/9420
-#EXTINF:-1,It- Sport Italia
-http://m-iptv.net:6204/marwan/123/9416
-#EXTINF:-1,NL- EuroSport 1 HD
-http://m-iptv.net:6204/marwan/123/9570
-#EXTINF:-1,NL- EuroSport 2 HD
-http://m-iptv.net:6204/marwan/123/9569
-#EXTINF:-1,NL- Extreme Sports
-http://m-iptv.net:6204/marwan/123/9568
-#EXTINF:-1,NL- EDGE Sport HD NL
-http://m-iptv.net:6204/marwan/123/11062
-#EXTINF:-1,NL- Ziggo Sport Voetbal
-http://m-iptv.net:6204/marwan/123/9517
-#EXTINF:-1,NL- Ziggo Sport Select HD
-http://m-iptv.net:6204/marwan/123/9518
-#EXTINF:-1,NL- Ziggo Sport Golf
-http://m-iptv.net:6204/marwan/123/9520
-#EXTINF:-1,NL- Ziggo Sport Extra 1
-http://m-iptv.net:6204/marwan/123/9522
-#EXTINF:-1,NL- Ziggo Sport Extra 2
-http://m-iptv.net:6204/marwan/123/9521
-#EXTINF:-1,NL- Ziggo Sport Racing
-http://m-iptv.net:6204/marwan/123/9519
-#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
-http://m-iptv.net:6204/marwan/123/11192
-#EXTINF:-1,NL- Ziggo Sport Select HD Backup
-http://m-iptv.net:6204/marwan/123/11193
-#EXTINF:-1,NL- Ziggo Sport Golf Backup
-http://m-iptv.net:6204/marwan/123/11194
-#EXTINF:-1,NL- Ziggo Sport Extra 1 Backup
-http://m-iptv.net:6204/marwan/123/11196
-#EXTINF:-1,NL- Ziggo Sport Extra 2 Backup
-http://m-iptv.net:6204/marwan/123/11195
-#EXTINF:-1,NL- Fox Sport 1 HD
-http://m-iptv.net:6204/marwan/123/9561
-#EXTINF:-1,NL- Fox Sport 2 HD
-http://m-iptv.net:6204/marwan/123/9560
-#EXTINF:-1,NL- Fox Sport 3 HD
-http://m-iptv.net:6204/marwan/123/9559
-#EXTINF:-1,NL- Fox Sport 4 HD
-http://m-iptv.net:6204/marwan/123/9558
-#EXTINF:-1,NL- Fox Sport 5 HD
-http://m-iptv.net:6204/marwan/123/9557
-#EXTINF:-1,NL- Fox Sport 6 HD
-http://m-iptv.net:6204/marwan/123/9556
-#EXTINF:-1,NL- Fox Sport 1 HD backup
-http://m-iptv.net:6204/marwan/123/11202
-#EXTINF:-1,NL- Fox Sport 2 HD backup
-http://m-iptv.net:6204/marwan/123/11201
-#EXTINF:-1,NL- Fox Sport 3 HD backup
-http://m-iptv.net:6204/marwan/123/11200
-#EXTINF:-1,NL- Fox Sport 4 HD backup
-http://m-iptv.net:6204/marwan/123/11199
-#EXTINF:-1,NL- Fox Sport 5 HD backup
-http://m-iptv.net:6204/marwan/123/11198
-#EXTINF:-1,NL- Fox Sport 6 HD backup
-http://m-iptv.net:6204/marwan/123/11197
-#EXTINF:-1,NL- FOX Sports 1 HD Backup2
-http://m-iptv.net:6204/marwan/123/13549
-#EXTINF:-1,NL- FOX Sports 2 HD Backup2
-http://m-iptv.net:6204/marwan/123/13548
-#EXTINF:-1,NL- FOX Sports 3 HD Backup2
-http://m-iptv.net:6204/marwan/123/13547
-#EXTINF:-1,NL- FOX Sports 4 HD Backup2
-http://m-iptv.net:6204/marwan/123/13546
-#EXTINF:-1,NL- FOX Sports 5 HD Backup2
-http://m-iptv.net:6204/marwan/123/13545
-#EXTINF:-1,NL- FOX Sports 6 HD Backup2
-http://m-iptv.net:6204/marwan/123/13544
-#EXTINF:-1,Se- C More Sport HD
-http://m-iptv.net:6204/marwan/123/7161
-#EXTINF:-1,Se- Eurosport 1 HD
-http://m-iptv.net:6204/marwan/123/8414
-#EXTINF:-1,Se- Eurosport 2 HD
-http://m-iptv.net:6204/marwan/123/8143
-#EXTINF:-1,Se- Viasat Sport
-http://m-iptv.net:6204/marwan/123/13510
-#EXTINF:-1,Se- Viasat Sport Premium HD
-http://m-iptv.net:6204/marwan/123/13509
-#EXTINF:-1,Se- Viasat Sport Baltic HD
-http://m-iptv.net:6204/marwan/123/8113
-#EXTINF:-1,Se- Fight Sports
-http://m-iptv.net:6204/marwan/123/13521
-#EXTINF:-1,Se- SportKanalen FHD
-http://m-iptv.net:6204/marwan/123/13520
-#EXTINF:-1,Se- TV 3 Sport HD
-http://m-iptv.net:6204/marwan/123/13519
-#EXTINF:-1,Se- Motorsport TV
-http://m-iptv.net:6204/marwan/123/13484
-#EXTINF:-1,No- TV 2 Sportskanalen HD
-http://m-iptv.net:6204/marwan/123/7167
-#EXTINF:-1,No- Eurosport HD
-http://m-iptv.net:6204/marwan/123/8142
-#EXTINF:-1,No- Eurosport Norge HD
-http://m-iptv.net:6204/marwan/123/8138
-#EXTINF:-1,No- Eurosport Pluss 1
-http://m-iptv.net:6204/marwan/123/13466
-#EXTINF:-1,No- Eurosport Pluss 2
-http://m-iptv.net:6204/marwan/123/13465
-#EXTINF:-1,No- Eurosport Pluss 3
-http://m-iptv.net:6204/marwan/123/13464
-#EXTINF:-1,No- Eurosport Pluss 4
-http://m-iptv.net:6204/marwan/123/13463
-#EXTINF:-1,Dn- TV 2 SPORT HD
-http://m-iptv.net:6204/marwan/123/13473
-#EXTINF:-1,Fi- C More Sport 1 HD
-http://m-iptv.net:6204/marwan/123/9621
-#EXTINF:-1,Fi- C More Sport 2
-http://m-iptv.net:6204/marwan/123/9620
-#EXTINF:-1,PT- EUROSPORT 1
-http://m-iptv.net:6204/marwan/123/8853
-#EXTINF:-1,PT- EUROSPORT 2
-http://m-iptv.net:6204/marwan/123/8852
-#EXTINF:-1,PT- EuroSport 2 XTRA HD
-http://m-iptv.net:6204/marwan/123/8851
-#EXTINF:-1,PT- EUROSPORT NEWS
-http://m-iptv.net:6204/marwan/123/8850
-#EXTINF:-1,PT- SPORT TV
-http://m-iptv.net:6204/marwan/123/8810
-#EXTINF:-1,PT- SPORT TV   HD
-http://m-iptv.net:6204/marwan/123/8809
-#EXTINF:-1,PT- SPORTING TV
-http://m-iptv.net:6204/marwan/123/8808
-#EXTINF:-1,PT- SPORTTV 1 HD
-http://m-iptv.net:6204/marwan/123/8807
-#EXTINF:-1,PT- SPORTTV 1 SD
-http://m-iptv.net:6204/marwan/123/8806
-#EXTINF:-1,PT- SPORTTV 2 HD
-http://m-iptv.net:6204/marwan/123/8805
-#EXTINF:-1,PT- SPORTTV 2 SD
-http://m-iptv.net:6204/marwan/123/8804
-#EXTINF:-1,PT- SPORTTV 3 HD
-http://m-iptv.net:6204/marwan/123/8803
-#EXTINF:-1,PT- SPORTTV 3 SD
-http://m-iptv.net:6204/marwan/123/8802
-#EXTINF:-1,PT- SPORTTV 4 HD
-http://m-iptv.net:6204/marwan/123/8801
-#EXTINF:-1,PT- SPORTTV 5 HD
-http://m-iptv.net:6204/marwan/123/8800
-#EXTINF:-1,Es- BEIN SPORTS
-http://m-iptv.net:6204/marwan/123/10012
-#EXTINF:-1,Es- EUROSPORT 1
-http://m-iptv.net:6204/marwan/123/9994
-#EXTINF:-1,Es- EUROSPORT 2
-http://m-iptv.net:6204/marwan/123/9993
-#EXTINF:-1,Be- Eleven Sports 1
-http://m-iptv.net:6204/marwan/123/14002
-#EXTINF:-1,Be- Eleven Sports 2
-http://m-iptv.net:6204/marwan/123/14001
-#EXTINF:-1,Be- Eleven Sports 3
-http://m-iptv.net:6204/marwan/123/14000
-#EXTINF:-1,Be- Voo Sport 1 HD
-http://m-iptv.net:6204/marwan/123/13389
-#EXTINF:-1,Be- Voo Sport 2 HD
-http://m-iptv.net:6204/marwan/123/13388
-#EXTINF:-1,Be- Voo Sport 3 HD
-http://m-iptv.net:6204/marwan/123/13387
-#EXTINF:-1,Be- VOO SPORTS 1 Backup
-http://m-iptv.net:6204/marwan/123/14011
-#EXTINF:-1,Be- VOO SPORTS 2 Backup
-http://m-iptv.net:6204/marwan/123/14010
-#EXTINF:-1,Be- VOO SPORTS 4 Backup
-http://m-iptv.net:6204/marwan/123/14009
-#EXTINF:-1,Be- VOO SPORTS WORLD
-http://m-iptv.net:6204/marwan/123/14008
-#EXTINF:-1,BG- Diema Sport
-http://m-iptv.net:6204/marwan/123/12440
-#EXTINF:-1,BG- Diema Sport 2
-http://m-iptv.net:6204/marwan/123/12439
-#EXTINF:-1,BG- MAX Sport 1
-http://m-iptv.net:6204/marwan/123/12403
-#EXTINF:-1,BG- MAX Sport 2
-http://m-iptv.net:6204/marwan/123/12402
-#EXTINF:-1,BG- nova Sport
-http://m-iptv.net:6204/marwan/123/12424
-#EXTINF:-1,Pl- CANAL SPORT
-http://m-iptv.net:6204/marwan/123/10571
-#EXTINF:-1,Pl- CANAL SPORT 2
-http://m-iptv.net:6204/marwan/123/10570
-#EXTINF:-1,Pl- ELEVEN Sport HD
-http://m-iptv.net:6204/marwan/123/10558
-#EXTINF:-1,Pl- Eurosport 1
-http://m-iptv.net:6204/marwan/123/10555
-#EXTINF:-1,Pl- Eurosport 1 HD
-http://m-iptv.net:6204/marwan/123/10554
-#EXTINF:-1,Pl- Eurosport 2 HD
-http://m-iptv.net:6204/marwan/123/10553
-#EXTINF:-1,Pl- Extreme Sports HD
-http://m-iptv.net:6204/marwan/123/10552
-#EXTINF:-1,Pl- nSport
-http://m-iptv.net:6204/marwan/123/10520
-#EXTINF:-1,Pl- Polsat Sport
-http://m-iptv.net:6204/marwan/123/10510
-#EXTINF:-1,Pl- Polsat Sport Extra HD
-http://m-iptv.net:6204/marwan/123/10509
-#EXTINF:-1,Pl- Polsat Sport HD
-http://m-iptv.net:6204/marwan/123/10508
-#EXTINF:-1,Pl- Polsat Sport News HD
-http://m-iptv.net:6204/marwan/123/10507
-#EXTINF:-1,Ru- EUROSPORT 1
-http://m-iptv.net:6204/marwan/123/13330
-#EXTINF:-1,Ru- EUROSPORT 2
-http://m-iptv.net:6204/marwan/123/13226
-#EXTINF:-1,Ru- VIASAT SPORT
-http://m-iptv.net:6204/marwan/123/13200
-#EXTINF:-1,Pk- Ptv Sports
-http://m-iptv.net:6204/marwan/123/8891
-#EXTINF:-1,Pk- Sport Cricket HD
-http://m-iptv.net:6204/marwan/123/13444
-#EXTINF:-1,AFG- Varzish Sport HD
-http://m-iptv.net:6204/marwan/123/1925
-#EXTINF:-1,In- Sport Cricket HD
-http://m-iptv.net:6204/marwan/123/13447
-#EXTINF:-1,In- Sports Cricket HD Backup
-http://m-iptv.net:6204/marwan/123/13446
-#EXTINF:-1,Al- Eurosport 2 HD
-http://m-iptv.net:6204/marwan/123/9123
-#EXTINF:-1,Al- Super Sport 1 HD
-http://m-iptv.net:6204/marwan/123/9088
-#EXTINF:-1,Al- Super Sport 2 HD
-http://m-iptv.net:6204/marwan/123/9087
-#EXTINF:-1,Al- Super Sport 3 HD
-http://m-iptv.net:6204/marwan/123/9086
-#EXTINF:-1,Al- Super Sport 4
-http://m-iptv.net:6204/marwan/123/9085
-#EXTINF:-1,Al- Tring Sport 1 HD
-http://m-iptv.net:6204/marwan/123/9070
-#EXTINF:-1,Al- Tring Sport 2 HD
-http://m-iptv.net:6204/marwan/123/9069
-#EXTINF:-1,Al- Tring Sport 3 HD
-http://m-iptv.net:6204/marwan/123/9068
-#EXTINF:-1,Al- Tring Sport 4 HD
-http://m-iptv.net:6204/marwan/123/9067
-#EXTINF:-1,Al- Tring Sport News
-http://m-iptv.net:6204/marwan/123/9066
-#EXTINF:-1,Cz- Sport 1
-http://m-iptv.net:6204/marwan/123/8330
-#EXTINF:-1,Cz- Sport 5
-http://m-iptv.net:6204/marwan/123/8328
-#EXTINF:-1,Ro- Dolce Sport 1 HD
-http://m-iptv.net:6204/marwan/123/9049
-#EXTINF:-1,Ro- Dolce Sport 2 HD
-http://m-iptv.net:6204/marwan/123/9048
-#EXTINF:-1,Is- Yes Sport 1 HD
-http://m-iptv.net:6204/marwan/123/8653
-#EXTINF:-1,Is- Yes Sport 2 HD
-http://m-iptv.net:6204/marwan/123/8652
-#EXTINF:-1,Is- Yes Sport 3 hd
-http://m-iptv.net:6204/marwan/123/8651
-#EXTINF:-1,Is- Yes sport 4 hd
-http://m-iptv.net:6204/marwan/123/8650
-#EXTINF:-1,Is- Yes Sport 5 Gold
-http://m-iptv.net:6204/marwan/123/8649
-#EXTINF:-1,Is- Yes Sport 5 HD
-http://m-iptv.net:6204/marwan/123/8648
-#EXTINF:-1,Is- Yes Sport 5 Plus Live HD
-http://m-iptv.net:6204/marwan/123/8647
-#EXTINF:-1,Us- Bein Sports
-http://m-iptv.net:6204/marwan/123/10646
-#EXTINF:-1,Us- CBS Sport HD
-http://m-iptv.net:6204/marwan/123/10433
-#EXTINF:-1,Us- Fox sport 1 HD
-http://m-iptv.net:6204/marwan/123/10416
-#EXTINF:-1,Us- Fox sport 2 HD
-http://m-iptv.net:6204/marwan/123/10415
-#EXTINF:-1,Sudan Sport
-http://rb-group-server.com:25461/444777/777444/9330
-#EXTINF:-1,Neelain Sport
-http://rb-group-server.com:25461/444777/777444/9325
-#EXTINF:-1,--------SPORT--------
-http://rb-group-server.com:25461/444777/777444/3147
-#EXTINF:-1,ON Sport
-http://rb-group-server.com:25461/444777/777444/2913
-#EXTINF:-1,AD Sport1
-http://rb-group-server.com:25461/444777/777444/3137
-#EXTINF:-1,AD Sport2
-http://rb-group-server.com:25461/444777/777444/3135
-#EXTINF:-1,AD Sport3
-http://rb-group-server.com:25461/444777/777444/3134
-#EXTINF:-1,YAS Sports HD
-http://rb-group-server.com:25461/444777/777444/4443
-#EXTINF:-1,Dubai Sport 1
-http://rb-group-server.com:25461/444777/777444/3129
-#EXTINF:-1,Dubai Sports 2
-http://rb-group-server.com:25461/444777/777444/6383
-#EXTINF:-1,Dubai Sports 3
-http://rb-group-server.com:25461/444777/777444/3128
-#EXTINF:-1,Saudi Sport
-http://rb-group-server.com:25461/444777/777444/4353
-#EXTINF:-1,DMC Sports
-http://rb-group-server.com:25461/444777/777444/2910
-#EXTINF:-1,KTV Sport HD
-http://rb-group-server.com:25461/444777/777444/3123
-#EXTINF:-1,--------beIN SPORTS--------
-http://rb-group-server.com:25461/444777/777444/3168
-#EXTINF:-1,beIN SPORTS NEWS HD
-http://rb-group-server.com:25461/444777/777444/3150
-#EXTINF:-1,beIN SPORTS HD1
-http://rb-group-server.com:25461/444777/777444/12075
-#EXTINF:-1,beIN SPORTS HD2
-http://rb-group-server.com:25461/444777/777444/12076
-#EXTINF:-1,beIN SPORTS HD3
-http://rb-group-server.com:25461/444777/777444/3165
-#EXTINF:-1,beIN SPORTS HD4
-http://rb-group-server.com:25461/444777/777444/3164
-#EXTINF:-1,beIN SPORTS HD5
-http://rb-group-server.com:25461/444777/777444/3163
-#EXTINF:-1,beIN SPORTS HD6
-http://rb-group-server.com:25461/444777/777444/3162
-#EXTINF:-1,beIN SPORTS HD7
-http://rb-group-server.com:25461/444777/777444/3161
-#EXTINF:-1,beIN SPORTS HD8
-http://rb-group-server.com:25461/444777/777444/3160
-#EXTINF:-1,beIN SPORTS HD9
-http://rb-group-server.com:25461/444777/777444/3159
-#EXTINF:-1,beIN SPORTS HD10
-http://rb-group-server.com:25461/444777/777444/3158
-#EXTINF:-1,beIN SPORTS HD11
-http://rb-group-server.com:25461/444777/777444/3157
-#EXTINF:-1,beIN SPORTS HD12
-http://rb-group-server.com:25461/444777/777444/3156
-#EXTINF:-1,BeIN SPORTS SD1
-http://rb-group-server.com:25461/444777/777444/12068
-#EXTINF:-1,BeIN SPORTS SD2
-http://rb-group-server.com:25461/444777/777444/12067
-#EXTINF:-1,BeIN SPORTS SD3
-http://rb-group-server.com:25461/444777/777444/11876
-#EXTINF:-1,BeIN SPORTS SD4
-http://rb-group-server.com:25461/444777/777444/11875
-#EXTINF:-1,BeIN SPORTS SD5
-http://rb-group-server.com:25461/444777/777444/11874
-#EXTINF:-1,BeIN SPORTS SD6
-http://rb-group-server.com:25461/444777/777444/11873
-#EXTINF:-1,BeIN SPORTS SD7
-http://rb-group-server.com:25461/444777/777444/11872
-#EXTINF:-1,OSN Sports Cricket HD
-http://rb-group-server.com:25461/444777/777444/6306
-#EXTINF:-1,Canal+ Sport
-http://rb-group-server.com:25461/444777/777444/12072
-#EXTINF:-1,RMC Sport 1
-http://rb-group-server.com:25461/444777/777444/12069
-#EXTINF:-1,RMC Sport 2
-http://rb-group-server.com:25461/444777/777444/5472
-#EXTINF:-1,RMC Sport 3
-http://rb-group-server.com:25461/444777/777444/5471
-#EXTINF:-1,RMC Sport 5
-http://rb-group-server.com:25461/444777/777444/5470
-#EXTINF:-1,Bein Sport HD 1
-http://rb-group-server.com:25461/444777/777444/12070
-#EXTINF:-1,Bein Sport HD 2
-http://rb-group-server.com:25461/444777/777444/12074
-#EXTINF:-1,Bein Sport HD 3
-http://rb-group-server.com:25461/444777/777444/12065
-#EXTINF:-1,beIN Sports max 4 HD
-http://rb-group-server.com:25461/444777/777444/3285
-#EXTINF:-1,beIN Sports max 5 HD
-http://rb-group-server.com:25461/444777/777444/3284
-#EXTINF:-1,beIN Sports max 6 HD
-http://rb-group-server.com:25461/444777/777444/3286
-#EXTINF:-1,beIN Sports max 7 HD
-http://rb-group-server.com:25461/444777/777444/3283
-#EXTINF:-1,beIN Sports max 8 HD
-http://rb-group-server.com:25461/444777/777444/3282
-#EXTINF:-1,beIN Sports max 9 HD
-http://rb-group-server.com:25461/444777/777444/11454
-#EXTINF:-1,beIN Sports max 10 HD
-http://rb-group-server.com:25461/444777/777444/11455
-#EXTINF:-1,Infosport
-http://rb-group-server.com:25461/444777/777444/5466
-#EXTINF:-1,Eurosport 1
-http://rb-group-server.com:25461/444777/777444/3277
-#EXTINF:-1,Eurosport 2
-http://rb-group-server.com:25461/444777/777444/3276
-#EXTINF:-1,Sky Sport News. HD
-http://rb-group-server.com:25461/444777/777444/3439
-#EXTINF:-1,Sky Sport Austria
-http://rb-group-server.com:25461/444777/777444/3398
-#EXTINF:-1,Eurosport 1 HD
-http://rb-group-server.com:25461/444777/777444/9129
-#EXTINF:-1,Euro sport 2 HD
-http://rb-group-server.com:25461/444777/777444/9130
-#EXTINF:-1,eurosport 2 Extra HD
-http://rb-group-server.com:25461/444777/777444/9199
-#EXTINF:-1,SPORT 1 HD
-http://rb-group-server.com:25461/444777/777444/7118
-#EXTINF:-1,Sky Sport.1
-http://rb-group-server.com:25461/444777/777444/3415
-#EXTINF:-1,Sky Sport.2
-http://rb-group-server.com:25461/444777/777444/3414
-#EXTINF:-1,sky sport.3
-http://rb-group-server.com:25461/444777/777444/9435
-#EXTINF:-1,sky sport.4
-http://rb-group-server.com:25461/444777/777444/9436
-#EXTINF:-1,sky sport.5
-http://rb-group-server.com:25461/444777/777444/9437
-#EXTINF:-1,sky sport.6
-http://rb-group-server.com:25461/444777/777444/9438
-#EXTINF:-1,sky sport.7
-http://rb-group-server.com:25461/444777/777444/9439
-#EXTINF:-1,sky sport.8
-http://rb-group-server.com:25461/444777/777444/9440
-#EXTINF:-1,sky sport.9
-http://rb-group-server.com:25461/444777/777444/9441
-#EXTINF:-1,sky sport.10
-http://rb-group-server.com:25461/444777/777444/9442
-#EXTINF:-1,Sky.Sport Bundesliga1
-http://rb-group-server.com:25461/444777/777444/3413
-#EXTINF:-1,Sky Sport Bundesliga1 HD
-http://rb-group-server.com:25461/444777/777444/8687
-#EXTINF:-1,Sky.Sport .Bundesliga2
-http://rb-group-server.com:25461/444777/777444/3412
-#EXTINF:-1,Rai Sport 1
-http://rb-group-server.com:25461/444777/777444/3500
-#EXTINF:-1,Rai Sport 2
-http://rb-group-server.com:25461/444777/777444/3499
-#EXTINF:-1,Sport Italia
-http://rb-group-server.com:25461/444777/777444/3532
-#EXTINF:-1,Eurosport 2 HD
-http://rb-group-server.com:25461/444777/777444/4520
-#EXTINF:-1,Sky.Sport24
-http://rb-group-server.com:25461/444777/777444/3478
-#EXTINF:-1,FOX' SPORTS
-http://rb-group-server.com:25461/444777/777444/3484
-#EXTINF:-1,Premium Sport
-http://rb-group-server.com:25461/444777/777444/3569
-#EXTINF:-1,Premium Sport 2
-http://rb-group-server.com:25461/444777/777444/3570
-#EXTINF:-1,Eurosport'1
-http://rb-group-server.com:25461/444777/777444/5551
-#EXTINF:-1,Eurosport'2
-http://rb-group-server.com:25461/444777/777444/5552
-#EXTINF:-1,Premier Sports
-http://rb-group-server.com:25461/444777/777444/4761
-#EXTINF:-1,Eurosport 1.
-http://rb-group-server.com:25461/444777/777444/4771
-#EXTINF:-1,Eurosport 2.
-http://rb-group-server.com:25461/444777/777444/4770
-#EXTINF:-1,Eir Sport1
-http://rb-group-server.com:25461/444777/777444/4765
-#EXTINF:-1,Eir Sport 2
-http://rb-group-server.com:25461/444777/777444/4740
-#EXTINF:-1,Sky Sports News UK
-http://rb-group-server.com:25461/444777/777444/4785
-#EXTINF:-1,Sky Sports Action
-http://rb-group-server.com:25461/444777/777444/4783
-#EXTINF:-1,Sky Sports F1
-http://rb-group-server.com:25461/444777/777444/4778
-#EXTINF:-1,Sky Sports 5 HD
-http://rb-group-server.com:25461/444777/777444/4779
-#EXTINF:-1,Sky Sports Main Event
-http://rb-group-server.com:25461/444777/777444/4784
-#EXTINF:-1,Sky Sports MIX
-http://rb-group-server.com:25461/444777/777444/4782
-#EXTINF:-1,Sky Sports Cricket
-http://rb-group-server.com:25461/444777/777444/4781
-#EXTINF:-1,Bt Sport Extra1
-http://rb-group-server.com:25461/444777/777444/4746
-#EXTINF:-1,Sky Sports Golf
-http://rb-group-server.com:25461/444777/777444/4780
-#EXTINF:-1,BT Sports 1
-http://rb-group-server.com:25461/444777/777444/4777
-#EXTINF:-1,BT Sports 2
-http://rb-group-server.com:25461/444777/777444/4776
-#EXTINF:-1,BT Sports 3
-http://rb-group-server.com:25461/444777/777444/4775
-#EXTINF:-1,BT Sport Extra_2
-http://rb-group-server.com:25461/444777/777444/4745
-#EXTINF:-1,BT Sport Extra 3
-http://rb-group-server.com:25461/444777/777444/4744
-#EXTINF:-1,BT Sport Extra 4
-http://rb-group-server.com:25461/444777/777444/4743
-#EXTINF:-1,BT Sport ESPN
-http://rb-group-server.com:25461/444777/777444/4742
-#EXTINF:-1,BT Sports ESPN
-http://rb-group-server.com:25461/444777/777444/4774
-#EXTINF:-1,USA FoxSports 1
-http://rb-group-server.com:25461/444777/777444/3716
-#EXTINF:-1,USA Fox Sports 2 HD
-http://rb-group-server.com:25461/444777/777444/3715
-#EXTINF:-1,CA-Sportsnet One
-http://rb-group-server.com:25461/444777/777444/6808
-#EXTINF:-1,CA-Sportsnet 360
-http://rb-group-server.com:25461/444777/777444/6807
-#EXTINF:-1,CA-Sportsnet World
-http://rb-group-server.com:25461/444777/777444/6810
-#EXTINF:-1,CA-Sportsnet Ontario
-http://rb-group-server.com:25461/444777/777444/6809
-#EXTINF:-1,Voo Sport World 1 HD
-http://rb-group-server.com:25461/444777/777444/8709
-#EXTINF:-1,Voo Sport World 2 HD
-http://rb-group-server.com:25461/444777/777444/8710
-#EXTINF:-1,Voo Sport World 3 HD
-http://rb-group-server.com:25461/444777/777444/8711
-#EXTINF:-1,TRT Sports
-http://rb-group-server.com:25461/444777/777444/5260
-#EXTINF:-1,Smart Sport HD
-http://rb-group-server.com:25461/444777/777444/5264
-#EXTINF:-1,A SPORT HD
-http://rb-group-server.com:25461/444777/777444/8949
-#EXTINF:-1,NTV Sport
-http://rb-group-server.com:25461/444777/777444/5269
-#EXTINF:-1,Bein Sport 1 HD
-http://rb-group-server.com:25461/444777/777444/5272
-#EXTINF:-1,Bein Sport 2 HD
-http://rb-group-server.com:25461/444777/777444/5271
-#EXTINF:-1,Bein Sport 3 HD
-http://rb-group-server.com:25461/444777/777444/5270
-#EXTINF:-1,Tivibu Sport 1 HD
-http://rb-group-server.com:25461/444777/777444/5268
-#EXTINF:-1,Tivibu Sport 2 HD
-http://rb-group-server.com:25461/444777/777444/5267
-#EXTINF:-1,Tivibu Sport 3 HD
-http://rb-group-server.com:25461/444777/777444/5266
-#EXTINF:-1,Star Sport 1 HD
-http://rb-group-server.com:25461/444777/777444/3976
-#EXTINF:-1,Star Sport4 HD
-http://rb-group-server.com:25461/444777/777444/3979
-#EXTINF:-1,SW: C More Sport HD
-http://rb-group-server.com:25461/444777/777444/8909
-#EXTINF:-1,Sport TV 1HD
-http://rb-group-server.com:25461/444777/777444/5035
-#EXTINF:-1,Sport TV 2HD
-http://rb-group-server.com:25461/444777/777444/5034
-#EXTINF:-1,Sport TV 3HD
-http://rb-group-server.com:25461/444777/777444/5033
-#EXTINF:-1,Sport TV 4HD
-http://rb-group-server.com:25461/444777/777444/5032
-#EXTINF:-1,Sport TV 5HD
-http://rb-group-server.com:25461/444777/777444/5031
-#EXTINF:-1,Motorsport Tv.
-http://rb-group-server.com:25461/444777/777444/10674
-#EXTINF:-1,Digi Sport 1
-http://rb-group-server.com:25461/444777/777444/11210
-#EXTINF:-1,Digi Sport 2
-http://rb-group-server.com:25461/444777/777444/11209
-#EXTINF:-1,Digi Sport 3
-http://rb-group-server.com:25461/444777/777444/11208
-#EXTINF:-1,Digi Sport 4
-http://rb-group-server.com:25461/444777/777444/11207
-#EXTINF:-1,Sport.ro
-http://rb-group-server.com:25461/444777/777444/11183
-#EXTINF:-1,Eurosport
-http://rb-group-server.com:25461/444777/777444/11203
-#EXTINF:-1,Eurosport. 2
-http://rb-group-server.com:25461/444777/777444/11202
-#EXTINF:-1,Latino - Fox Sports
-http://unlockyourtv.com:8000/superman/123456/2444
-#EXTINF:-1,Latino - Fox Sports 2
-http://unlockyourtv.com:8000/superman/123456/2445
-#EXTINF:-1,Latino - Fox Sports 3
-http://unlockyourtv.com:8000/superman/123456/2446
-#EXTINF:-1,Bein Sports
-http://unlockyourtv.com:8000/superman/123456/2144
-#EXTINF:-1,Fox Sports 1
-http://unlockyourtv.com:8000/superman/123456/893
-#EXTINF:-1,Fox Sports 2
-http://unlockyourtv.com:8000/superman/123456/894
-#EXTINF:-1,FOX Collage Sports Atlantic
-http://unlockyourtv.com:8000/superman/123456/1007
-#EXTINF:-1,FOX Collage Sports Central
-http://unlockyourtv.com:8000/superman/123456/1008
-#EXTINF:-1,FOX Collage Sports Pacific
-http://unlockyourtv.com:8000/superman/123456/1009
-#EXTINF:-1,FOX Sports Arizona
-http://unlockyourtv.com:8000/superman/123456/1011
-#EXTINF:-1,FOX Sports Detroit
-http://unlockyourtv.com:8000/superman/123456/1012
-#EXTINF:-1,FOX Sports Carolinas
-http://unlockyourtv.com:8000/superman/123456/1020
-#EXTINF:-1,FOX Sports Midwest
-http://unlockyourtv.com:8000/superman/123456/1021
-#EXTINF:-1,FOX Sports New Orleans
-http://unlockyourtv.com:8000/superman/123456/1022
-#EXTINF:-1,FOX Sports North
-http://unlockyourtv.com:8000/superman/123456/1023
-#EXTINF:-1,FOX Sports North Plus
-http://unlockyourtv.com:8000/superman/123456/1024
-#EXTINF:-1,FOX Sports Ohio
-http://unlockyourtv.com:8000/superman/123456/1025
-#EXTINF:-1,Fox Sports San Diego
-http://unlockyourtv.com:8000/superman/123456/1015
-#EXTINF:-1,FOX Sports SouthWest
-http://unlockyourtv.com:8000/superman/123456/1016
-#EXTINF:-1,Fox Sports SouthWest Plus
-http://unlockyourtv.com:8000/superman/123456/1017
-#EXTINF:-1,FOX Sports SUN
-http://unlockyourtv.com:8000/superman/123456/1018
-#EXTINF:-1,FOX Sports West
-http://unlockyourtv.com:8000/superman/123456/1019
-#EXTINF:-1,NBC Sports Network
-http://unlockyourtv.com:8000/superman/123456/986
-#EXTINF:-1,Sports Net 360 HD
-http://unlockyourtv.com:8000/superman/123456/1094
-#EXTINF:-1,Sports Net Pacific
-http://unlockyourtv.com:8000/superman/123456/1097
-#EXTINF:-1,Sports Net World HD
-http://unlockyourtv.com:8000/superman/123456/1096
-#EXTINF:-1,Bein Sports Hd 1
-http://formen1.com:8080/live/yukselis35/35yukselis/135.ts
-#EXTINF:-1,Bein Sports 1 Hd 265.hvec
-http://formen1.com:8080/live/yukselis35/35yukselis/2785.ts
-#EXTINF:-1,Bein Sports Sd 1
-http://formen1.com:8080/live/yukselis35/35yukselis/8568.ts
-#EXTINF:-1,Bein Sports Hd 1 Mobile
-http://formen1.com:8080/live/yukselis35/35yukselis/8238.ts
-#EXTINF:-1,Bein Sports Hd 1080i
-http://formen1.com:8080/live/yukselis35/35yukselis/8570.ts
-#EXTINF:-1,Bein Sports 1 4k & Bein Iz
-http://formen1.com:8080/live/yukselis35/35yukselis/8776.ts
-#EXTINF:-1,Bein Sports Sd 1 ( 1024x576 )
-http://formen1.com:8080/live/yukselis35/35yukselis/8569.ts
-#EXTINF:-1,Bein Sports Hd 2
-http://formen1.com:8080/live/yukselis35/35yukselis/134.ts
-#EXTINF:-1,Bein Sports Sd 2
-http://formen1.com:8080/live/yukselis35/35yukselis/8983.ts
-#EXTINF:-1,Bein Sports Hd 3
-http://formen1.com:8080/live/yukselis35/35yukselis/133.ts
-#EXTINF:-1,Bein Sports Sd 3
-http://formen1.com:8080/live/yukselis35/35yukselis/8984.ts
-#EXTINF:-1,Bein Sports Hd 4
-http://formen1.com:8080/live/yukselis35/35yukselis/132.ts
-#EXTINF:-1,Bein Sports Sd 4
-http://formen1.com:8080/live/yukselis35/35yukselis/16197.ts
-#EXTINF:-1,Bein Sports Max 1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/8153.ts
-#EXTINF:-1,Bein Sports Max 1 Sd
-http://formen1.com:8080/live/yukselis35/35yukselis/16198.ts
-#EXTINF:-1,Bein Sports Max 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/8154.ts
-#EXTINF:-1,Bein Sports Max 2 Sd
-http://formen1.com:8080/live/yukselis35/35yukselis/16199.ts
-#EXTINF:-1,Bein Sports Haber HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16215.ts
-#EXTINF:-1,Bein Sports Haber SD
-http://formen1.com:8080/live/yukselis35/35yukselis/8576.ts
-#EXTINF:-1,S Sport  HD
-http://formen1.com:8080/live/yukselis35/35yukselis/86.ts
-#EXTINF:-1,Filbox Eurosport 1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1824.ts
-#EXTINF:-1,D-smart Eurosport 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/103.ts
-#EXTINF:-1,Sports TV
-http://formen1.com:8080/live/yukselis35/35yukselis/1834.ts
-#EXTINF:-1,Tr | S Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/9234.ts
-#EXTINF:-1,De | Skysport Austria
-http://formen1.com:8080/live/yukselis35/35yukselis/1483.ts
-#EXTINF:-1,De | Eurosport
-http://formen1.com:8080/live/yukselis35/35yukselis/1412.ts
-#EXTINF:-1,De | Eurosport 2 Xtra
-http://formen1.com:8080/live/yukselis35/35yukselis/8617.ts
-#EXTINF:-1,De | Eurosport2
-http://formen1.com:8080/live/yukselis35/35yukselis/1413.ts
-#EXTINF:-1,De | Sky Sport 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1415.ts
-#EXTINF:-1,De | Sky Sport Bundesliga 1
-http://formen1.com:8080/live/yukselis35/35yukselis/3045.ts
-#EXTINF:-1,De | Sky Sport Bundesliga1
-http://formen1.com:8080/live/yukselis35/35yukselis/1481.ts
-#EXTINF:-1,De | Sky Sport News Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1482.ts
-#EXTINF:-1,De | Sky Sport1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1417.ts
-#EXTINF:-1,De | Sport +1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1486.ts
-#EXTINF:-1,De | Sport1 Us Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1485.ts
-#EXTINF:-1,De | Skysport 10
-http://formen1.com:8080/live/yukselis35/35yukselis/16175.ts
-#EXTINF:-1,De | Skysport 3
-http://formen1.com:8080/live/yukselis35/35yukselis/16174.ts
-#EXTINF:-1,De | Skysport 4
-http://formen1.com:8080/live/yukselis35/35yukselis/16173.ts
-#EXTINF:-1,De | Skysport 5
-http://formen1.com:8080/live/yukselis35/35yukselis/16172.ts
-#EXTINF:-1,De | Skysport 6
-http://formen1.com:8080/live/yukselis35/35yukselis/16171.ts
-#EXTINF:-1,De | Skysport 7
-http://formen1.com:8080/live/yukselis35/35yukselis/16170.ts
-#EXTINF:-1,De | Skysport 8
-http://formen1.com:8080/live/yukselis35/35yukselis/16169.ts
-#EXTINF:-1,De | Skysport 9
-http://formen1.com:8080/live/yukselis35/35yukselis/16168.ts
-#EXTINF:-1,Az | Cbc Sport Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/11228.ts
-#EXTINF:-1,Al | Tring Sport News Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/747.ts
-#EXTINF:-1,Al | Super Sport 1
-http://formen1.com:8080/live/yukselis35/35yukselis/748.ts
-#EXTINF:-1,Al | Super Sport 2
-http://formen1.com:8080/live/yukselis35/35yukselis/749.ts
-#EXTINF:-1,Al | Super Sport 3
-http://formen1.com:8080/live/yukselis35/35yukselis/750.ts
-#EXTINF:-1,Al | Super Sport 4
-http://formen1.com:8080/live/yukselis35/35yukselis/751.ts
-#EXTINF:-1,Al | Rtsh Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/8907.ts
-#EXTINF:-1,Al | Rtsh Sport Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/8906.ts
-#EXTINF:-1,Al | Telesport
-http://formen1.com:8080/live/yukselis35/35yukselis/8903.ts
-#EXTINF:-1,Fr | Canal Sport Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/2539.ts
-#EXTINF:-1,Fr | Infosport+
-http://formen1.com:8080/live/yukselis35/35yukselis/857.ts
-#EXTINF:-1,Fr | Sfr Sport 1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/6355.ts
-#EXTINF:-1,Fr | Sfr Sport 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/6356.ts
-#EXTINF:-1,Fr | Sfr Sport 3 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/6357.ts
-#EXTINF:-1,Fr | Eurosport 1
-http://formen1.com:8080/live/yukselis35/35yukselis/951.ts
-#EXTINF:-1,Fr Eurosport 2
-http://formen1.com:8080/live/yukselis35/35yukselis/950.ts
-#EXTINF:-1,Fr | Bein Sport 1
-http://formen1.com:8080/live/yukselis35/35yukselis/954.ts
-#EXTINF:-1,Fr | Bein Sport 2
-http://formen1.com:8080/live/yukselis35/35yukselis/953.ts
-#EXTINF:-1,Fr | Bein Sport 3
-http://formen1.com:8080/live/yukselis35/35yukselis/952.ts
-#EXTINF:-1,Fr | Beinsport 4 Max
-http://formen1.com:8080/live/yukselis35/35yukselis/8943.ts
-#EXTINF:-1,Fr | Beinsport 5 Max
-http://formen1.com:8080/live/yukselis35/35yukselis/8942.ts
-#EXTINF:-1,Fr | Beinsport 6 Max
-http://formen1.com:8080/live/yukselis35/35yukselis/8941.ts
-#EXTINF:-1,Fr | Beinsport 7 Max
-http://formen1.com:8080/live/yukselis35/35yukselis/8940.ts
-#EXTINF:-1,It | Fox Sport Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1340.ts
-#EXTINF:-1,It | Premiumeurosport1
-http://formen1.com:8080/live/yukselis35/35yukselis/3011.ts
-#EXTINF:-1,It | Premiumeurosport2
-http://formen1.com:8080/live/yukselis35/35yukselis/3012.ts
-#EXTINF:-1,It | Premiumsport
-http://formen1.com:8080/live/yukselis35/35yukselis/1343.ts
-#EXTINF:-1,It | Rai Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/1391.ts
-#EXTINF:-1,It | Sky Sport 1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1336.ts
-#EXTINF:-1,It | Sky Sport 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1335.ts
-#EXTINF:-1,It | Sky Sport 3 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1334.ts
-#EXTINF:-1,It | Sky Sport F1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/1332.ts
-#EXTINF:-1,Rus | Euro Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/11212.ts
-#EXTINF:-1,Rus | Eurosport 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/11211.ts
-#EXTINF:-1,Rus | Eurosport Hd Russia
-http://formen1.com:8080/live/yukselis35/35yukselis/11210.ts
-#EXTINF:-1,Rus | Extreme Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/11209.ts
-#EXTINF:-1,Rus | Viasat Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/11167.ts
-#EXTINF:-1,Rus | Viasat Sport Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/11166.ts
-#EXTINF:-1,Nl | Fox Sport 1 Hd Eredivisie
-http://formen1.com:8080/live/yukselis35/35yukselis/771.ts
-#EXTINF:-1,Nl | Fox Sports 2 International
-http://formen1.com:8080/live/yukselis35/35yukselis/770.ts
-#EXTINF:-1,Nl | Fox Sports 3 Eredivisie
-http://formen1.com:8080/live/yukselis35/35yukselis/769.ts
-#EXTINF:-1,Nl | Fox Sports 4 International
-http://formen1.com:8080/live/yukselis35/35yukselis/768.ts
-#EXTINF:-1,Nl | Fox Sports 5 Eredivisie Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/767.ts
-#EXTINF:-1,Nl | Ziggo Sport Golf
-http://formen1.com:8080/live/yukselis35/35yukselis/733.ts
-#EXTINF:-1,Nl | Ziggo Sport Racing
-http://formen1.com:8080/live/yukselis35/35yukselis/734.ts
-#EXTINF:-1,Nl | Ziggo Sport Select Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/737.ts
-#EXTINF:-1,Nl | Ziggo Sport Voetbal
-http://formen1.com:8080/live/yukselis35/35yukselis/2814.ts
-#EXTINF:-1,Nl | Eurosport 1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/9010.ts
-#EXTINF:-1,Nl | Eurosport 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/9009.ts
-#EXTINF:-1,Nl | Fox Sport 6 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/9014.ts
-#EXTINF:-1,Nl | Ziggo Sport Extra 1
-http://formen1.com:8080/live/yukselis35/35yukselis/9012.ts
-#EXTINF:-1,Nl | Ziggo Sport Extra 2
-http://formen1.com:8080/live/yukselis35/35yukselis/9011.ts
-#EXTINF:-1,Nl | Ziggo Sport Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/9013.ts
-#EXTINF:-1,Pt | Sport Tv+
-http://formen1.com:8080/live/yukselis35/35yukselis/3098.ts
-#EXTINF:-1,Pt | Sport Tv 1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/2989.ts
-#EXTINF:-1,Pt | Sport Tv 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/2990.ts
-#EXTINF:-1,Pt | Sport Tv 3 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/2991.ts
-#EXTINF:-1,Pt | Sport Tv 4 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/2992.ts
-#EXTINF:-1,PT: Eleven Sports 1HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16314.ts
-#EXTINF:-1,PT: Eleven Sports 2HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16313.ts
-#EXTINF:-1,PT: Eleven Sports 3HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16312.ts
-#EXTINF:-1,PT: Eleven Sports 4HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16311.ts
-#EXTINF:-1,PT: Eleven Sports 5HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16310.ts
-#EXTINF:-1,PT: Eleven Sports 6HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16309.ts
-#EXTINF:-1,PT: Eurosport 1
-http://formen1.com:8080/live/yukselis35/35yukselis/16299.ts
-#EXTINF:-1,PT: Eurosport 2
-http://formen1.com:8080/live/yukselis35/35yukselis/16298.ts
-#EXTINF:-1,PT: Kombat Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/16293.ts
-#EXTINF:-1,PT: Sport TV
-http://formen1.com:8080/live/yukselis35/35yukselis/16303.ts
-#EXTINF:-1,PT: Sport TV 1HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16308.ts
-#EXTINF:-1,PT: Sport TV 2HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16307.ts
-#EXTINF:-1,PT: Sport TV 3HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16306.ts
-#EXTINF:-1,PT: Sport TV 4 HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16305.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16304.ts
-#EXTINF:-1,PT: Sporting TV
-http://formen1.com:8080/live/yukselis35/35yukselis/16300.ts
-#EXTINF:-1,Sp | Bein Sport Es
-http://formen1.com:8080/live/yukselis35/35yukselis/2639.ts
-#EXTINF:-1,Uk | Btsport1
-http://formen1.com:8080/live/yukselis35/35yukselis/1079.ts
-#EXTINF:-1,Uk | Btsport2
-http://formen1.com:8080/live/yukselis35/35yukselis/1078.ts
-#EXTINF:-1,Uk | Btsportespn
-http://formen1.com:8080/live/yukselis35/35yukselis/1077.ts
-#EXTINF:-1,Uk | Btsporteurope
-http://formen1.com:8080/live/yukselis35/35yukselis/1085.ts
-#EXTINF:-1,Uk | Eurosport1
-http://formen1.com:8080/live/yukselis35/35yukselis/1095.ts
-#EXTINF:-1,Uk | Eurosport 2
-http://formen1.com:8080/live/yukselis35/35yukselis/1094.ts
-#EXTINF:-1,Uk | Premiersport
-http://formen1.com:8080/live/yukselis35/35yukselis/1074.ts
-#EXTINF:-1,Uk | Sky Sports Action
-http://formen1.com:8080/live/yukselis35/35yukselis/1093.ts
-#EXTINF:-1,Uk | Sky Sports Cricket
-http://formen1.com:8080/live/yukselis35/35yukselis/1092.ts
-#EXTINF:-1,Uk | Sky Sports Main Event
-http://formen1.com:8080/live/yukselis35/35yukselis/1091.ts
-#EXTINF:-1,Uk | Sky Sports Golf
-http://formen1.com:8080/live/yukselis35/35yukselis/1090.ts
-#EXTINF:-1,Uk | Sky Sport Premier League
-http://formen1.com:8080/live/yukselis35/35yukselis/1089.ts
-#EXTINF:-1,Uk | Sky Sports F1
-http://formen1.com:8080/live/yukselis35/35yukselis/1088.ts
-#EXTINF:-1,Uk | Skysportnews
-http://formen1.com:8080/live/yukselis35/35yukselis/1086.ts
-#EXTINF:-1,Uk | Sky Sport News
-http://formen1.com:8080/live/yukselis35/35yukselis/1087.ts
-#EXTINF:-1,Pl | Canal Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/8855.ts
-#EXTINF:-1,Pl | Canal Sport 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/8856.ts
-#EXTINF:-1,Pl | Eurosport 1
-http://formen1.com:8080/live/yukselis35/35yukselis/8866.ts
-#EXTINF:-1,Pl | Eurosport 2
-http://formen1.com:8080/live/yukselis35/35yukselis/8867.ts
-#EXTINF:-1,Pl | Nsport
-http://formen1.com:8080/live/yukselis35/35yukselis/8848.ts
-#EXTINF:-1,Pl | Polsat Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/8886.ts
-#EXTINF:-1,Pl | Polsat Sport Extra Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/8887.ts
-#EXTINF:-1,Pl | Polsat Sports News
-http://formen1.com:8080/live/yukselis35/35yukselis/8888.ts
-#EXTINF:-1,Pl | Tvp Sport Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/8896.ts
-#EXTINF:-1,Ex-Yu | Arena Sport 1 HR
-http://formen1.com:8080/live/yukselis35/35yukselis/3076.ts
-#EXTINF:-1,Ex-Yu | Arena Sport 2 Hr
-http://formen1.com:8080/live/yukselis35/35yukselis/3077.ts
-#EXTINF:-1,Ex-Yu | Arena Sport 3 Hr
-http://formen1.com:8080/live/yukselis35/35yukselis/3078.ts
-#EXTINF:-1,Ex-Yu | Arena Sport 4 Hr
-http://formen1.com:8080/live/yukselis35/35yukselis/3079.ts
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://formen1.com:8080/live/yukselis35/35yukselis/16828.ts
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://formen1.com:8080/live/yukselis35/35yukselis/16827.ts
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://formen1.com:8080/live/yukselis35/35yukselis/16826.ts
-#EXTINF:-1,EX YU: SPORT KLUB 4
-http://formen1.com:8080/live/yukselis35/35yukselis/16825.ts
-#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
-http://formen1.com:8080/live/yukselis35/35yukselis/16824.ts
-#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
-http://formen1.com:8080/live/yukselis35/35yukselis/16823.ts
-#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
-http://formen1.com:8080/live/yukselis35/35yukselis/16822.ts
-#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
-http://formen1.com:8080/live/yukselis35/35yukselis/16821.ts
-#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
-http://formen1.com:8080/live/yukselis35/35yukselis/16850.ts
-#EXTINF:-1,Ex-Yu | Eurosport 1
-http://formen1.com:8080/live/yukselis35/35yukselis/16820.ts
-#EXTINF:-1,Ex-Yu | Eurosport 2
-http://formen1.com:8080/live/yukselis35/35yukselis/16819.ts
-#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
-http://formen1.com:8080/live/yukselis35/35yukselis/16858.ts
-#EXTINF:-1,Ro | Eurosport 2
-http://formen1.com:8080/live/yukselis35/35yukselis/16715.ts
-#EXTINF:-1,Ro | SPORT ROMANIA
-http://formen1.com:8080/live/yukselis35/35yukselis/16716.ts
-#EXTINF:-1,Ar | Bein Sport 13 HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16188.ts
-#EXTINF:-1,Ar | Bein Sport 11 HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16190.ts
-#EXTINF:-1,Ar | Bein Sport 12 HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16189.ts
-#EXTINF:-1,Ar | Mbc_prosport 1
-http://formen1.com:8080/live/yukselis35/35yukselis/10475.ts
-#EXTINF:-1,Ar | Mbc_prosport2
-http://formen1.com:8080/live/yukselis35/35yukselis/10474.ts
-#EXTINF:-1,Ar | Mbc_prosport3
-http://formen1.com:8080/live/yukselis35/35yukselis/10473.ts
-#EXTINF:-1,Ar | Mbc_prosport4
-http://formen1.com:8080/live/yukselis35/35yukselis/10472.ts
-#EXTINF:-1,Ar | Ad-sport-2
-http://formen1.com:8080/live/yukselis35/35yukselis/10469.ts
-#EXTINF:-1,Ar | Ad-sport1hd
-http://formen1.com:8080/live/yukselis35/35yukselis/10470.ts
-#EXTINF:-1,Ar | Ad-sports3
-http://formen1.com:8080/live/yukselis35/35yukselis/10468.ts
-#EXTINF:-1,Ar | Ad-sports4
-http://formen1.com:8080/live/yukselis35/35yukselis/10467.ts
-#EXTINF:-1,Ar | Ad-sports5
-http://formen1.com:8080/live/yukselis35/35yukselis/10466.ts
-#EXTINF:-1,Ar | Ad-sports6
-http://formen1.com:8080/live/yukselis35/35yukselis/10465.ts
-#EXTINF:-1,Ar | Dmc-sports
-http://formen1.com:8080/live/yukselis35/35yukselis/10738.ts
-#EXTINF:-1,Ar | Dubai_sport3
-http://formen1.com:8080/live/yukselis35/35yukselis/10462.ts
-#EXTINF:-1,Ar | Dubai_sport4
-http://formen1.com:8080/live/yukselis35/35yukselis/10461.ts
-#EXTINF:-1,Ar | Dubaisport-1
-http://formen1.com:8080/live/yukselis35/35yukselis/10463.ts
-#EXTINF:-1,Ar | Dubaisport-2
-http://formen1.com:8080/live/yukselis35/35yukselis/10464.ts
-#EXTINF:-1,Ar | Iraqiasport
-http://formen1.com:8080/live/yukselis35/35yukselis/10604.ts
-#EXTINF:-1,Ar | Jordan-sport
-http://formen1.com:8080/live/yukselis35/35yukselis/10517.ts
-#EXTINF:-1,Ar | Ktv-sport-hd
-http://formen1.com:8080/live/yukselis35/35yukselis/10457.ts
-#EXTINF:-1,Ar | Modern-sport
-http://formen1.com:8080/live/yukselis35/35yukselis/10459.ts
-#EXTINF:-1,Ar | Nile-sport
-http://formen1.com:8080/live/yukselis35/35yukselis/10458.ts
-#EXTINF:-1,Ar | On-sport
-http://formen1.com:8080/live/yukselis35/35yukselis/10741.ts
-#EXTINF:-1,Ar | Saudi-sport
-http://formen1.com:8080/live/yukselis35/35yukselis/10494.ts
-#EXTINF:-1,Ar | Sharjah Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/10413.ts
-#EXTINF:-1,Ar | Yas-sports
-http://formen1.com:8080/live/yukselis35/35yukselis/10471.ts
-#EXTINF:-1,Ar| Bein Sports-1hd
-http://formen1.com:8080/live/yukselis35/35yukselis/10406.ts
-#EXTINF:-1,Ar| Bein Sports-hd
-http://formen1.com:8080/live/yukselis35/35yukselis/10407.ts
-#EXTINF:-1,Dk | Tv3 Sport 1 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/9746.ts
-#EXTINF:-1,Dk | Tv3 Sport 2 Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/9745.ts
-#EXTINF:-1,Dk | Viasat Sport Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/9735.ts
-#EXTINF:-1,Fi : C More Sports 2
-http://formen1.com:8080/live/yukselis35/35yukselis/9672.ts
-#EXTINF:-1,Fi : C More Sports 1
-http://formen1.com:8080/live/yukselis35/35yukselis/9662.ts
-#EXTINF:-1,Se | C More Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/9728.ts
-#EXTINF:-1,Se | C More Sport Hd
-http://formen1.com:8080/live/yukselis35/35yukselis/9684.ts
-#EXTINF:-1,Se | Eurosport 1
-http://formen1.com:8080/live/yukselis35/35yukselis/9722.ts
-#EXTINF:-1,Se | Sport Premium
-http://formen1.com:8080/live/yukselis35/35yukselis/9675.ts
-#EXTINF:-1,Se | Tv3 Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/9709.ts
-#EXTINF:-1,Se | Viasat Sport
-http://formen1.com:8080/live/yukselis35/35yukselis/9693.ts
-#EXTINF:-1,Se | Viasat Sport Premium
-http://formen1.com:8080/live/yukselis35/35yukselis/9692.ts
-#EXTINF:-1,IND | STAR SPORTS 1
-http://formen1.com:8080/live/yukselis35/35yukselis/16970.ts
-#EXTINF:-1,IND | STAR SPORTS 1 HD BK
-http://formen1.com:8080/live/yukselis35/35yukselis/16991.ts
-#EXTINF:-1,IND | STAR SPORTS 1 HINDI
-http://formen1.com:8080/live/yukselis35/35yukselis/16990.ts
-#EXTINF:-1,IND | STAR SPORTS 2 HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16998.ts
-#EXTINF:-1,IND | TEN SPORTS 3 HD
-http://formen1.com:8080/live/yukselis35/35yukselis/16992.ts
-#EXTINF:-1,PK | PTV SPORT LO
-http://formen1.com:8080/live/yukselis35/35yukselis/17035.ts
-#EXTINF:-1,PK | PTV SPORTS
-http://formen1.com:8080/live/yukselis35/35yukselis/17020.ts
-#EXTINF:-1,PK | PTV SPORTS 1
-http://formen1.com:8080/live/yukselis35/35yukselis/17031.ts
-#EXTINF:-1,PK | TEN SPORTS
-http://formen1.com:8080/live/yukselis35/35yukselis/17032.ts
-#EXTINF:-1,DE The Transporter Refueled
-http://formen1.com:8080/movie/yukselis35/35yukselis/12886.mp4
+
 
 #EXTINF:-1,===== DE SPORT =====
 http://live.darkside-iptv.com:8080/WOOTmWO0Td/ckHUEXAHQI/17812
@@ -3000,715 +1534,7 @@ http://m-iptv.net:6204/marwan/123/8572
 #EXTINF:-1,Uk- Sky Ci
 http://m-iptv.net:6204/marwan/123/8571
 #EXTINF:-1,Uk- Sky Comedy Central
-http://m-iptv.net:6204/marwan/123/8569
-#EXTINF:-1,Uk- Sky Discovery
-http://m-iptv.net:6204/marwan/123/8568
-#EXTINF:-1,Uk- Sky Discovery History
-http://m-iptv.net:6204/marwan/123/8567
-#EXTINF:-1,Uk- Sky Discovery Science
-http://m-iptv.net:6204/marwan/123/8566
-#EXTINF:-1,Uk- Sky Discovery Shed
-http://m-iptv.net:6204/marwan/123/8565
-#EXTINF:-1,Uk- Sky Discovery Turbo
-http://m-iptv.net:6204/marwan/123/8564
-#EXTINF:-1,Uk- Sky Disney Chaneel HD
-http://m-iptv.net:6204/marwan/123/8563
-#EXTINF:-1,Uk- Sky Disney Junior HD
-http://m-iptv.net:6204/marwan/123/8562
-#EXTINF:-1,Uk- Sky Disney XD HD
-http://m-iptv.net:6204/marwan/123/8561
-#EXTINF:-1,Uk- Sky Eurosport 1 HD
-http://m-iptv.net:6204/marwan/123/8560
-#EXTINF:-1,Uk- Sky Eurosport 2 HD
-http://m-iptv.net:6204/marwan/123/8559
-#EXTINF:-1,Uk- Sky Food Network
-http://m-iptv.net:6204/marwan/123/8558
-#EXTINF:-1,Uk- Sky Gold
-http://m-iptv.net:6204/marwan/123/8557
-#EXTINF:-1,Uk- Sky Good Food HD
-http://m-iptv.net:6204/marwan/123/8556
-#EXTINF:-1,Uk- Sky History HD
-http://m-iptv.net:6204/marwan/123/8555
-#EXTINF:-1,Uk- Sky Home & Health
-http://m-iptv.net:6204/marwan/123/8554
-#EXTINF:-1,Uk- Sky Horse & Country
-http://m-iptv.net:6204/marwan/123/8553
-#EXTINF:-1,Uk- Sky ITV 1
-http://m-iptv.net:6204/marwan/123/8552
-#EXTINF:-1,Uk- Sky ITV 2
-http://m-iptv.net:6204/marwan/123/8551
-#EXTINF:-1,Uk- Sky ITV 3
-http://m-iptv.net:6204/marwan/123/8550
-#EXTINF:-1,Uk- Sky ITV 4
-http://m-iptv.net:6204/marwan/123/8549
-#EXTINF:-1,Uk- Sky 1
-http://m-iptv.net:6204/marwan/123/11120
-#EXTINF:-1,Uk- Sky 2
-http://m-iptv.net:6204/marwan/123/11119
-#EXTINF:-1,Uk- Sky Living HD
-http://m-iptv.net:6204/marwan/123/11116
-#EXTINF:-1,Uk- Sky Liverpool FC TV HD
-http://m-iptv.net:6204/marwan/123/8548
-#EXTINF:-1,Uk- Sky More 4 HD
-http://m-iptv.net:6204/marwan/123/8547
-#EXTINF:-1,Uk- Sky Movies 24
-http://m-iptv.net:6204/marwan/123/8546
-#EXTINF:-1,Uk- Sky Sports Box Office HD
-http://m-iptv.net:6204/marwan/123/11115
-#EXTINF:-1,Uk- Sky Movies Action HD
-http://m-iptv.net:6204/marwan/123/8545
-#EXTINF:-1,Uk- Sky Movies Crime
-http://m-iptv.net:6204/marwan/123/8543
-#EXTINF:-1,Uk- Sky Movies Disney
-http://m-iptv.net:6204/marwan/123/8542
-#EXTINF:-1,Uk- Sky Movies Drama HD
-http://m-iptv.net:6204/marwan/123/8541
-#EXTINF:-1,Uk- Sky Movies Family HD
-http://m-iptv.net:6204/marwan/123/8540
-#EXTINF:-1,Uk- Sky Movies Greats
-http://m-iptv.net:6204/marwan/123/8539
-#EXTINF:-1,Uk- Sky Movies Premiere HD
-http://m-iptv.net:6204/marwan/123/8538
-#EXTINF:-1,Uk- Sky Movies Select HD
-http://m-iptv.net:6204/marwan/123/8537
-#EXTINF:-1,Uk- Sky MUTV
-http://m-iptv.net:6204/marwan/123/8536
-#EXTINF:-1,Uk- Sky Nat Geo Wild HD
-http://m-iptv.net:6204/marwan/123/8535
-#EXTINF:-1,Uk- Sky National Geographic HD
-http://m-iptv.net:6204/marwan/123/8534
-#EXTINF:-1,UK- Sky News HD
-http://m-iptv.net:6204/marwan/123/8533
-#EXTINF:-1,Uk- Sky Nickelodeon
-http://m-iptv.net:6204/marwan/123/8532
-#EXTINF:-1,Uk- Sky Nickelodeon JR
-http://m-iptv.net:6204/marwan/123/8531
-#EXTINF:-1,Uk- Sky NickToons
-http://m-iptv.net:6204/marwan/123/8530
-#EXTINF:-1,Uk- Sky Quest
-http://m-iptv.net:6204/marwan/123/8529
-#EXTINF:-1,Uk- Sky Racing
-http://m-iptv.net:6204/marwan/123/8528
-#EXTINF:-1,Uk- Sky Really
-http://m-iptv.net:6204/marwan/123/8527
-#EXTINF:-1,Uk- Sky RTE One
-http://m-iptv.net:6204/marwan/123/8525
-#EXTINF:-1,Uk- Sky RTE Two
-http://m-iptv.net:6204/marwan/123/8524
-#EXTINF:-1,Uk- Sky Eir Sport 1
-http://m-iptv.net:6204/marwan/123/11118
-#EXTINF:-1,Uk- Sky Eir Sport 2
-http://m-iptv.net:6204/marwan/123/11117
-#EXTINF:-1,Uk- Sky YourTV HD
-http://m-iptv.net:6204/marwan/123/11114
-#EXTINF:-1,Uk- Sky Sport Football
-http://m-iptv.net:6204/marwan/123/8523
-#EXTINF:-1,Uk- Sky Sports Main Event HD
-http://m-iptv.net:6204/marwan/123/8517
-#EXTINF:-1,Uk- Sky Sports Cricket HD
-http://m-iptv.net:6204/marwan/123/8516
-#EXTINF:-1,Uk- Sky Sports Action HD
-http://m-iptv.net:6204/marwan/123/8515
-#EXTINF:-1,Uk- Sky Sports Golf HD
-http://m-iptv.net:6204/marwan/123/8514
-#EXTINF:-1,Uk- Sky Sports Premier League HD
-http://m-iptv.net:6204/marwan/123/8513
-#EXTINF:-1,Uk- Sky Sports F1 HD
-http://m-iptv.net:6204/marwan/123/8512
-#EXTINF:-1,Uk- Sky Sports F1 HD Backup S
-http://m-iptv.net:6204/marwan/123/11099
-#EXTINF:-1,Uk- Sky Sports MixHD
-http://m-iptv.net:6204/marwan/123/8511
-#EXTINF:-1,Uk- Sky Travel Channel
-http://m-iptv.net:6204/marwan/123/8508
-#EXTINF:-1,Uk- Sky True Movies 1
-http://m-iptv.net:6204/marwan/123/8510
-#EXTINF:-1,Uk- Sky True Movies 2
-http://m-iptv.net:6204/marwan/123/8509
-#EXTINF:-1,UK- Sky Sports Arena HD
-http://m-iptv.net:6204/marwan/123/9059
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://m-iptv.net:6204/marwan/123/10166
----------
-#EXTINF:-1,--------UK --------
-http://rb-group-server.com:25461/12341234/12341234/3786
-#EXTINF:-1,BBC One
-http://rb-group-server.com:25461/12341234/12341234/3785
-#EXTINF:-1,BBC Two
-http://rb-group-server.com:25461/12341234/12341234/3783
-#EXTINF:-1,BBC Three
-http://rb-group-server.com:25461/12341234/12341234/3782
-#EXTINF:-1,BBC Four HD
-http://rb-group-server.com:25461/12341234/12341234/6034
-#EXTINF:-1,BBC World News
-http://rb-group-server.com:25461/12341234/12341234/3772
-#EXTINF:-1,BBC News UK
-http://rb-group-server.com:25461/12341234/12341234/3771
-#EXTINF:-1,BBC Alba
-http://rb-group-server.com:25461/12341234/12341234/6035
-#EXTINF:-1,CNBC
-http://rb-group-server.com:25461/12341234/12341234/3761
-#EXTINF:-1,CBBC HD
-http://rb-group-server.com:25461/12341234/12341234/3781
-#EXTINF:-1,Euronews UK
-http://rb-group-server.com:25461/12341234/12341234/3767
-#EXTINF:-1,ITV HD
-http://rb-group-server.com:25461/12341234/12341234/6032
-#EXTINF:-1,ITV 2
-http://rb-group-server.com:25461/12341234/12341234/6033
-#EXTINF:-1,ITV 3
-http://rb-group-server.com:25461/12341234/12341234/3780
-#EXTINF:-1,ITV 4
-http://rb-group-server.com:25461/12341234/12341234/3779
-#EXTINF:-1,ITV BE
-http://rb-group-server.com:25461/12341234/12341234/3778
-#EXTINF:-1,ITV Encore
-http://rb-group-server.com:25461/12341234/12341234/3777
-#EXTINF:-1,Channel 4
-http://rb-group-server.com:25461/12341234/12341234/3776
-#EXTINF:-1,Channel 5
-http://rb-group-server.com:25461/12341234/12341234/3775
-#EXTINF:-1,Channel 5 +1
-http://rb-group-server.com:25461/12341234/12341234/3760
-#EXTINF:-1,More 4
-http://rb-group-server.com:25461/12341234/12341234/3774
-#EXTINF:-1,E4
-http://rb-group-server.com:25461/12341234/12341234/3773
-#EXTINF:-1,RTE ONE HD
-http://rb-group-server.com:25461/12341234/12341234/3759
-#EXTINF:-1,Bloomberg
-http://rb-group-server.com:25461/12341234/12341234/3763
-#EXTINF:-1,FOX News
-http://rb-group-server.com:25461/12341234/12341234/3765
-#EXTINF:-1,CNN International
-http://rb-group-server.com:25461/12341234/12341234/3769
-#EXTINF:-1,CGTN News
-http://rb-group-server.com:25461/12341234/12341234/3764
-#EXTINF:-1,Gold
-http://rb-group-server.com:25461/12341234/12341234/4818
-#EXTINF:-1,Good Food
-http://rb-group-server.com:25461/12341234/12341234/4842
-#EXTINF:-1,Food Network
-http://rb-group-server.com:25461/12341234/12341234/3736
-#EXTINF:-1,TCM.
-http://rb-group-server.com:25461/12341234/12341234/3745
-#EXTINF:-1,CBS.Action
-http://rb-group-server.com:25461/12341234/12341234/3743
-#EXTINF:-1,CBS Drama
-http://rb-group-server.com:25461/12341234/12341234/3742
-#EXTINF:-1,CBS Reality
-http://rb-group-server.com:25461/12341234/12341234/4862
-#EXTINF:-1,Film4
-http://rb-group-server.com:25461/12341234/12341234/3744
-#EXTINF:-1,Comedy Central Extra
-http://rb-group-server.com:25461/12341234/12341234/4841
-#EXTINF:-1,Crime & Investigation
-http://rb-group-server.com:25461/12341234/12341234/4810
-#EXTINF:-1,Fox
-http://rb-group-server.com:25461/12341234/12341234/4838
-#EXTINF:-1,Movies24
-http://rb-group-server.com:25461/12341234/12341234/6036
-#EXTINF:-1,Movies4Men
-http://rb-group-server.com:25461/12341234/12341234/6037
-#EXTINF:-1,Sky Cinema Premier HD
-http://rb-group-server.com:25461/12341234/12341234/4852
-#EXTINF:-1,Sky Cinema Select HD
-http://rb-group-server.com:25461/12341234/12341234/4850
-#EXTINF:-1,Sky Cinema Action HD
-http://rb-group-server.com:25461/12341234/12341234/4853
-#EXTINF:-1,Sky Cinema Thriller HD
-http://rb-group-server.com:25461/12341234/12341234/4860
-#EXTINF:-1,Sky Cinema Scifi & Horror HD
-http://rb-group-server.com:25461/12341234/12341234/4858
-#EXTINF:-1,Sky Cinema Family HD
-http://rb-group-server.com:25461/12341234/12341234/4855
-#EXTINF:-1,Sky Cinema Comedy HD
-http://rb-group-server.com:25461/12341234/12341234/4859
-#EXTINF:-1,Sky Cinema Bourne HD
-http://rb-group-server.com:25461/12341234/12341234/4856
-#EXTINF:-1,Sky Cinema Christmas HD
-http://rb-group-server.com:25461/12341234/12341234/6039
-#EXTINF:-1,Sky Cinema Superhero HD
-http://rb-group-server.com:25461/12341234/12341234/6038
-#EXTINF:-1,Sky Cinema Greats
-http://rb-group-server.com:25461/12341234/12341234/4857
-#EXTINF:-1,Sky Cinema Disney HD
-http://rb-group-server.com:25461/12341234/12341234/4861
-#EXTINF:-1,Horror Channel
-http://rb-group-server.com:25461/12341234/12341234/3738
-#EXTINF:-1,Comedy Central
-http://rb-group-server.com:25461/12341234/12341234/3733
-#EXTINF:-1,Sky One
-http://rb-group-server.com:25461/12341234/12341234/4865
-#EXTINF:-1,Sky 2
-http://rb-group-server.com:25461/12341234/12341234/4864
-#EXTINF:-1,Sky Arts
-http://rb-group-server.com:25461/12341234/12341234/4863
-#EXTINF:-1,Sky.Atlantic
-http://rb-group-server.com:25461/12341234/12341234/4851
-#EXTINF:-1,Sky Living
-http://rb-group-server.com:25461/12341234/12341234/4854
-#EXTINF:-1,Capital TV
-http://rb-group-server.com:25461/12341234/12341234/4741
-#EXTINF:-1,Tru TV
-http://rb-group-server.com:25461/12341234/12341234/4840
-#EXTINF:-1,True Crime
-http://rb-group-server.com:25461/12341234/12341234/4844
-#EXTINF:-1,True Movies 1
-http://rb-group-server.com:25461/12341234/12341234/3741
-#EXTINF:-1,True Entertainment
-http://rb-group-server.com:25461/12341234/12341234/3739
-#EXTINF:-1,E!'
-http://rb-group-server.com:25461/12341234/12341234/4867
-#EXTINF:-1,STV Central West
-http://rb-group-server.com:25461/12341234/12341234/4820
-#EXTINF:-1,TG4
-http://rb-group-server.com:25461/12341234/12341234/4821
-#EXTINF:-1,The Vault
-http://rb-group-server.com:25461/12341234/12341234/4878
-#EXTINF:-1,Travel Channel
-http://rb-group-server.com:25461/12341234/12341234/4808
-#EXTINF:-1,Universal Channel
-http://rb-group-server.com:25461/12341234/12341234/4809
-#EXTINF:-1,Animal Planet.
-http://rb-group-server.com:25461/12341234/12341234/4804
-#EXTINF:-1,Discovery History
-http://rb-group-server.com:25461/12341234/12341234/4813
-#EXTINF:-1,Discovery.Investigation
-http://rb-group-server.com:25461/12341234/12341234/4812
-#EXTINF:-1,Discovery Shed
-http://rb-group-server.com:25461/12341234/12341234/4814
-#EXTINF:-1,Discovery Turbo
-http://rb-group-server.com:25461/12341234/12341234/4811
-#EXTINF:-1,National Geo.graphic
-http://rb-group-server.com:25461/12341234/12341234/4806
-#EXTINF:-1,National Geography Wild
-http://rb-group-server.com:25461/12341234/12341234/4807
-#EXTINF:-1,Quest
-http://rb-group-server.com:25461/12341234/12341234/3731
-#EXTINF:-1,Challenge
-http://rb-group-server.com:25461/12341234/12341234/4756
-#EXTINF:-1,Channel 3e
-http://rb-group-server.com:25461/12341234/12341234/4758
-#EXTINF:-1,Channel Aka
-http://rb-group-server.com:25461/12341234/12341234/4755
-#EXTINF:-1,Christmas Gold
-http://rb-group-server.com:25461/12341234/12341234/4848
-#EXTINF:-1,Hum Europe
-http://rb-group-server.com:25461/12341234/12341234/4798
-#EXTINF:-1,MUTV
-http://rb-group-server.com:25461/12341234/12341234/4769
-#EXTINF:-1,My 5
-http://rb-group-server.com:25461/12341234/12341234/4835
-#EXTINF:-1,NDTV 24x7
-http://rb-group-server.com:25461/12341234/12341234/4797
-#EXTINF:-1,NHK
-http://rb-group-server.com:25461/12341234/12341234/4739
-#EXTINF:-1,Pick
-http://rb-group-server.com:25461/12341234/12341234/4866
-#EXTINF:-1,Prime_TV
-http://rb-group-server.com:25461/12341234/12341234/4751
-#EXTINF:-1,Really
-http://rb-group-server.com:25461/12341234/12341234/4748
-#EXTINF:-1,Real Lives
-http://rb-group-server.com:25461/12341234/12341234/4826
-#EXTINF:-1,Rishtey
-http://rb-group-server.com:25461/12341234/12341234/4788
-#EXTINF:-1,RTE TWO HD
-http://rb-group-server.com:25461/12341234/12341234/4823
-#EXTINF:-1,Dmax UK
-http://rb-group-server.com:25461/12341234/12341234/3728
-#EXTINF:-1,Lifetime
-http://rb-group-server.com:25461/12341234/12341234/3737
-#EXTINF:-1,4Seven
-http://rb-group-server.com:25461/12341234/12341234/4837
-#EXTINF:-1,5 Star
-http://rb-group-server.com:25461/12341234/12341234/4831
-#EXTINF:-1,Alibi
-http://rb-group-server.com:25461/12341234/12341234/4839
-#EXTINF:-1,Scuzz
-http://rb-group-server.com:25461/12341234/12341234/4872
-#EXTINF:-1,MTV Dance
-http://rb-group-server.com:25461/12341234/12341234/4885
-#EXTINF:-1,MTV Hits
-http://rb-group-server.com:25461/12341234/12341234/4882
-#EXTINF:-1,MTV.Base
-http://rb-group-server.com:25461/12341234/12341234/4737
-#EXTINF:-1,MTV.
-http://rb-group-server.com:25461/12341234/12341234/3729
-#EXTINF:-1,VH1
-http://rb-group-server.com:25461/12341234/12341234/4877
-#EXTINF:-1,Box Nation
-http://rb-group-server.com:25461/12341234/12341234/4772
-#EXTINF:-1,Premier Sports
-http://rb-group-server.com:25461/12341234/12341234/4761
-#EXTINF:-1,Eurosport 1.
-http://rb-group-server.com:25461/12341234/12341234/4771
-#EXTINF:-1,Eurosport 2.
-http://rb-group-server.com:25461/12341234/12341234/4770
-#EXTINF:-1,Eir Sport1
-http://rb-group-server.com:25461/12341234/12341234/4765
-#EXTINF:-1,Eir Sport 2
-http://rb-group-server.com:25461/12341234/12341234/4740
-#EXTINF:-1,--------KIDS UK--------
-http://rb-group-server.com:25461/12341234/12341234/6251
-#EXTINF:-1,UK: RTE Jr
-http://rb-group-server.com:25461/12341234/12341234/3746
-#EXTINF:-1,UK: Nick.Jr
-http://rb-group-server.com:25461/12341234/12341234/3753
-#EXTINF:-1,UK: Disney.Channel
-http://rb-group-server.com:25461/12341234/12341234/3752
-#EXTINF:-1,UK: Disney Jr
-http://rb-group-server.com:25461/12341234/12341234/3751
-#EXTINF:-1,UK: DisneyXD
-http://rb-group-server.com:25461/12341234/12341234/3750
-#EXTINF:-1,UK: Cartoon.Network
-http://rb-group-server.com:25461/12341234/12341234/3749
-#EXTINF:-1,UK: Nickelodeon.
-http://rb-group-server.com:25461/12341234/12341234/3755
-#EXTINF:-1,UK: Nicktoons.
-http://rb-group-server.com:25461/12341234/12341234/3756
-#EXTINF:-1,UK: Baby TV
-http://rb-group-server.com:25461/12341234/12341234/3757
-#EXTINF:-1,UK: CBeebies
-http://rb-group-server.com:25461/12341234/12341234/3758
-----------
-#EXTINF:-1,ITV Central West FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28433.ts
-#EXTINF:-1,ITV London FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28431.ts
-#EXTINF:-1,ITV Meridian East FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28430.ts
-#EXTINF:-1,ITV Westcountry South West FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28427.ts
-#EXTINF:-1,ITV Yorkshire West FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28425.ts
-#EXTINF:-1,ITV HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10547.ts
-#EXTINF:-1,ITV2 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10546.ts
-#EXTINF:-1,ITV3 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10545.ts
-#EXTINF:-1,ITV4 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10544.ts
-#EXTINF:-1,BBC FOUR HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10554.ts
-#EXTINF:-1,BBC NEWS HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10553.ts
-#EXTINF:-1,BBC1 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10552.ts
-#EXTINF:-1,BBC2 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10551.ts
-#EXTINF:-1,UK FHD : GOOD FOOD FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84877.ts
-#EXTINF:-1,UK FHD : ALIBI FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84874.ts
-#EXTINF:-1,UK FHD : DAVE FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84875.ts
-#EXTINF:-1,LIFETIME FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84881.ts
-#EXTINF:-1,QUEST FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84884.ts
-#EXTINF:-1,UK FHD : COMEDY CENTRAL FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84876.ts
-#EXTINF:-1,UK FHD : FOX FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84873.ts
-#EXTINF:-1,SKY ONE FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84886.ts
-#EXTINF:-1,UK FHD : SKY ARTS FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84878.ts
-#EXTINF:-1,UK FHD : SKY ATLANTIC HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84867.ts
-#EXTINF:-1,UK FHD : SKY WITNESS FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84872.ts
-#EXTINF:-1,UK FHD : SYFY FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84871.ts
-#EXTINF:-1,UK FHD : TLC FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84868.ts
-#EXTINF:-1,UK FHD : GOLD FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84866.ts
-#EXTINF:-1,UK FHD : UNIVERSAL FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84870.ts
-#EXTINF:-1,PARAMOUNT FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84883.ts
-#EXTINF:-1,UK FHD : WATCH FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84869.ts
-#EXTINF:-1,Channel 4 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10550.ts
-#EXTINF:-1,Channel 5 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10549.ts
-#EXTINF:-1,E4 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10548.ts
-#EXTINF:-1,More4 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10543.ts
-#EXTINF:-1,UK :sky 1 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10586.ts
-#EXTINF:-1,UK :Watch HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10582.ts
-#EXTINF:-1,UK: Sky Atlantic HD1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10589.ts
-#EXTINF:-1,UK: Sky Living HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10588.ts
-#EXTINF:-1,UK :Universal Channel HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10583.ts
-#EXTINF:-1,UK :SYFY HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10585.ts
-#EXTINF:-1,UK: Sky Arts FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10590.ts
-#EXTINF:-1,UK:FOX HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10601.ts
-#EXTINF:-1,UK: LifeTime HD1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10600.ts
-#EXTINF:-1,UK: Alibi HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10605.ts
-#EXTINF:-1,UK: Comedy Centeral HD1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10604.ts
-#EXTINF:-1,UK: Dave HD1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10603.ts
-#EXTINF:-1,UK: Good Food HD1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10602.ts
-#EXTINF:-1,UK: CBBC FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/23887.ts
-#EXTINF:-1,UK :TLC FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/17068.ts
-#EXTINF:-1,BBC Four FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28441.ts
-#EXTINF:-1,BBC NEWS FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28440.ts
-#EXTINF:-1,BBC One FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28439.ts
-#EXTINF:-1,BBC Two FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28435.ts
-#EXTINF:-1,CBBC FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28434.ts
-#EXTINF:-1,UK: STV FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/29262.ts
-#EXTINF:-1,4 SevenHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/38898.ts
-#EXTINF:-1,UK BBC 1 hd
-http://vmdirect.co.uk:5001/live/sharon/sharon/1368.ts
-#EXTINF:-1,UK BBC 2
-http://vmdirect.co.uk:5001/live/sharon/sharon/1367.ts
-#EXTINF:-1,UK BBC 3
-http://vmdirect.co.uk:5001/live/sharon/sharon/1366.ts
-#EXTINF:-1,UK BBC 4
-http://vmdirect.co.uk:5001/live/sharon/sharon/1365.ts
-#EXTINF:-1,UK ITV
-http://vmdirect.co.uk:5001/live/sharon/sharon/1364.ts
-#EXTINF:-1,UK ITV 2
-http://vmdirect.co.uk:5001/live/sharon/sharon/1363.ts
-#EXTINF:-1,UK ITV 3
-http://vmdirect.co.uk:5001/live/sharon/sharon/1362.ts
-#EXTINF:-1,UK ITV 4
-http://vmdirect.co.uk:5001/live/sharon/sharon/1361.ts
-#EXTINF:-1,UK CHANNEL 4
-http://vmdirect.co.uk:5001/live/sharon/sharon/1339.ts
-#EXTINF:-1,UK CHANNEL 5
-http://vmdirect.co.uk:5001/live/sharon/sharon/1340.ts
-#EXTINF:-1,RTE 1
-http://vmdirect.co.uk:5001/live/sharon/sharon/214.ts
-#EXTINF:-1,RTE 2
-http://vmdirect.co.uk:5001/live/sharon/sharon/215.ts
-#EXTINF:-1,TV3
-http://vmdirect.co.uk:5001/live/sharon/sharon/45.ts
-#EXTINF:-1,RTE One HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/206.ts
-#EXTINF:-1,RTE Two HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/205.ts
-#EXTINF:-1,3E IRELAND
-http://vmdirect.co.uk:5001/live/sharon/sharon/204.ts
-#EXTINF:-1,3E Ireland FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/28270.ts
-#EXTINF:-1,Be 3 FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/6111.ts
-#EXTINF:-1,UTV CHANNEL
-http://vmdirect.co.uk:5001/live/sharon/sharon/202.ts
-#EXTINF:-1,TLC
-http://vmdirect.co.uk:5001/live/sharon/sharon/169.ts
-#EXTINF:-1,SyFy USA
-http://vmdirect.co.uk:5001/live/sharon/sharon/3332.ts
-#EXTINF:-1,sky living HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/3321.ts
-#EXTINF:-1,5 star
-http://vmdirect.co.uk:5001/live/sharon/sharon/193.ts
-#EXTINF:-1,Alibi
-http://vmdirect.co.uk:5001/live/sharon/sharon/171.ts
-#EXTINF:-1,Comedy Central
-http://vmdirect.co.uk:5001/live/sharon/sharon/180.ts
-#EXTINF:-1,Comedy Xtra
-http://vmdirect.co.uk:5001/live/sharon/sharon/179.ts
-#EXTINF:-1,Dave
-http://vmdirect.co.uk:5001/live/sharon/sharon/177.ts
-#EXTINF:-1,Dave Ja Vu
-http://vmdirect.co.uk:5001/live/sharon/sharon/13.ts
-#EXTINF:-1,E!
-http://vmdirect.co.uk:5001/live/sharon/sharon/43.ts
-#EXTINF:-1,Five USA.
-http://vmdirect.co.uk:5001/live/sharon/sharon/191.ts
-#EXTINF:-1,Food Network
-http://vmdirect.co.uk:5001/live/sharon/sharon/170.ts
-#EXTINF:-1,FOX
-http://vmdirect.co.uk:5001/live/sharon/sharon/176.ts
-#EXTINF:-1,G.O.L.D.
-http://vmdirect.co.uk:5001/live/sharon/sharon/175.ts
-#EXTINF:-1,ITV Encore
-http://vmdirect.co.uk:5001/live/sharon/sharon/41.ts
-#EXTINF:-1,Lifetime HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/165.ts
-#EXTINF:-1,More 4
-http://vmdirect.co.uk:5001/live/sharon/sharon/190.ts
-#EXTINF:-1,Sky 1
-http://vmdirect.co.uk:5001/live/sharon/sharon/185.ts
-#EXTINF:-1,Sky 2
-http://vmdirect.co.uk:5001/live/sharon/sharon/184.ts
-#EXTINF:-1,Sky Arts
-http://vmdirect.co.uk:5001/live/sharon/sharon/181.ts
-#EXTINF:-1,Sky Atlantic
-http://vmdirect.co.uk:5001/live/sharon/sharon/182.ts
-#EXTINF:-1,Sky Living
-http://vmdirect.co.uk:5001/live/sharon/sharon/183.ts
-#EXTINF:-1,Spike
-http://vmdirect.co.uk:5001/live/sharon/sharon/174.ts
-#EXTINF:-1,SyFy
-http://vmdirect.co.uk:5001/live/sharon/sharon/172.ts
-#EXTINF:-1,TG4
-http://vmdirect.co.uk:5001/live/sharon/sharon/203.ts
-#EXTINF:-1,True Entertainment
-http://vmdirect.co.uk:5001/live/sharon/sharon/164.ts
-#EXTINF:-1,Universal
-http://vmdirect.co.uk:5001/live/sharon/sharon/44.ts
-#EXTINF:-1,Watch
-http://vmdirect.co.uk:5001/live/sharon/sharon/173.ts
-#EXTINF:-1,UK E4
-http://vmdirect.co.uk:5001/live/sharon/sharon/1360.ts
-#EXTINF:-1,Real Lives
-http://vmdirect.co.uk:5001/live/sharon/sharon/187.ts
-#EXTINF:-1,Pick TV
-http://vmdirect.co.uk:5001/live/sharon/sharon/189.ts
-#EXTINF:-1,Yesterday
-http://vmdirect.co.uk:5001/live/sharon/sharon/188.ts
-#EXTINF:-1,Quest
-http://vmdirect.co.uk:5001/live/sharon/sharon/178.ts
-#EXTINF:-1,CBS Action
-http://vmdirect.co.uk:5001/live/sharon/sharon/167.ts
-#EXTINF:-1,CBS Drama
-http://vmdirect.co.uk:5001/live/sharon/sharon/166.ts
-#EXTINF:-1,CBS Reality
-http://vmdirect.co.uk:5001/live/sharon/sharon/168.ts
-#EXTINF:-1,UK TRUE DRAMA
-http://vmdirect.co.uk:5001/live/sharon/sharon/1346.ts
-#EXTINF:-1,UK TRUE MOVIES 2
-http://vmdirect.co.uk:5001/live/sharon/sharon/1348.ts
-#EXTINF:-1,MTV
-http://vmdirect.co.uk:5001/live/sharon/sharon/66.ts
-#EXTINF:-1,UK: 5 STAR  1
-http://vmdirect.co.uk:5001/live/sharon/sharon/6459.ts
-#EXTINF:-1,UK: 5 USA  plus 1
-http://vmdirect.co.uk:5001/live/sharon/sharon/6458.ts
-#EXTINF:-1,UK: AMC
-http://vmdirect.co.uk:5001/live/sharon/sharon/6457.ts
-#EXTINF:-1,CBS
-http://vmdirect.co.uk:5001/live/sharon/sharon/6409.ts
-#EXTINF:-1,UK: HORROR CHANNEL
-http://vmdirect.co.uk:5001/live/sharon/sharon/6452.ts
-#EXTINF:-1,UK: HORROR CHANNEL  1
-http://vmdirect.co.uk:5001/live/sharon/sharon/6451.ts
-#EXTINF:-1,UK: HORSE & COUNTRY
-http://vmdirect.co.uk:5001/live/sharon/sharon/6450.ts
-#EXTINF:-1,UK: Movies 24
-http://vmdirect.co.uk:5001/live/sharon/sharon/3923.ts
-#EXTINF:-1,UK: TRUE MOVIES
-http://vmdirect.co.uk:5001/live/sharon/sharon/6443.ts
-#EXTINF:-1,UK :ITV BE
-http://vmdirect.co.uk:5001/live/sharon/sharon/9683.ts
-#EXTINF:-1,UK: s4c Channel
-http://vmdirect.co.uk:5001/live/sharon/sharon/37908.ts
-#EXTINF:-1,UK FHD : TG 4 FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84853.ts
-#EXTINF:-1,UK FHD : UTV FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84852.ts
-#EXTINF:-1,UK FHD : RTE ONE HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84848.ts
-#EXTINF:-1,UK FHD : RTE TWO HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84847.ts
-#EXTINF:-1,UK :RTE 1 HD1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10596.ts
-#EXTINF:-1,RTE 2 HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/38486.ts
-#EXTINF:-1,TG4 FHD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/38487.ts
-#EXTINF:-1,UK FHD : SKY CINEMA ACTION FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84846.ts
-#EXTINF:-1,UK FHD : SKY CINEMA ANIMATION FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84843.ts
-#EXTINF:-1,UK FHD : SKY CINEMA COMEDY FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84845.ts
-#EXTINF:-1,UK FHD : SKY CINEMA DISNEY FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84844.ts
-#EXTINF:-1,UK FHD : SKY CINEMA GREATS FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84842.ts
-#EXTINF:-1,UK FHD : SKY CINEMA PREMIER FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84841.ts
-#EXTINF:-1,UK FHD : SKY CINEMA SELECT FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84839.ts
-#EXTINF:-1,UK FHD : SKY CINEMA SCI-FI FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84840.ts
-#EXTINF:-1,UK FHD : SKY CINEMA THRILLER FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84838.ts
-#EXTINF:-1,SKY  DRAMA FHD
-http://vmdirect.co.uk:5001/live/sharon/sharon/84880.ts
-#EXTINF:-1,Sky Cinema Action & Adventure HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10542.ts
-#EXTINF:-1,Sky Cinema Comedy HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10541.ts
-#EXTINF:-1,Sky Cinema Crime & Thriller HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10540.ts
-#EXTINF:-1,Sky Cinema Disney HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10539.ts
-#EXTINF:-1,Sky Cinema Drama & Romance HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10538.ts
-#EXTINF:-1,Sky Cinema Family HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10537.ts
-#EXTINF:-1,Sky Cinema Greats HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10536.ts
-#EXTINF:-1,Sky Cinema Hits HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10535.ts
-#EXTINF:-1,Sky Cinema Premiere HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10534.ts
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10533.ts
-#EXTINF:-1,Sky Cinema Select HD 1080*
-http://vmdirect.co.uk:5001/live/sharon/sharon/10532.ts
-#EXTINF:-1,Sky Movies Premiere
-http://vmdirect.co.uk:5001/live/sharon/sharon/134.ts
-#EXTINF:-1,Sky Movies Premiere plus  1
-http://vmdirect.co.uk:5001/live/sharon/sharon/133.ts
-#EXTINF:-1,Sky Movies Premiere HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/132.ts
-#EXTINF:-1,Sky Movies Action and Adventure
-http://vmdirect.co.uk:5001/live/sharon/sharon/117.ts
-#EXTINF:-1,Sky Movies Action and Adventure HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/116.ts
-#EXTINF:-1,Sky Movies Comedy
-http://vmdirect.co.uk:5001/live/sharon/sharon/119.ts
-#EXTINF:-1,Sky Movies Comedy HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/118.ts
-#EXTINF:-1,Sky Movies Crime and Thriller
-http://vmdirect.co.uk:5001/live/sharon/sharon/131.ts
-#EXTINF:-1,Sky Movies Crime and Thriller HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/130.ts
-#EXTINF:-1,Sky Movies Disney
-http://vmdirect.co.uk:5001/live/sharon/sharon/123.ts
-#EXTINF:-1,Sky Movies Disney HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/122.ts
-#EXTINF:-1,Sky Movies Drama and Romance
-http://vmdirect.co.uk:5001/live/sharon/sharon/113.ts
-#EXTINF:-1,Sky Movies Drama and Romance HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/112.ts
-#EXTINF:-1,Sky Movies Family
-http://vmdirect.co.uk:5001/live/sharon/sharon/125.ts
-#EXTINF:-1,Sky Movies Family HD
-http://vmdirect.co.uk:5001/live/sharon/sharon/124.ts
+
 #EXTINF:-1,Sky Movies Modern Greats
 http://vmdirect.co.uk:5001/live/sharon/sharon/127.ts
 #EXTINF:-1,Sky Movies Modern Greats HD
@@ -4298,27 +2124,25 @@ http://vmdirect.co.uk:5001/live/Errol/Errol/95.ts
 http://vmdirect.co.uk:5001/live/Errol/Errol/94.ts 
 #EXTINF:-1,Sky Sports F1 
 http://vmdirect.co.uk:5001/live/Errol/Errol/93.ts 
-#EXTINF:-1,Sky sports F1 HD 
+HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/92.ts 
-#EXTINF:-1,Sports Football HD 
+HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/233.ts 
-#EXTINF:-1,sports news HQ HD 
+HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/236.ts 
-#EXTINF:-1,Sky Sports Arena HD 
+HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/232.ts 
-#EXTINF:-1,sky sports football 
+football 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3322.ts 
-#EXTINF:-1,sky sports arena 
+arena 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3323.ts 
-#EXTINF:-1,Box Nation 
+Nation 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72.ts 
-#EXTINF:-1,BT Sport / ESPN 
 http://vmdirect.co.uk:5001/live/Errol/Errol/81.ts 
 #EXTINF:-1,BT Sport / ESPN HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/80.ts 
-#EXTINF:-1,BT Sport 1 HD 
+#EXTINF:-1,BT HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/86.ts 
-#EXTINF:-1,BT Sport 2 HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84.ts 
 #EXTINF:-1,BT Sports 3 HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/82.ts 
@@ -4392,57 +2216,56 @@ http://vmdirect.co.uk:5001/live/Errol/Errol/78.ts
 http://vmdirect.co.uk:5001/live/Errol/Errol/36.ts 
 #EXTINF:-1,BT Sport Extra 4 
 http://vmdirect.co.uk:5001/live/Errol/Errol/35.ts 
-#EXTINF:-1,BT Sport Extra 5 
+#EXTINF:-1,BT 5 
 http://vmdirect.co.uk:5001/live/Errol/Errol/34.ts 
-#EXTINF:-1,BT Sport Extra 6 
+6 
 http://vmdirect.co.uk:5001/live/Errol/Errol/33.ts 
-#EXTINF:-1,PREMIER SPORTS FHD 
+FHD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84879.ts 
-#EXTINF:-1,Sky Sports Red Button 1 
+1 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84895.ts 
-#EXTINF:-1,Sky Sports Red Button 2 
+2 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84896.ts 
-#EXTINF:-1,Sky Sports Red Button 3 
+3 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84897.ts 
-#EXTINF:-1,Sky Sports Red Button 4 
+4 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84898.ts 
-#EXTINF:-1,Sky Sports Red Button 5 
+5 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84899.ts 
-#EXTINF:-1,Sky Sports Red Button 6 
+6 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84900.ts 
-#EXTINF:-1,Sky Sports Red Button 7 
+7 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84901.ts 
-#EXTINF:-1,Sky Sports Red Button 8 
+8 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84902.ts 
-#EXTINF:-1,Sky Sports Red Button 9 
+9 
 http://vmdirect.co.uk:5001/live/Errol/Errol/84903.ts 
-#EXTINF:-1,BEIN SPORT 11 HD 
+HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/47.ts 
-#EXTINF:-1,BEIN SPORT 12 HD 
+HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/46.ts 
-#EXTINF:-1,TSN 1 
+1 
 http://vmdirect.co.uk:5001/live/Errol/Errol/52.ts 
-#EXTINF:-1,TSN 2 
+2 
 http://vmdirect.co.uk:5001/live/Errol/Errol/51.ts 
-#EXTINF:-1,TSN 3 
+3 
 http://vmdirect.co.uk:5001/live/Errol/Errol/50.ts 
-#EXTINF:-1,TSN 4 
+4 
 http://vmdirect.co.uk:5001/live/Errol/Errol/49.ts 
-#EXTINF:-1,TSN 5 
+5 
 http://vmdirect.co.uk:5001/live/Errol/Errol/48.ts 
-#EXTINF:-1,USA FOX Sport 1 
+1 
 http://vmdirect.co.uk:5001/live/Errol/Errol/222.ts 
-#EXTINF:-1,USA FOX Sport 2 
-http://vmdirect.co.uk:5001/live/Errol/Errol/221.ts 
+tp://vmdirect.co.uk:5001/live/Errol/Errol/221.ts 
 #EXTINF:-1,nbc sport 
 http://vmdirect.co.uk:5001/live/Errol/Errol/220.ts 
 #EXTINF:-1,MIO eleven 
 http://vmdirect.co.uk:5001/live/Errol/Errol/227.ts 
-#EXTINF:-1,Sports NET 360 HD 
+#E0 HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/224.ts 
 #EXTINF:-1,Sports NET EPL 
 http://vmdirect.co.uk:5001/live/Errol/Errol/223.ts 
-#EXTINF:-1,Sports NET ontario EPL 
+#EXTINF:-1,Sports EPL 
 http://vmdirect.co.uk:5001/live/Errol/Errol/225.ts 
 #EXTINF:-1,Sports NET World EPL 
 http://vmdirect.co.uk:5001/live/Errol/Errol/226.ts 
@@ -4458,38 +2281,36 @@ http://vmdirect.co.uk:5001/live/Errol/Errol/1397.ts
 http://vmdirect.co.uk:5001/live/Errol/Errol/3316.ts 
 #EXTINF:-1,osn box office 2 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3317.ts 
-#EXTINF:-1,osn box office 3 
+3 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3318.ts 
-#EXTINF:-1,Arena Sport 5 
+5 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3328.ts 
-#EXTINF:-1,arena sports 1 
+1 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3324.ts 
-#EXTINF:-1,Arena Sports 2 
+2 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3325.ts 
-#EXTINF:-1,Arena Sports 3 
+3 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3326.ts 
-#EXTINF:-1,Arena Sports 4 
+4 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3327.ts 
-#EXTINF:-1,BRAVO USA 
+USA 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3331.ts 
-#EXTINF:-1,National Geographic USA 
+USA 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3333.ts 
-#EXTINF:-1,USA: Fox News US 
+US 
 http://vmdirect.co.uk:5001/live/Errol/Errol/6805.ts 
-#EXTINF:-1,AR : Bein Sports 1 
+1 
 http://vmdirect.co.uk:5001/live/Errol/Errol/243.ts 
-#EXTINF:-1,AR : Bein Sports 10 
+10 
 http://vmdirect.co.uk:5001/live/Errol/Errol/252.ts 
-#EXTINF:-1,AR : Bein Sports 2 
+
 http://vmdirect.co.uk:5001/live/Errol/Errol/244.ts 
-#EXTINF:-1,AR : Bein Sports 3 
+
 http://vmdirect.co.uk:5001/live/Errol/Errol/245.ts 
-#EXTINF:-1,AR : Bein Sports 4 
 http://vmdirect.co.uk:5001/live/Errol/Errol/246.ts 
-#EXTINF:-1,AR : Bein Sports 5 
+5 
 http://vmdirect.co.uk:5001/live/Errol/Errol/247.ts 
-#EXTINF:-1,AR : Bein Sports 6 
-http://vmdirect.co.uk:5001/live/Errol/Errol/248.ts 
+t.co.uk:5001/live/Errol/Errol/248.ts 
 #EXTINF:-1,AR : Bein Sports 7 
 http://vmdirect.co.uk:5001/live/Errol/Errol/249.ts 
 #EXTINF:-1,AR : Bein Sports 8 
@@ -4548,55 +2369,52 @@ http://vmdirect.co.uk:5001/live/Errol/Errol/242.ts
 http://vmdirect.co.uk:5001/live/Errol/Errol/3168.ts 
 #EXTINF:-1,SR: Sport Klub 2 HD HR 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3167.ts 
-#EXTINF:-1,SR: Sport Klub 3 HD HR 
+#EXTINF:-1,SR: Sport Klub 3 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3166.ts 
 #EXTINF:-1,SR: Sport Klub 4 HR 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3165.ts 
-#EXTINF:-1,SR: Sport Klub 5 HR 
+#EXTINF:-1,SR: Sport HR 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3164.ts 
-#EXTINF:-1,SR: Sport Klub 6 HR 
-http://vmdirect.co.uk:5001/live/Errol/Errol/3163.ts 
-#EXTINF:-1,SR: Sport Klub HD 
+HR 
+HD 
+
 http://vmdirect.co.uk:5001/live/Errol/Errol/3162.ts 
-#EXTINF:-1,Super Sport 2 HD 
+HD 
 http://vmdirect.co.uk:5001/live/Errol/Errol/3501.ts 
-#EXTINF:-1,Astro Supersport 4 
+4 
 http://vmdirect.co.uk:5001/live/Errol/Errol/9800.ts 
-#EXTINF:-1,Astro Supersports 1 
 http://vmdirect.co.uk:5001/live/Errol/Errol/9797.ts 
-#EXTINF:-1,Astro Supersports 2 
+
+2 
 http://vmdirect.co.uk:5001/live/Errol/Errol/9798.ts 
-#EXTINF:-1,Astro Supersports 3 
+3 
 http://vmdirect.co.uk:5001/live/Errol/Errol/9799.ts 
-#EXTINF:-1,EPL 01 
+01 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72084.ts 
-#EXTINF:-1,EPL 02 
+02 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72083.ts 
-#EXTINF:-1,EPL 03 
+03 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72082.ts 
-#EXTINF:-1,EPL 04 
-http://vmdirect.co.uk:5001/live/Errol/Errol/72081.ts 
-#EXTINF:-1,EPL 05 
-http://vmdirect.co.uk:5001/live/Errol/Errol/72080.ts 
+04 
+72080.ts 
 #EXTINF:-1,EPL 06 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72079.ts 
 #EXTINF:-1,EPL 07 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72078.ts 
 #EXTINF:-1,EPL 08 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72077.ts 
-#EXTINF:-1,EPL 09 
+09 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72076.ts 
 #EXTINF:-1,EPL 10 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72075.ts 
 #EXTINF:-1,EFL 01 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72096.ts 
-#EXTINF:-1,EFL 02 
+02 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72095.ts 
 #EXTINF:-1,EFL 03 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72094.ts 
-#EXTINF:-1,EFL 04 
+04 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72093.ts 
-#EXTINF:-1,EFL 05 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72092.ts 
 #EXTINF:-1,EFL 06 
 http://vmdirect.co.uk:5001/live/Errol/Errol/72091.ts 
@@ -4675,95 +2493,91 @@ http://m-iptv.net:6204/marwan/123/188
 http://m-iptv.net:6204/marwan/123/189 
 #EXTINF:-1,Bein Sport HD13 EN 1080i 
 http://m-iptv.net:6204/marwan/123/1694 
-#EXTINF:-1,Bein Sport HD14 Fr 1080i 
+#EXTINF:-1,Bein Sport 1080i 
 http://m-iptv.net:6204/marwan/123/2555 
-#EXTINF:-1,Bein Sport HD15 Fr 1080i 
+1080i 
 http://m-iptv.net:6204/marwan/123/4763 
-#EXTINF:-1,Bein Sport HD16 Fr 1080i 
+1080i 
 http://m-iptv.net:6204/marwan/123/4762 
-#EXTINF:-1,Bein Sport HD17 ES 1080i 
+1080i 
 http://m-iptv.net:6204/marwan/123/4761 
-#EXTINF:-1,Bein Sport NBA HD 
+HD 
 http://m-iptv.net:6204/marwan/123/6434 
-#EXTINF:-1,Bein Sport HD1 720P 
+720P 
 http://m-iptv.net:6204/marwan/123/9022 
-#EXTINF:-1,Bein Sport HD2 720P 
+720P 
 http://m-iptv.net:6204/marwan/123/9021 
-#EXTINF:-1,Bein Sport HD3 720P 
+720P 
 http://m-iptv.net:6204/marwan/123/9020 
-#EXTINF:-1,Bein Sport HD4 720P 
+720P 
 http://m-iptv.net:6204/marwan/123/9019 
-#EXTINF:-1,Bein Sport HD5 720P 
+720P 
 http://m-iptv.net:6204/marwan/123/9018 
-#EXTINF:-1,Bein Sport HD6 720P 
-http://m-iptv.net:6204/marwan/123/9017 
-#EXTINF:-1,Bein Sport HD7 720P 
-http://m-iptv.net:6204/marwan/123/9016 
-#EXTINF:-1,Bein Sport HD8 720P 
-http://m-iptv.net:6204/marwan/123/9015 
-#EXTINF:-1,Bein Sport HD9 720P 
+720P 
+http:720P 
+
+http://m-iptv.net:6206 
+720P 
+/123/9015 
+720P 
 http://m-iptv.net:6204/marwan/123/9014 
-#EXTINF:-1,Bein Sport HD10 720P 
-http://m-iptv.net:6204/marwan/123/9013 
-#EXTINF:-1,Bein Sport HD11 EN 720P 
+t:6204/marwan/123/9013 
+
+720P 
 http://m-iptv.net:6204/marwan/123/9012 
-#EXTINF:-1,bein Sport SD1 
+SD1 
 http://m-iptv.net:6204/marwan/123/1913 
-#EXTINF:-1,Bein Sport SD2 
-http://m-iptv.net:6204/marwan/123/1914 
-#EXTINF:-1,Bein Sport SD3 
+SD2 
+
 http://m-iptv.net:6204/marwan/123/1915 
-#EXTINF:-1,Bein Sport SD4 
-http://m-iptv.net:6204/marwan/123/1916 
-#EXTINF:-1,Bein Sport SD5 
-http://m-iptv.net:6204/marwan/123/1917 
+SD4 
+1917 
 #EXTINF:-1,Bein Sport SD6 
 http://m-iptv.net:6204/marwan/123/1918 
 #EXTINF:-1,Bein Sport SD7 
 http://m-iptv.net:6204/marwan/123/1919 
-#EXTINF:-1,Bein Sport SD8 
+SD8 
 http://m-iptv.net:6204/marwan/123/1920 
 #EXTINF:-1,Bein Sport SD9 
 http://m-iptv.net:6204/marwan/123/1921 
-#EXTINF:-1,Bein Sport SD10 
+SD10 
 http://m-iptv.net:6204/marwan/123/1922 
-#EXTINF:-1,Bein Sport SD11 
+SD11 
 http://m-iptv.net:6204/marwan/123/1923 
-#EXTINF:-1,Bein Alkass 1 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/7045 
-#EXTINF:-1,Bein Alkass 2 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/7046 
-#EXTINF:-1,Bein Alkass 3 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/7047 
-#EXTINF:-1,Bein Alkass 4 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/7048 
-#EXTINF:-1,Bein Alkass 5 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/7049 
-#EXTINF:-1,Bein Alkass 6 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/7050 
-#EXTINF:-1,Tr- Bein Sport 1 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/11182 
-#EXTINF:-1,Tr- Bein Sport 2 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/2003 
-#EXTINF:-1,Tr- Bein Sport 3 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/11181 
-#EXTINF:-1,Tr- Bein Sport 4 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/11180 
-#EXTINF:-1,Tr- beIN Sport MAX 1 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/11179 
-#EXTINF:-1,Tr- beIN Sport MAX 2 HD 
+HD 
 http://m-iptv.net:6204/marwan/123/11178 
-#EXTINF:-1,Tr- beIN Sport 1 HD Backup 
+Backup 
 http://m-iptv.net:6204/marwan/123/13034 
-#EXTINF:-1,Tr- beIN Sport 2 HD Backup 
+Backup 
 http://m-iptv.net:6204/marwan/123/13033 
-#EXTINF:-1,Tr- Bein Sport 3 HD Backup 
+Backup 
 http://m-iptv.net:6204/marwan/123/13030 
-#EXTINF:-1,Tr- beIN Sport 4 HD Backup 
+Backup 
 http://m-iptv.net:6204/marwan/123/14026 
-#EXTINF:-1,Tr- beIN Sport MAX 1 HD Backup 
+Backup 
 http://m-iptv.net:6204/marwan/123/14028
 
-#EXTINF:-1,Tr- beIN Sports MAX 2 HD Backup
+Backup
 
-http://m-iptv.net:6204/mar
